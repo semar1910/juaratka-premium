@@ -1,0 +1,223 @@
+{
+  "versi": "1.6.3",
+  "dibuat": "2026-10-05",
+  "materi": {
+    "indonesia": [
+      {
+        "id": "strategi-baca",
+        "title": "Strategi Baca Teks Panjang",
+        "gratis": true
+      },
+      {
+        "id": "kosakata-konteks",
+        "title": "Kosakata dalam Konteks",
+        "gratis": false
+      },
+      {
+        "id": "informasi-tersurat",
+        "title": "Mencari Informasi Tersurat",
+        "gratis": false
+      },
+      {
+        "id": "ikhtisar-bagan",
+        "title": "Menyusun Kembali & Ikhtisar",
+        "gratis": false
+      },
+      {
+        "id": "ide-pokok",
+        "title": "Ide Pokok & Gagasan Pendukung",
+        "gratis": true
+      },
+      {
+        "id": "unsur-cerita",
+        "title": "Unsur Cerita Fiksi",
+        "gratis": false
+      },
+      {
+        "id": "perubahan-cerita",
+        "title": "Perubahan Tokoh, Latar & Objek",
+        "gratis": false
+      },
+      {
+        "id": "makna-ungkapan",
+        "title": "Makna Ungkapan & Peribahasa",
+        "gratis": false
+      },
+      {
+        "id": "menilai-teks",
+        "title": "Menilai & Menyimpulkan Teks",
+        "gratis": false
+      },
+      {
+        "id": "respons-emosi",
+        "title": "Respons Emosi terhadap Cerita",
+        "gratis": false
+      }
+    ],
+    "matematika": [
+      {
+        "id": "nilai-tempat",
+        "title": "Nilai Tempat Bilangan",
+        "gratis": true
+      },
+      {
+        "id": "penjumlahan-pengurangan",
+        "title": "Penjumlahan & Pengurangan",
+        "gratis": false
+      },
+      {
+        "id": "perkalian-pembagian",
+        "title": "Perkalian & Pembagian",
+        "gratis": false
+      },
+      {
+        "id": "konversi-satuan",
+        "title": "Konversi Satuan",
+        "gratis": false
+      },
+      {
+        "id": "operasi-pecahan",
+        "title": "Operasi Pecahan",
+        "gratis": false
+      },
+      {
+        "id": "pecahan-desimal-persen",
+        "title": "Pecahan, Desimal, dan Persen",
+        "gratis": false
+      },
+      {
+        "id": "membaca-soal-cerita",
+        "title": "Membaca Soal Cerita",
+        "gratis": false
+      },
+      {
+        "id": "pecahan-senilai",
+        "title": "Pecahan Senilai",
+        "gratis": false
+      },
+      {
+        "id": "satuan-panjang",
+        "title": "Satuan Panjang",
+        "gratis": false
+      },
+      {
+        "id": "bangun-datar",
+        "title": "Bangun Datar",
+        "gratis": true
+      },
+      {
+        "id": "kpk-fpb",
+        "title": "KPK dan FPB",
+        "gratis": false
+      },
+      {
+        "id": "kecepatan-jarak-waktu",
+        "title": "Kecepatan, Jarak, dan Waktu",
+        "gratis": true
+      },
+      {
+        "id": "waktu-jam",
+        "title": "Waktu dan Jam",
+        "gratis": false
+      },
+      {
+        "id": "penaksiran-ukuran",
+        "title": "Penaksiran Ukuran",
+        "gratis": false
+      },
+      {
+        "id": "skala",
+        "title": "Skala",
+        "gratis": false
+      },
+      {
+        "id": "volume-ruang",
+        "title": "Volume Bangun Ruang",
+        "gratis": false
+      },
+      {
+        "id": "visualisasi-bangun-ruang",
+        "title": "Visualisasi Bangun Ruang",
+        "gratis": false
+      },
+      {
+        "id": "sudut",
+        "title": "Sudut",
+        "gratis": false
+      },
+      {
+        "id": "membaca-diagram",
+        "title": "Membaca Diagram",
+        "gratis": false
+      },
+      {
+        "id": "rata-rata-mean-median-modus",
+        "title": "Rata-rata: Mean, Median, Modus",
+        "gratis": false
+      },
+      {
+        "id": "menyajikan-data",
+        "title": "Menyajikan dan Menyimpulkan Data",
+        "gratis": false
+      }
+    ]
+  },
+  "latihan": {
+    "indonesia": {
+      "evaluasi": {
+        "total": 70,
+        "gratis": 0
+      },
+      "inferensial": {
+        "total": 135,
+        "gratis": 35
+      },
+      "tekstual": {
+        "total": 125,
+        "gratis": 30
+      }
+    },
+    "matematika": {
+      "bilangan": {
+        "total": 220,
+        "gratis": 30
+      },
+      "data": {
+        "total": 66,
+        "gratis": 0
+      },
+      "geometri": {
+        "total": 129,
+        "gratis": 30
+      },
+      "pengukuran": {
+        "total": 158,
+        "gratis": 30
+      }
+    }
+  },
+  "tryout": [],
+  "koleksi": {
+    "game": [
+      {
+        "title": "Kebut Perkalian"
+      }
+    ],
+    "lab": [
+      {
+        "title": "Juragan Junior"
+      },
+      {
+        "title": "Detektif Udara"
+      },
+      {
+        "title": "Petualangan Pencernaan"
+      }
+    ],
+    "baca": [
+      {
+        "title": "Cerita Rakyat Nusantara"
+      }
+    ]
+  }
+}
