@@ -1,0 +1,85 @@
+<svg viewBox="0 0 900 780" xmlns="http://www.w3.org/2000/svg" font-family="Poppins, sans-serif">
+<style>
+.fx{transform-box:fill-box;transform-origin:center}
+.kiri{transform-origin:left center}
+.penunjuk{visibility:hidden}
+.kini .penunjuk{visibility:visible}
+.kini .pop{animation:pop .6s cubic-bezier(.3,1.6,.5,1) both}
+.kini .drop{animation:drop .55s ease-out both}
+.kini .tumbuh{animation:tumbuh .9s ease-out both}
+.kini .muncul{animation:muncul .5s ease-out both}
+.kini .garis{stroke-dasharray:900;animation:garis .9s ease-out both}
+.kini .kedut{animation:kedut .45s ease-in-out 3}
+.kini .sorot{animation:kedut .45s ease-in-out 3,sorot .45s ease-in-out 3}
+.kini .cincin{animation:cincin .7s ease-in-out 5}
+.kini .alir{animation:muncul .3s ease-out both,alir .5s linear 8}
+@keyframes pop{0%{opacity:0;transform:scale(.3)}100%{opacity:1;transform:scale(1)}}
+@keyframes drop{0%{opacity:0;transform:translateY(-60px)}70%{opacity:1;transform:translateY(6px)}100%{opacity:1;transform:translateY(0)}}
+@keyframes tumbuh{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes muncul{from{opacity:0}to{opacity:1}}
+@keyframes garis{from{stroke-dashoffset:900}to{stroke-dashoffset:0}}
+@keyframes kedut{0%,100%{transform:scale(1)}50%{transform:scale(1.22)}}
+@keyframes sorot{50%{fill:#E53935}}
+@keyframes cincin{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(1.07);opacity:.45}}
+@keyframes alir{from{stroke-dashoffset:36}to{stroke-dashoffset:0}}
+</style>
+
+<!-- Tahap 0: pita Diketahui -->
+<g id="tahap0">
+  <rect x="30" y="16" width="470" height="70" rx="35" fill="#1E88E5"/>
+  <text x="265" y="63" text-anchor="middle" font-size="28" font-weight="700" fill="#fff">Balok 20 × 10 × 8 cm</text>
+  <rect x="520" y="16" width="350" height="70" rx="35" fill="#EF6C00"/>
+  <text x="695" y="63" text-anchor="middle" font-size="28" font-weight="700" fill="#fff">Kubus sisi 6 cm</text>
+</g>
+
+<!-- Tahap 1: volume balok -->
+<g id="tahap1">
+  <g class="fx pop" style="animation-delay:0.2s">
+    <polygon points="230,356 590,356 590,500 230,500" fill="#90CAF9" stroke="#1565C0" stroke-width="3" stroke-linejoin="round"/>
+    <polygon points="230,356 590,356 680,301 320,301" fill="#BBDEFB" stroke="#1565C0" stroke-width="3" stroke-linejoin="round"/>
+    <polygon points="590,356 680,301 680,445 590,500" fill="#64B5F6" stroke="#1565C0" stroke-width="3" stroke-linejoin="round"/>
+  </g>
+  <path class="garis" style="animation-delay:0.6s" d="M230 520 V540 M230 530 H590 M590 520 V540" fill="none" stroke="#1565C0" stroke-width="4" stroke-linecap="round"/>
+  <text class="muncul" style="animation-delay:1.0s" x="410" y="572" text-anchor="middle" font-size="26" font-weight="700" fill="#1565C0">20 cm</text>
+  <path class="garis" style="animation-delay:0.8s" d="M200 356 H220 M210 356 V500 M200 500 H220" fill="none" stroke="#1565C0" stroke-width="4" stroke-linecap="round"/>
+  <text class="muncul" style="animation-delay:1.2s" x="190" y="438" text-anchor="end" font-size="26" font-weight="700" fill="#1565C0">8 cm</text>
+  <path class="garis" style="animation-delay:1.0s" d="M612 510 L702 455" fill="none" stroke="#1565C0" stroke-width="4" stroke-linecap="round"/>
+  <text class="muncul" style="animation-delay:1.4s" x="718" y="478" font-size="26" font-weight="700" fill="#1565C0">10 cm</text>
+  <text class="muncul" style="animation-delay:1.8s" x="60" y="665" font-size="28" font-weight="700" fill="#1565C0">Balok: 20 × 10 × 8 = 1.600 cm³</text>
+  <g class="penunjuk">
+    <rect class="fx cincin" x="23" y="9" width="484" height="84" rx="42" fill="none" stroke="#E53935" stroke-width="5"/>
+    <path class="alir" d="M 265 94 V160 H885 V430 H635" fill="none" stroke="#E53935" stroke-width="5" stroke-dasharray="10 8" stroke-linecap="round"/>
+    <circle class="fx pop" cx="265" cy="94" r="9" fill="#E53935"/>
+    <g class="fx pop" style="animation-delay:0.30s"><circle class="fx kedut" style="animation-delay:0.90s" cx="635" cy="430" r="12" fill="#E53935" stroke="#fff" stroke-width="3"/></g>
+  </g>
+</g>
+
+<!-- Tahap 2: volume kubus -->
+<g id="tahap2">
+  <g class="fx drop" style="animation-delay:0.2s">
+    <polygon points="320,345 428,345 428,237 320,237" fill="#FFCC80" stroke="#E65100" stroke-width="3" stroke-linejoin="round"/>
+    <polygon points="320,237 428,237 482,204 374,204" fill="#FFE0B2" stroke="#E65100" stroke-width="3" stroke-linejoin="round"/>
+    <polygon points="428,237 482,204 482,312 428,345" fill="#FFB74D" stroke="#E65100" stroke-width="3" stroke-linejoin="round"/>
+  </g>
+  <text class="muncul" style="animation-delay:0.9s" x="308" y="292" text-anchor="end" font-size="26" font-weight="700" fill="#E65100">6 cm</text>
+  <text class="muncul" style="animation-delay:1.4s" x="60" y="708" font-size="28" font-weight="700" fill="#E65100">Kubus: 6 × 6 × 6 = 216 cm³</text>
+  <g class="penunjuk">
+    <rect class="fx cincin" x="513" y="9" width="364" height="84" rx="42" fill="none" stroke="#E53935" stroke-width="5"/>
+    <path class="alir" d="M 695 94 V160 H885 V275 H455" fill="none" stroke="#E53935" stroke-width="5" stroke-dasharray="10 8" stroke-linecap="round"/>
+    <circle class="fx pop" cx="695" cy="94" r="9" fill="#E53935"/>
+    <g class="fx pop" style="animation-delay:0.30s"><circle class="fx kedut" style="animation-delay:0.90s" cx="455" cy="275" r="12" fill="#E53935" stroke="#fff" stroke-width="3"/></g>
+  </g>
+</g>
+
+<!-- Tahap 3: jumlahkan -->
+<g id="tahap3">
+  <g class="penunjuk">
+    <rect class="fx cincin" x="23" y="9" width="484" height="84" rx="42" fill="none" stroke="#E53935" stroke-width="5"/>
+    <rect class="fx cincin" x="513" y="9" width="364" height="84" rx="42" fill="none" stroke="#E53935" stroke-width="5"/>
+    <path class="alir" d="M 450 94 V160 H885 V741 H625" fill="none" stroke="#E53935" stroke-width="5" stroke-dasharray="10 8" stroke-linecap="round"/>
+    <circle class="fx pop" cx="450" cy="94" r="9" fill="#E53935"/>
+    <g class="fx pop" style="animation-delay:0.30s"><circle class="fx kedut" style="animation-delay:0.90s" cx="625" cy="741" r="12" fill="#E53935" stroke="#fff" stroke-width="3"/></g>
+  </g>
+  <text class="muncul" style="animation-delay:0.4s" x="60" y="751" font-size="30" font-weight="700" fill="#2E7D32">Total: 1.600 + 216 = 1.816 cm³</text>
+</g>
+</svg>
