@@ -1,6 +1,6 @@
 {
-  "versi": "1.6.3",
-  "dibuat": "2026-10-05",
+  "versi": "1.6.5",
+  "dibuat": "2026-10-07",
   "materi": {
     "indonesia": [
       {
@@ -196,7 +196,13 @@
       }
     }
   },
-  "tryout": [],
+  "tryout": [
+    {
+      "paket": 1,
+      "title": "Paket 1 TKA",
+      "gratis": true
+    }
+  ],
   "koleksi": {
     "game": [
       {
