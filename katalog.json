@@ -1,6 +1,6 @@
 {
   "versi": "1.6.8",
-  "dibuat": "2026-10-9",
+  "dibuat": "2026-10-09",
   "materi": {
     "indonesia": [
       {
@@ -200,7 +200,10 @@
     {
       "paket": 1,
       "title": "Paket 1 TKA",
-      "gratis": true
+      "gratis": true,
+      "matematika": 30,
+      "indonesia": 0,
+      "durasi": 75
     }
   ],
   "koleksi": {
