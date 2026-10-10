@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" font-family="Poppins, Arial, sans-serif">
+<style>
+.fx{transform-box:fill-box;transform-origin:center}
+.kiri{transform-origin:left center}
+.penunjuk{visibility:hidden}
+.kini .penunjuk{visibility:visible}
+.kini .pop{animation:pop .6s cubic-bezier(.3,1.6,.5,1) both}
+.kini .drop{animation:drop .55s ease-out both}
+.kini .tumbuh{animation:tumbuh .9s ease-out both}
+.kini .muncul{animation:muncul .5s ease-out both}
+.kini .garis{stroke-dasharray:900;animation:garis .9s ease-out both}
+.kini .kedut{animation:kedut .45s ease-in-out 3}
+.kini .sorot{animation:kedut .45s ease-in-out 3,sorot .45s ease-in-out 3}
+.kini .cincin{animation:cincin .7s ease-in-out 5}
+.kini .alir{animation:muncul .3s ease-out both,alir .5s linear 8}
+@keyframes pop{0%{opacity:0;transform:scale(.3)}100%{opacity:1;transform:scale(1)}}
+@keyframes drop{0%{opacity:0;transform:translateY(-60px)}70%{opacity:1;transform:translateY(6px)}100%{opacity:1;transform:translateY(0)}}
+@keyframes tumbuh{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes muncul{from{opacity:0}to{opacity:1}}
+@keyframes garis{from{stroke-dashoffset:900}to{stroke-dashoffset:0}}
+@keyframes kedut{0%,100%{transform:scale(1)}50%{transform:scale(1.22)}}
+@keyframes sorot{50%{fill:#E53935}}
+@keyframes cincin{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(1.07);opacity:.45}}
+@keyframes alir{from{stroke-dashoffset:36}to{stroke-dashoffset:0}}
+</style>
+
+<g id="tahap0">
+  <g class="fx pop">
+    <rect x="10" y="14" width="280" height="74" rx="37" fill="#1E88E5"/>
+    <text x="150" y="63" text-anchor="middle" font-size="30" font-weight="700" fill="#fff">Heksagonal</text>
+  </g>
+  <g class="fx pop" style="animation-delay:0.25s">
+    <rect x="310" y="14" width="280" height="74" rx="37" fill="#EF6C00"/>
+    <text x="450" y="63" text-anchor="middle" font-size="30" font-weight="700" fill="#fff">bentuk bunga</text>
+  </g>
+  <g class="fx pop" style="animation-delay:0.5s">
+    <rect x="610" y="14" width="280" height="74" rx="37" fill="#8D6E63"/>
+    <text x="750" y="63" text-anchor="middle" font-size="28" font-weight="700" fill="#fff">cemara, gunung</text>
+  </g>
+</g>
+
+<g id="tahap1">
+  <g class="penunjuk">
+    <rect class="fx cincin" x="3" y="9" width="294" height="84" rx="42" fill="none" stroke="#E53935" stroke-width="5"/>
+    <path class="alir" d="M150 94 V160 H890 V250 H880" fill="none" stroke="#E53935" stroke-width="5" stroke-dasharray="10 8" stroke-linecap="round"/>
+    <circle class="fx pop" cx="150" cy="94" r="9" fill="#E53935"/>
+    <g class="fx pop" style="animation-delay:0.30s"><circle class="fx kedut" style="animation-delay:0.90s" cx="880" cy="250" r="12" fill="#E53935" stroke="#fff" stroke-width="3"/></g>
+  </g>
+  <g class="fx drop" style="animation-delay:0.2s">
+    <rect x="20" y="185" width="860" height="130" rx="24" fill="#E3F2FD" stroke="#1E88E5" stroke-width="4"/>
+  </g>
+  <g class="muncul" style="animation-delay:0.5s">
+    <text x="45" y="222" font-size="28" fill="#546E7A">Cari kata kunci</text>
+    <text x="45" y="270" font-size="38" font-weight="700" fill="#1565C0">Heksagonal = kalimatnya</text>
+    <text x="45" y="302" font-size="28" fill="#37474F">“bermain dengan Heksagonal”</text>
+  </g>
+</g>
+
+<g id="tahap2">
+  <g class="penunjuk">
+    <rect class="fx cincin" x="303" y="9" width="294" height="84" rx="42" fill="none" stroke="#E53935" stroke-width="5"/>
+    <path class="alir" d="M450 94 V160 H890 V395 H880" fill="none" stroke="#E53935" stroke-width="5" stroke-dasharray="10 8" stroke-linecap="round"/>
+    <circle class="fx pop" cx="450" cy="94" r="9" fill="#E53935"/>
+    <g class="fx pop" style="animation-delay:0.30s"><circle class="fx kedut" style="animation-delay:0.90s" cx="880" cy="395" r="12" fill="#E53935" stroke="#fff" stroke-width="3"/></g>
+  </g>
+  <g class="fx drop" style="animation-delay:0.2s">
+    <rect x="20" y="330" width="860" height="130" rx="24" fill="#FFF3E0" stroke="#EF6C00" stroke-width="4"/>
+  </g>
+  <g class="muncul" style="animation-delay:0.5s">
+    <text x="45" y="367" font-size="28" fill="#546E7A">Cocokkan bentuk</text>
+    <text x="45" y="415" font-size="38" font-weight="700" fill="#E65100">Heksagonal = bunga</text>
+    <text x="45" y="447" font-size="28" fill="#37474F">“menirukan bentuk bunga”</text>
+  </g>
+</g>
+
+<g id="tahap3">
+  <g class="penunjuk">
+    <rect class="fx cincin" x="603" y="9" width="294" height="84" rx="42" fill="none" stroke="#E53935" stroke-width="5"/>
+    <path class="alir" d="M750 94 V160 H890 V540 H880" fill="none" stroke="#E53935" stroke-width="5" stroke-dasharray="10 8" stroke-linecap="round"/>
+    <circle class="fx pop" cx="750" cy="94" r="9" fill="#E53935"/>
+    <g class="fx pop" style="animation-delay:0.30s"><circle class="fx kedut" style="animation-delay:0.90s" cx="880" cy="540" r="12" fill="#E53935" stroke="#fff" stroke-width="3"/></g>
+  </g>
+  <g class="fx drop" style="animation-delay:0.2s">
+    <rect x="20" y="475" width="860" height="130" rx="24" fill="#E8F5E9" stroke="#2E7D32" stroke-width="4"/>
+  </g>
+  <g class="muncul" style="animation-delay:0.5s">
+    <text x="45" y="512" font-size="28" fill="#546E7A">Cocokkan pilihan</text>
+    <text x="45" y="560" font-size="38" font-weight="700" fill="#2E7D32">Jawaban A: bunga</text>
+    <text x="45" y="592" font-size="28" fill="#37474F">B, C, D = bagian awal bacaan</text>
+  </g>
+</g>
+</svg>

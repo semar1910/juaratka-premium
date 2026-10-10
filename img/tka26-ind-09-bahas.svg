@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 580" font-family="Poppins, Arial, sans-serif">
+<style>
+.fx{transform-box:fill-box;transform-origin:center}
+.kiri{transform-origin:left center}
+.penunjuk{visibility:hidden}
+.kini .penunjuk{visibility:visible}
+.kini .pop{animation:pop .6s cubic-bezier(.3,1.6,.5,1) both}
+.kini .drop{animation:drop .55s ease-out both}
+.kini .tumbuh{animation:tumbuh .9s ease-out both}
+.kini .muncul{animation:muncul .5s ease-out both}
+.kini .garis{stroke-dasharray:900;animation:garis .9s ease-out both}
+.kini .kedut{animation:kedut .45s ease-in-out 3}
+.kini .sorot{animation:kedut .45s ease-in-out 3,sorot .45s ease-in-out 3}
+.kini .cincin{animation:cincin .7s ease-in-out 5}
+.kini .alir{animation:muncul .3s ease-out both,alir .5s linear 8}
+@keyframes pop{0%{opacity:0;transform:scale(.3)}100%{opacity:1;transform:scale(1)}}
+@keyframes drop{0%{opacity:0;transform:translateY(-60px)}70%{opacity:1;transform:translateY(6px)}100%{opacity:1;transform:translateY(0)}}
+@keyframes tumbuh{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes muncul{from{opacity:0}to{opacity:1}}
+@keyframes garis{from{stroke-dashoffset:900}to{stroke-dashoffset:0}}
+@keyframes kedut{0%,100%{transform:scale(1)}50%{transform:scale(1.22)}}
+@keyframes sorot{50%{fill:#E53935}}
+@keyframes cincin{0%,100%{transform:scale(1);opacity:1}50%{transform:scale(1.07);opacity:.45}}
+@keyframes alir{from{stroke-dashoffset:36}to{stroke-dashoffset:0}}
+</style>
+
+<g id="tahap0">
+  <g class="fx pop">
+    <rect x="10" y="16" width="280" height="70" rx="35" fill="#1E88E5"/>
+    <text x="150" y="61" font-size="28" font-weight="700" fill="#fff" text-anchor="middle">Tidak berbahaya</text>
+  </g>
+  <g class="fx pop" style="animation-delay:0.25s">
+    <rect x="305" y="16" width="280" height="70" rx="35" fill="#EF6C00"/>
+    <text x="445" y="61" font-size="28" font-weight="700" fill="#fff" text-anchor="middle">Habis terbakar</text>
+  </g>
+  <g class="fx pop" style="animation-delay:0.5s">
+    <rect x="600" y="16" width="280" height="70" rx="35" fill="#8D6E63"/>
+    <text x="740" y="61" font-size="28" font-weight="700" fill="#fff" text-anchor="middle">Gesekan udara</text>
+  </g>
+</g>
+
+<g id="tahap1">
+  <g class="penunjuk">
+    <rect class="fx cincin" x="3" y="9" width="294" height="84" rx="42" fill="none" stroke="#E53935" stroke-width="5"/>
+    <path class="alir" d="M 150 94 V140 H884 V360 H860" fill="none" stroke="#E53935" stroke-width="5" stroke-dasharray="10 8" stroke-linecap="round"/>
+    <circle class="fx pop" cx="150" cy="94" r="9" fill="#E53935"/>
+    <g class="fx pop" style="animation-delay:0.30s"><circle class="fx kedut" style="animation-delay:0.90s" cx="860" cy="360" r="12" fill="#E53935" stroke="#fff" stroke-width="3"/></g>
+  </g>
+  <g class="fx muncul" style="animation-delay:0.4s">
+    <rect x="30" y="165" width="830" height="395" rx="28" fill="#E3F2FD" stroke="#1E88E5" stroke-width="4"/>
+    <text x="445" y="217" font-size="28" fill="#455A64" text-anchor="middle">Cari kata kunci</text>
+    <text class="fx pop" style="animation-delay:0.6s" x="445" y="300" font-size="48" font-weight="700" fill="#1E88E5" text-anchor="middle">tidak berbahaya</text>
+    <path class="garis" style="animation-delay:1.0s" d="M445 328 V372" stroke="#1E88E5" stroke-width="6" stroke-linecap="round" fill="none"/>
+    <polygon class="muncul" style="animation-delay:1.5s" points="423,362 445,394 467,362" fill="#1E88E5"/>
+    <text class="fx drop" style="animation-delay:1.5s" x="445" y="460" font-size="48" font-weight="700" fill="#0D47A1" text-anchor="middle">Kalimat ayah</text>
+    <text class="muncul" style="animation-delay:2.1s" x="445" y="527" font-size="28" font-style="italic" fill="#37474F" text-anchor="middle">"Hujan meteor tidak berbahaya, kok"</text>
+  </g>
+</g>
+
+<g id="tahap2">
+  <g class="penunjuk">
+    <rect class="fx cincin" x="298" y="9" width="294" height="84" rx="42" fill="none" stroke="#E53935" stroke-width="5"/>
+    <path class="alir" d="M 445 94 V140 H884 V360 H860" fill="none" stroke="#E53935" stroke-width="5" stroke-dasharray="10 8" stroke-linecap="round"/>
+    <circle class="fx pop" cx="445" cy="94" r="9" fill="#E53935"/>
+    <g class="fx pop" style="animation-delay:0.30s"><circle class="fx kedut" style="animation-delay:0.90s" cx="860" cy="360" r="12" fill="#E53935" stroke="#fff" stroke-width="3"/></g>
+  </g>
+  <g class="fx muncul" style="animation-delay:0.4s">
+    <rect x="30" y="165" width="830" height="395" rx="28" fill="#FFF3E0" stroke="#EF6C00" stroke-width="4"/>
+    <text x="445" y="217" font-size="28" fill="#455A64" text-anchor="middle">Temukan alasan</text>
+    <text class="fx pop" style="animation-delay:0.6s" x="445" y="300" font-size="46" font-weight="700" fill="#EF6C00" text-anchor="middle">kalimat sesudahnya</text>
+    <path class="garis" style="animation-delay:1.0s" d="M445 328 V372" stroke="#EF6C00" stroke-width="6" stroke-linecap="round" fill="none"/>
+    <polygon class="muncul" style="animation-delay:1.5s" points="423,362 445,394 467,362" fill="#EF6C00"/>
+    <text class="fx drop" style="animation-delay:1.5s" x="445" y="460" font-size="48" font-weight="700" fill="#BF360C" text-anchor="middle">Habis terbakar</text>
+    <text class="muncul" style="animation-delay:2.1s" x="445" y="527" font-size="28" font-style="italic" fill="#37474F" text-anchor="middle">"meteor ini akan habis terbakar di langit"</text>
+  </g>
+</g>
+
+<g id="tahap3">
+  <g class="penunjuk">
+    <rect class="fx cincin" x="298" y="9" width="294" height="84" rx="42" fill="none" stroke="#E53935" stroke-width="5"/>
+    <path class="alir" d="M 445 94 V140 H884 V360 H860" fill="none" stroke="#E53935" stroke-width="5" stroke-dasharray="10 8" stroke-linecap="round"/>
+    <circle class="fx pop" cx="445" cy="94" r="9" fill="#E53935"/>
+    <g class="fx pop" style="animation-delay:0.30s"><circle class="fx kedut" style="animation-delay:0.90s" cx="860" cy="360" r="12" fill="#E53935" stroke="#fff" stroke-width="3"/></g>
+  </g>
+  <g class="fx muncul" style="animation-delay:0.4s">
+    <rect x="30" y="165" width="830" height="395" rx="28" fill="#E8F5E9" stroke="#2E7D32" stroke-width="4"/>
+    <text x="445" y="217" font-size="28" fill="#455A64" text-anchor="middle">Cocokkan pilihan</text>
+
+    <g class="fx pop" style="animation-delay:0.6s">
+      <circle cx="85" cy="290" r="24" fill="#FFEBEE" stroke="#E53935" stroke-width="4"/>
+      <path d="M73 278 L97 302 M97 278 L73 302" stroke="#E53935" stroke-width="5" stroke-linecap="round" fill="none"/>
+      <text x="130" y="300" font-size="30" fill="#37474F">B: bukan soal aman</text>
+    </g>
+    <g class="fx pop" style="animation-delay:1.2s">
+      <circle cx="85" cy="370" r="24" fill="#FFEBEE" stroke="#E53935" stroke-width="4"/>
+      <path d="M73 358 L97 382 M97 358 L73 382" stroke="#E53935" stroke-width="5" stroke-linecap="round" fill="none"/>
+      <text x="130" y="380" font-size="30" fill="#37474F">A, C: tidak sesuai</text>
+    </g>
+    <g class="fx pop" style="animation-delay:1.8s">
+      <circle cx="85" cy="450" r="24" fill="#C8E6C9" stroke="#2E7D32" stroke-width="4"/>
+      <path d="M72 450 L82 461 L99 439" stroke="#2E7D32" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <text x="130" y="460" font-size="30" font-weight="700" fill="#1B5E20">D: sama dengan bukti</text>
+    </g>
+
+    <g class="fx pop" style="animation-delay:2.4s">
+      <circle cx="740" cy="385" r="90" fill="#2E7D32"/>
+      <text x="740" y="423" font-size="110" font-weight="700" fill="#fff" text-anchor="middle">D</text>
+    </g>
+
+    <text class="muncul" style="animation-delay:3.0s" x="445" y="535" font-size="28" fill="#37474F" text-anchor="middle">Ada di bacaan, belum tentu jawaban</text>
+  </g>
+</g>
+</svg>
