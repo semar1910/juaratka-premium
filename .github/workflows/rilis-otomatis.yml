@@ -1,0 +1,103 @@
+name: Rilis otomatis
+
+# Dipicu hanya oleh push ke cabang main. Push tag TIDAK memicu (tidak ada filter tags),
+# dan push oleh GITHUB_TOKEN tidak pernah memicu workflow lain.
+on:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  # Tahap 1: hanya menunggu. Boleh dibatalkan kapan saja oleh push baru,
+  # karena belum ada yang diubah di repo.
+  tunggu:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    concurrency:
+      group: rilis-tunggu
+      cancel-in-progress: true
+    steps:
+      - name: Jeda 3 menit
+        run: sleep 180
+
+  # Tahap 2: commit + tag. Grup antrean TERPISAH dan TIDAK pernah dibatalkan,
+  # jadi push baru tidak bisa memotong proses di tengah jalan.
+  # Dilewati otomatis kalau tahap 1 dibatalkan.
+  rilis:
+    needs: tunggu
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    concurrency:
+      group: rilis-eksekusi
+      cancel-in-progress: false
+    steps:
+      - name: Ambil main terbaru beserta semua tag
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+          fetch-tags: true
+
+      - name: Tentukan dan buat rilis
+        shell: bash
+        run: |
+          set -euo pipefail
+          fail() { echo "::error::$1"; exit 1; }
+
+          [ -f config.json ] || fail "config.json tidak ditemukan di root repo"
+          VER=$(jq -r '.version' config.json)
+          [[ "$VER" =~ ^[0-9]+\.[0-9]+\.[0-9]+$ ]] || fail "Versi di config.json tidak valid: '$VER'"
+
+          # Versi tertinggi yang sudah punya tag
+          MAX=$({ git tag -l 'v*' | grep -E '^v[0-9]+\.[0-9]+\.[0-9]+$' || true; } | sed 's/^v//' | sort -V | tail -n1)
+
+          # Versi tidak boleh turun
+          if [ -n "$MAX" ] && [ "$VER" != "$MAX" ]; then
+            LOW=$(printf '%s\n%s\n' "$VER" "$MAX" | sort -V | head -n1)
+            [ "$LOW" != "$VER" ] || fail "Versi config ($VER) lebih rendah dari tag tertinggi (v$MAX). Dibatalkan, tidak ada tag dibuat."
+          fi
+
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if git rev-parse -q --verify "refs/tags/v$VER" >/dev/null; then
+            # Tag untuk versi ini SUDAH ada
+            if [ "$(git rev-parse "v$VER^{commit}")" = "$(git rev-parse HEAD)" ]; then
+              echo "main sudah persis di v$VER. Tidak ada yang baru, selesai."
+              exit 0
+            fi
+
+            IFS=. read -r MA MI PA <<< "$VER"
+            NEW="$MA.$MI.$((10#$PA + 1))"
+            git rev-parse -q --verify "refs/tags/v$NEW" >/dev/null && fail "Tag v$NEW sudah ada"
+            TODAY=$(TZ=Asia/Jakarta date +%Y-%-m-%-d)
+
+            cp config.json "$RUNNER_TEMP/config.lama.json"
+            # Hanya dua baris ini yang disentuh; sisa berkas (spasi, urutan, akhir baris) tetap.
+            sed -i -E \
+              -e "s/^( {2}\"version\" *: *\")[^\"]*(\")/\1${NEW}\2/" \
+              -e "s/^( {2}\"updated\" *: *\")[^\"]*(\")/\1${TODAY}\2/" \
+              config.json
+
+            # Pemeriksaan: JSON valid, versi benar, bidang lain identik
+            [ "$(jq -r '.version' config.json)" = "$NEW" ] || fail "Gagal menulis versi baru"
+            [ "$(jq -S 'del(.version,.updated)' config.json)" = "$(jq -S 'del(.version,.updated)' "$RUNNER_TEMP/config.lama.json")" ] \
+              || fail "Bidang selain version/updated ikut berubah. Dibatalkan."
+            CHANGED=$(diff "$RUNNER_TEMP/config.lama.json" config.json | grep -c '^>' || true)
+            [ "$CHANGED" -le 2 ] || fail "Lebih dari 2 baris berubah. Dibatalkan."
+
+            git add config.json
+            git commit -m "rilis: v$NEW [skip ci]"
+            git tag -a "v$NEW" -m "Rilis v$NEW"
+            # --atomic: commit dan tag diterima bersamaan atau tidak sama sekali.
+            git push --atomic origin HEAD:refs/heads/main "refs/tags/v$NEW"
+            echo "Rilis v$NEW dibuat (config.json dinaikkan dari $VER, updated=$TODAY)."
+          else
+            # Tag untuk versi ini BELUM ada: buat tag saja, config tidak diubah
+            git tag -a "v$VER" -m "Rilis v$VER"
+            git push origin "refs/tags/v$VER"
+            echo "Tag v$VER dibuat tanpa mengubah config.json."
+          fi
