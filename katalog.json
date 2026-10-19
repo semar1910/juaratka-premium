@@ -206,6 +206,15 @@
       "ipa": 30,
       "durasi": 75
     }
+    {
+      "paket": 2,
+      "title": "Paket 2 TKA",
+      "gratis": false,
+      "matematika": 30,
+      "indonesia": 30,
+      "ipa": 30,
+      "durasi": 75
+    }
   ],
   "koleksi": {
     "game": [
