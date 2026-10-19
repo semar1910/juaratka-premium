@@ -1,0 +1,79 @@
+# -*- coding: utf-8 -*-
+# Rakitan p2-ipa-13: gambar soal akuarium (nomor tanpa nama) + SVG pembahasan (pola Tabel)
+import sys
+sys.path.insert(0, ".")
+from svgkit import *
+
+ID = "p2-ipa-13"
+
+
+def badge(cx, cy, n):
+    return (f'<circle cx="{cx}" cy="{cy}" r="24" fill="#fff" stroke="#263238" stroke-width="4"/>'
+            + teks(cx, cy + 10, str(n), 30, "#263238"))
+
+
+def garis(x1, y1, x2, y2):
+    return (f'<path d="M{x1} {y1} L{x2} {y2}" stroke="#263238" stroke-width="3" fill="none"/>'
+            f'<circle cx="{x2}" cy="{y2}" r="5" fill="#263238"/>')
+
+
+# ---------------- GAMBAR SOAL (informasi: benda bernomor, tanpa nama)
+# Nomor: 1 lampu, 2 ikan, 3 batu, 4 gelembung udara, 5 tanaman air, 6 pasir, 7 air
+g = []
+g.append('<path d="M440 106 L350 140 H550 L460 106 Z" fill="#FFF9C4" fill-opacity=".7"/>')
+g.append('<path d="M450 0 V44" stroke="#546E7A" stroke-width="4"/>')
+g.append(ikon("lampu", 410, 40, 80))
+# kaca akuarium + air
+g.append('<rect x="150" y="140" width="600" height="320" rx="14" fill="#F1F8FB" stroke="#546E7A" stroke-width="6"/>')
+g.append('<rect x="156" y="190" width="588" height="264" fill="#81D4FA"/>')
+g.append('<path d="M156 190 H744" stroke="#4FC3F7" stroke-width="4"/>')
+# pasir
+g.append('<path d="M156 412 Q300 396 450 412 T744 410 V454 H156 Z" fill="#E6CFA0"/>')
+for (x, y) in [(200, 432), (260, 440), (330, 428), (400, 442), (470, 432), (530, 444), (700, 440), (740, 430)]:
+    g.append(f'<circle cx="{x}" cy="{y}" r="4" fill="#C9A96A"/>')
+# batu
+g.append('<ellipse cx="610" cy="404" rx="46" ry="28" fill="#90A4AE" stroke="#546E7A" stroke-width="3"/>')
+g.append('<ellipse cx="672" cy="418" rx="30" ry="20" fill="#78909C" stroke="#546E7A" stroke-width="3"/>')
+# tanaman air
+g.append('<path d="M225 414 C205 360 245 320 220 255" stroke="#2E7D32" stroke-width="7" fill="none" stroke-linecap="round"/>')
+g.append('<path d="M240 414 C262 370 238 330 262 290" stroke="#2E7D32" stroke-width="7" fill="none" stroke-linecap="round"/>')
+g.append('<path d="M210 414 C190 380 195 340 180 310" stroke="#2E7D32" stroke-width="7" fill="none" stroke-linecap="round"/>')
+for (x, y, r) in [(210, 290, -25), (236, 330, 25), (268, 296, 20), (195, 345, -30), (228, 262, 10), (182, 320, -20)]:
+    g.append(f'<ellipse cx="{x}" cy="{y}" rx="13" ry="30" transform="rotate({r} {x} {y})" fill="#66BB6A" stroke="#2E7D32" stroke-width="2"/>')
+# ikan
+g.append('<ellipse cx="440" cy="300" rx="48" ry="27" fill="#FB8C00" stroke="#E65100" stroke-width="3"/>')
+g.append('<path d="M484 300 L526 274 L526 326 Z" fill="#FB8C00" stroke="#E65100" stroke-width="3" stroke-linejoin="round"/>')
+g.append('<path d="M450 276 Q458 300 450 324" stroke="#FFE0B2" stroke-width="5" fill="none"/>')
+g.append('<circle cx="414" cy="292" r="6" fill="#263238"/><circle cx="412" cy="290" r="2" fill="#fff"/>')
+# gelembung udara
+for (x, y, r) in [(640, 340, 9), (652, 298, 12), (630, 262, 8), (645, 226, 10)]:
+    g.append(f'<circle cx="{x}" cy="{y}" r="{r}" fill="#fff" fill-opacity=".55" stroke="#fff" stroke-width="3"/>')
+# nomor + garis penunjuk
+g += [garis(536, 72, 474, 72), badge(560, 72, 1)]                 # lampu
+g += [garis(440, 254, 440, 276), badge(440, 228, 2)]              # ikan
+g += [garis(796, 420, 700, 420), badge(820, 420, 3)]              # batu
+g += [garis(796, 296, 656, 298), badge(820, 296, 4)]              # gelembung udara
+g += [garis(94, 300, 222, 300), badge(70, 300, 5)]                # tanaman air
+g += [garis(94, 432, 200, 432), badge(70, 432, 6)]                # pasir
+g += [garis(94, 222, 300, 226), badge(70, 222, 7)]                # air
+gambar_soal(f"{ID}.png", g, H=500)
+
+# ---------------- SVG PEMBAHASAN
+s = Bahas(chips=[("benda bernomor 1–7", "#1E88E5"), ("stiker BIOTIK", "#EF6C00")])
+rows = [["1", "lampu"], ["2", "ikan"], ["3", "batu"], ["4", "gelembung udara"],
+        ["5", "tanaman air"], ["6", "pasir"], ["7", "air"]]
+t = TabelPercobaan(90, 140, ["No", "Benda"], rows, [110, 400], tinggi_baris=50, warna="teal")
+s.tahap(1, tunjuk=0, ke=(300, 132), isi=[t.tabel()])
+
+gol = ["abiotik", "biotik", "abiotik", "abiotik", "biotik", "abiotik", "abiotik"]
+iso2 = [pop(teks(720, 179, "Golongan", 28, "#37474F"), 0.1)]
+for i, nm in enumerate(gol):
+    y = 140 + (i + 1) * 50 + 5
+    iso2.append(pop(kotak(620, y, 200, 40, "hijau" if nm == "biotik" else "abu", nm, 28, rx=12), 0.3 + 0.2 * i))
+iso2.append(jebakan(90, 556, 720, "gelembung bergerak, tetapi tidak hidup", 28, d=1.9))
+s.tahap(2, tunjuk=1, ke=(720, 138), isi=iso2)
+
+s.tahap(3, tunjuk=1, ke=(872, 670), isi=[t.sorot_baris(1, "hijau", 0.3), t.sorot_baris(4, "hijau", 0.6),
+                                         pil(110, 636, 650, "B: nomor 2 dan 5", "hijau", 32, tanda="benar", d=1.0)])
+s.simpan(f"{ID}-bahas.svg", jumlah_langkah=3)
+render(f"{ID}-bahas.svg")
