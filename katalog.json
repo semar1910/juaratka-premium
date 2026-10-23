@@ -224,12 +224,12 @@
       "ipa": 30,
       "durasi": 75
     },
-     {
-      "paket": 3,
-      "title": "Paket 3 TKA",
+    {
+      "paket": 4,
+      "title": "Paket 4 TKA",
       "gratis": false,
       "matematika": 30,
-      "indonesia": 29,
+      "indonesia": 30,
       "ipa": 30,
       "durasi": 75
     }
