@@ -12,6 +12,7 @@
           "no": 1,
           "video": "",
           "title": "Pengunjung Perpustakaan Desa Sepekan",
+          "materi": "Membaca Diagram",
           "tipe": "pgk",
           "soal": "Perpustakaan Desa Mekar Sari mencatat banyaknya pengunjung selama sepekan. Datanya ditampilkan pada diagram batang di gambar. Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.",
           "opsi": [
@@ -96,6 +97,7 @@
           "no": 2,
           "video": "",
           "title": "Gorengan Bu Wati di Kantin",
+          "materi": "Penjumlahan & Pengurangan",
           "tipe": "pg",
           "soal": "Bu Wati berjualan gorengan di kantin sekolah. Pagi ini ia menyiapkan 9 kotak gorengan. Setiap kotak berisi 30 potong. Pada istirahat pertama terjual 95 potong, dan pada istirahat kedua terjual 115 potong. Berapa potong gorengan Bu Wati yang belum terjual?",
           "opsi": [
@@ -164,6 +166,7 @@
           "no": 3,
           "video": "",
           "title": "Cokelat Dina",
+          "materi": "Pecahan Senilai",
           "tipe": "bs",
           "soal": "Dina punya sebatang cokelat berpetak sama besar, seperti pada gambar. Petak yang diarsir sudah dimakan Dina. Tentukan Benar atau Salah!",
           "opsi": [
@@ -236,6 +239,7 @@
           "no": 4,
           "video": "",
           "title": "Tembok Pak Dedi dan Pak Rudi",
+          "materi": "Pecahan Senilai",
           "tipe": "pg",
           "soal": "Pak Dedi dan Pak Rudi mengecat tembok yang ukurannya sama. Pak Dedi mengecat 7/10 bagian temboknya. Pak Rudi mengecat 3/4 bagian temboknya. Siapa yang mengecat bagian tembok lebih banyak?",
           "opsi": [
@@ -306,6 +310,7 @@
           "no": 5,
           "video": "",
           "title": "Lama Belajar Empat Anak",
+          "materi": "Pecahan Senilai",
           "tipe": "pgk",
           "soal": "Empat anak belajar di rumah masing-masing pada sore hari. Andi belajar 3/5 jam, Bela 7/10 jam, Candra 1/2 jam, dan Dewi 3/4 jam. Pak Guru ingin membandingkan lama belajar mereka. Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.",
           "opsi": [
@@ -402,6 +407,7 @@
           "no": 6,
           "video": "",
           "title": "Sisa Daya Ponsel Tika",
+          "materi": "Pecahan, Desimal, dan Persen",
           "tipe": "pg",
           "soal": "Sebelum dicolok ke pengisi daya, sisa daya baterai ponsel Tika tinggal 45%. Tika ingin menuliskan sisa daya itu dalam bentuk pecahan paling sederhana dan desimal. Sisa daya baterai ponsel Tika sama dengan ...",
           "opsi": [
@@ -470,6 +476,7 @@
           "no": 7,
           "video": "",
           "title": "Potongan Harga Sepatu",
+          "materi": "Pecahan, Desimal, dan Persen",
           "tipe": "bs",
           "soal": "Dimas ingin membeli sepatu. Di Toko A dan Toko B, harga sepatu itu sama, yaitu Rp120.000,00. Potongan harga kedua toko tertulis pada spanduk. Tentukan Benar atau Salah!",
           "opsi": [
@@ -548,6 +555,7 @@
           "no": 8,
           "video": "",
           "title": "Beras Bu Sari",
+          "materi": "Operasi Pecahan",
           "tipe": "pgk",
           "soal": "Bu Sari membeli 3 1/2 kg beras di pasar. Hari Senin ia memasak 3/4 kg beras untuk keluarganya. Hari Selasa ia memasak 1 1/4 kg beras untuk acara arisan. Pernyataan yang benar tentang beras Bu Sari adalah .... Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.",
           "opsi": [
@@ -635,6 +643,7 @@
           "no": 9,
           "video": "",
           "title": "Pupuk untuk Lima Pot",
+          "materi": "Operasi Pecahan",
           "tipe": "pg",
           "soal": "Bu Rina mempunyai 3 3/4 kg pupuk. Pupuk itu dibagi sama banyak untuk 5 pot tanaman seperti pada gambar. Sampai sore, Bu Rina sudah memupuk 3 pot. Berapa kg pupuk yang masih tersisa?",
           "opsi": [
@@ -707,6 +716,7 @@
           "no": 10,
           "video": "",
           "title": "Kue untuk Dua Tetangga",
+          "materi": "Operasi Pecahan",
           "tipe": "pg",
           "soal": "Ibu membuat satu loyang kue utuh. Pertama, Ibu memberikan 1/4 bagian kue kepada Bu Sari. Kemudian, Ibu memberikan 2/3 bagian dari sisa kue kepada Pak Danu. Pernyataan yang benar tentang pembagian kue itu adalah ....",
           "opsi": [
@@ -788,6 +798,7 @@
           "no": 11,
           "video": "",
           "title": "Telur dalam Wadah",
+          "materi": "KPK dan FPB",
           "tipe": "pgk",
           "soal": "Bu Rina memiliki 36 butir telur. Telur itu akan dikemas ke dalam beberapa wadah. Setiap wadah harus berisi telur sama banyak, dan tidak boleh ada telur yang tersisa. Banyak telur dalam satu wadah yang mungkin adalah .... Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.",
           "opsi": [
@@ -874,6 +885,7 @@
           "no": 12,
           "video": "",
           "title": "Jadwal Dua Bus",
+          "materi": "KPK dan FPB",
           "tipe": "pg",
           "soal": "Perhatikan papan jadwal Terminal Cempaka! Bus Sinar dan bus Maju berangkat ke kota yang sama. Pak Anton ingin tahu kapan kedua bus berangkat bersamaan. Pukul berapa kedua bus itu untuk pertama kali berangkat bersamaan?",
           "opsi": [
@@ -949,6 +961,7 @@
           "no": 13,
           "video": "",
           "title": "Motif Anyaman Tikar",
+          "materi": "Bangun Datar",
           "tipe": "bs",
           "soal": "Nenek Wati menganyam tikar dengan tiga motif bangun datar, yaitu P, Q, dan R. Gambar di bawah menunjukkan bentuk dan panjang sisi setiap motif. Tentukan Benar atau Salah!",
           "opsi": [
@@ -1025,6 +1038,7 @@
           "no": 14,
           "video": "",
           "title": "Susunan Kubus Mainan",
+          "materi": "Visualisasi Bangun Ruang",
           "tipe": "pg",
           "soal": "Rafi menyusun kubus-kubus mainan yang sama besar menjadi susunan seperti pada gambar. Susunan itu padat, tanpa ruang kosong di bawah atau di belakang tumpukan. Rafi ingin menambah kubus mainan agar susunannya menjadi sebuah kubus besar yang tiap rusuknya terdiri atas 3 kubus mainan. Berapa kubus mainan yang harus ditambahkan Rafi?",
           "opsi": [
@@ -1092,6 +1106,7 @@
           "no": 15,
           "video": "",
           "title": "Susunan Kotak di Rak Toko",
+          "materi": "Visualisasi Bangun Ruang",
           "tipe": "pgk",
           "soal": "Bu Lina menata kotak-kotak kubus yang sama besar di rak toko. Tidak ada ruang kosong di bawah kotak. Bagian depan susunan ditandai tulisan DEPAN. Nama tampak tertulis di atas tiap gambar. Tampak samping dilihat dari sisi kanan, dan pada tampak atas bagian depan ada di sisi bawah gambar. Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.",
           "opsi": [
@@ -1192,6 +1207,7 @@
           "no": 16,
           "video": "",
           "title": "Kain untuk Seragam",
+          "materi": "Satuan Panjang",
           "tipe": "bs",
           "soal": "Bu Wati membeli tiga kain di sebuah toko untuk membuat seragam. Panjang tiap kain tertulis pada nota seperti pada gambar. Berikut pernyataan tentang panjang kain-kain itu. Tentukan Benar atau Salah!",
           "opsi": [
@@ -1270,6 +1286,7 @@
           "no": 17,
           "video": "",
           "title": "Bensin untuk Motor Ayah",
+          "materi": "Konversi Satuan",
           "tipe": "pg",
           "soal": "Tangki motor Ayah berkapasitas 5 liter. Sebelum ke pompa bensin, tangki sudah berisi 1.250 mL bensin. Layar pompa bensin menunjukkan bensin yang sudah diisikan, seperti pada gambar. Setelah itu, Ayah masih menambah bensin sampai tangki penuh dengan harga per liter yang sama. Berapa rupiah yang masih harus dibayar Ayah untuk tambahan bensin itu?",
           "opsi": [
@@ -1340,6 +1357,7 @@
           "no": 18,
           "video": "",
           "title": "Kalender Latihan Renang Rina",
+          "materi": "Waktu dan Jam",
           "tipe": "pg",
           "soal": "Rina mengikuti latihan renang di kolam kelurahan. Ia mulai berlatih pada tanggal yang ditandai warna biru pada kalender. Latihannya berhenti pada tanggal yang ditandai warna oranye. Berapa pekan jarak waktu dari tanggal mulai sampai tanggal berhenti?",
           "opsi": [
@@ -1406,6 +1424,7 @@
           "no": 19,
           "video": "",
           "title": "Perahu Menyeberangi Danau",
+          "materi": "Kecepatan, Jarak, dan Waktu",
           "tipe": "bs",
           "soal": "Pak Anto mengayuh perahu menyeberangi danau dari dermaga di tepi barat ke tepi timur. Jarak kedua tepi danau 900 m. Perahu berangkat pukul 06.00 dan tiba pukul 06.15 dengan kecepatan tetap. Tentukan Benar atau Salah!",
           "opsi": [
@@ -1484,6 +1503,7 @@
           "no": 20,
           "video": "",
           "title": "Kurir Mengantar Dua Alamat",
+          "materi": "Kecepatan, Jarak, dan Waktu",
           "tipe": "pgk",
           "soal": "Kurir Rudi berangkat dari gudang pukul 08.00 untuk mengantar paket ke alamat A, lalu ke alamat B. Jarak tiap ruas tertera pada gambar. Dari gudang ke alamat A, ia mengendarai motor dengan kecepatan 24 km/jam. Di alamat A ia berhenti 10 menit untuk menyerahkan paket. Dari alamat A ke alamat B, kecepatannya 36 km/jam. Manakah pernyataan yang benar? Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.",
           "opsi": [
@@ -1584,6 +1604,7 @@
           "no": 21,
           "video": "",
           "title": "Bingkai Kolase Foto Keluarga",
+          "materi": "Bangun Datar",
           "tipe": "pg",
           "soal": "Pak Rudi membuat bingkai kolase foto keluarga berbentuk seperti pada gambar. Ia memasang list kayu di seluruh tepi luar bingkai. Pak Rudi membeli list kayu sepanjang 2 meter. Berapa cm sisa list kayu setelah dipasang?",
           "opsi": [
@@ -1656,6 +1677,7 @@
           "no": 22,
           "video": "",
           "title": "Mengecat Dinding Depan Rumah",
+          "materi": "Bangun Datar",
           "tipe": "pg",
           "soal": "Dinding depan rumah Bu Wati berbentuk seperti pada gambar. Seluruh dinding itu akan dicat, kecuali bagian pintu dan kedua jendela. Berapa meter persegi luas dinding yang akan dicat?",
           "opsi": [
@@ -1737,6 +1759,7 @@
           "no": 23,
           "video": "",
           "title": "Volume Kolam Ikan Bertingkat",
+          "materi": "Volume Bangun Ruang",
           "tipe": "bs",
           "soal": "Perhatikan gambar! Kolam ikan milik Pak Anto bertingkat dan terdiri dari dua balok, yaitu bagian dalam dan bagian dangkal. Lebar kedua bagian sama. Kolam akan diisi air sampai penuh. Ingat: 1 m³ = 1.000 liter. Tentukan Benar atau Salah!",
           "opsi": [
@@ -1813,6 +1836,7 @@
           "no": 24,
           "video": "",
           "title": "Sudut pada Kipas Tangan",
+          "materi": "Sudut",
           "tipe": "pgk",
           "soal": "Perhatikan gambar! Nia membuka kipas tangannya. Pelat paling kiri berimpit dengan angka 0 pada busur derajat, dan pelat paling kanan berhenti di garis skala. Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.",
           "opsi": [
@@ -1895,6 +1919,7 @@
           "no": 25,
           "video": "",
           "title": "Menaksir Panjang Jalan dari Langkah",
+          "materi": "Penaksiran Ukuran",
           "tipe": "pg",
           "soal": "Dimas berjalan kaki dari rumahnya ke balai desa, lalu pulang lewat jalan yang sama. Ia menghitung seluruh langkahnya, yaitu 800 langkah. Satu langkah Dimas kira-kira 50 cm. Berapa taksiran panjang jalan dari rumah Dimas ke balai desa?",
           "opsi": [
@@ -1965,6 +1990,7 @@
           "no": 26,
           "video": "",
           "title": "Hasil Panen Sayur Pak Joko",
+          "materi": "Membaca Diagram",
           "tipe": "bs",
           "soal": "Pak Joko mencatat hasil panen sayur di kebunnya selama satu bulan. Data pada tabel disajikan juga dalam diagram batang, seperti pada gambar. Tentukan Benar atau Salah!",
           "opsi": [
@@ -2041,6 +2067,7 @@
           "no": 27,
           "video": "",
           "title": "Piktogram Buku yang Dipinjam",
+          "materi": "Menyajikan dan Menyimpulkan Data",
           "tipe": "pg",
           "soal": "Perhatikan piktogram buku yang dipinjam siswa di perpustakaan SD Harapan berikut! Perpustakaan mencatat banyak buku yang dipinjam dari Senin sampai Jumat. Datanya disajikan dalam piktogram, tetapi bagian hari Jumat belum digambar. Jumlah buku yang dipinjam selama lima hari itu 170 buku. Hari Jumat harus digambar dengan berapa simbol?",
           "opsi": [
@@ -2111,6 +2138,7 @@
           "no": 28,
           "video": "",
           "title": "Siswa per Ekstrakurikuler",
+          "materi": "Membaca Diagram",
           "tipe": "pgk",
           "soal": "SD Nusantara mencatat jumlah siswa pada lima kegiatan ekstrakurikuler. Datanya disajikan dalam diagram batang berikut. Informasi yang sesuai dengan diagram tersebut adalah .... Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.",
           "opsi": [
@@ -2193,6 +2221,7 @@
           "no": 29,
           "video": "",
           "title": "Hari untuk Kerja Bakti",
+          "materi": "Menyajikan dan Menyimpulkan Data",
           "tipe": "pg",
           "soal": "Pak Rudi, ketua RT 05, mendata warga yang bisa ikut kerja bakti pada empat hari berbeda. Kerja bakti hanya dapat dilaksanakan jika warga yang hadir paling sedikit 40 orang dan pemuda yang hadir paling sedikit 12 orang. Data kehadiran ada pada tabel berikut. Hari apa yang paling tepat untuk kerja bakti, dan apa alasannya?",
           "opsi": [
@@ -2263,6 +2292,7 @@
           "no": 30,
           "video": "",
           "title": "Juara Umum Lomba Antarkelas",
+          "materi": "Membaca Diagram",
           "tipe": "bs",
           "soal": "Di SD Harapan diadakan lomba antarkelas dengan tiga cabang: lari, cerdas cermat, dan poster. Kelas dengan jumlah poin terbanyak menjadi juara umum. Hasil lomba ditunjukkan pada tabel berikut. Tentukan Benar atau Salah!",
           "opsi": [
@@ -2346,6 +2376,7 @@
           "no": 1,
           "video": "",
           "title": "Wisata Laut di Kepulauan Derawan",
+          "materi": "Makna Ungkapan & Peribahasa",
           "tipe": "pgk",
           "soal": "Wisata Laut di Kepulauan Derawan. Kepulauan Derawan berada di Kalimantan Timur. Tempat ini termasuk wilayah Kabupaten Berau. Di sana ada banyak pulau kecil. Pantainya berpasir putih dan dikelilingi laut biru. Beberapa di antaranya adalah Derawan, Maratua, Sangalaki, dan Kakaban. Wisatawan menuju ke sana naik perahu. Air lautnya sangat jernih. Dari atas perahu, dasar laut tampak jelas. Cahaya matahari menembus air hingga ke dasar. Terumbu karang berwarna-warni tumbuh di sana. Banyak ikan kecil berenang di sela karang. Pemandangan bawah lautnya sangat indah. Berbagai jenis ikan dan hewan laut hidup di perairan itu. Karena itu, Derawan dijuluki surga bawah laut. Wisatawan dapat berenang dan menyelam di sana. Ada juga yang memilih snorkeling di dekat dermaga. Di sekitar Pulau Derawan, penyu hijau sering terlihat berenang. Di Pulau Kakaban ada danau di tengah pulau. Danau itu dihuni ubur-ubur yang tidak menyengat. Wisatawan boleh berenang bersama ubur-ubur itu. Di dermaga, wisatawan dapat bersantai sambil melihat laut. Wisatawan perlu menjaga kebersihan laut. Jangan membuang sampah ke laut. Jangan menyentuh atau menginjak terumbu karang. Petugas setempat ikut membantu menjaga kawasan ini. Dengan begitu, keindahan Derawan tetap terjaga. Apa arti sebutan “surga bawah laut” bagi Kepulauan Derawan? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
           "pertanyaan": "Apa arti sebutan “surga bawah laut” bagi Kepulauan Derawan? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
@@ -2423,6 +2454,7 @@
           "no": 2,
           "video": "",
           "title": "Wisata Laut di Kepulauan Derawan",
+          "materi": "Mencari Informasi Tersurat",
           "tipe": "pgk",
           "soal": "Wisata Laut di Kepulauan Derawan. Kepulauan Derawan berada di Kalimantan Timur. Tempat ini termasuk wilayah Kabupaten Berau. Di sana ada banyak pulau kecil. Pantainya berpasir putih dan dikelilingi laut biru. Beberapa di antaranya adalah Derawan, Maratua, Sangalaki, dan Kakaban. Wisatawan menuju ke sana naik perahu. Air lautnya sangat jernih. Dari atas perahu, dasar laut tampak jelas. Cahaya matahari menembus air hingga ke dasar. Terumbu karang berwarna-warni tumbuh di sana. Banyak ikan kecil berenang di sela karang. Pemandangan bawah lautnya sangat indah. Berbagai jenis ikan dan hewan laut hidup di perairan itu. Karena itu, Derawan dijuluki surga bawah laut. Wisatawan dapat berenang dan menyelam di sana. Ada juga yang memilih snorkeling di dekat dermaga. Di sekitar Pulau Derawan, penyu hijau sering terlihat berenang. Di Pulau Kakaban ada danau di tengah pulau. Danau itu dihuni ubur-ubur yang tidak menyengat. Wisatawan boleh berenang bersama ubur-ubur itu. Di dermaga, wisatawan dapat bersantai sambil melihat laut. Wisatawan perlu menjaga kebersihan laut. Jangan membuang sampah ke laut. Jangan menyentuh atau menginjak terumbu karang. Petugas setempat ikut membantu menjaga kawasan ini. Dengan begitu, keindahan Derawan tetap terjaga. Apa saja yang dapat ditemui wisatawan di Kepulauan Derawan menurut teks? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
           "pertanyaan": "Apa saja yang dapat ditemui wisatawan di Kepulauan Derawan menurut teks? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
@@ -2500,6 +2532,7 @@
           "no": 3,
           "video": "",
           "title": "Wisata Laut di Kepulauan Derawan",
+          "materi": "Menilai & Menyimpulkan Teks",
           "tipe": "bs",
           "soal": "Wisata Laut di Kepulauan Derawan. Kepulauan Derawan berada di Kalimantan Timur. Tempat ini termasuk wilayah Kabupaten Berau. Di sana ada banyak pulau kecil. Pantainya berpasir putih dan dikelilingi laut biru. Beberapa di antaranya adalah Derawan, Maratua, Sangalaki, dan Kakaban. Wisatawan menuju ke sana naik perahu. Air lautnya sangat jernih. Dari atas perahu, dasar laut tampak jelas. Cahaya matahari menembus air hingga ke dasar. Terumbu karang berwarna-warni tumbuh di sana. Banyak ikan kecil berenang di sela karang. Pemandangan bawah lautnya sangat indah. Berbagai jenis ikan dan hewan laut hidup di perairan itu. Karena itu, Derawan dijuluki surga bawah laut. Wisatawan dapat berenang dan menyelam di sana. Ada juga yang memilih snorkeling di dekat dermaga. Di sekitar Pulau Derawan, penyu hijau sering terlihat berenang. Di Pulau Kakaban ada danau di tengah pulau. Danau itu dihuni ubur-ubur yang tidak menyengat. Wisatawan boleh berenang bersama ubur-ubur itu. Di dermaga, wisatawan dapat bersantai sambil melihat laut. Wisatawan perlu menjaga kebersihan laut. Jangan membuang sampah ke laut. Jangan menyentuh atau menginjak terumbu karang. Petugas setempat ikut membantu menjaga kawasan ini. Dengan begitu, keindahan Derawan tetap terjaga. Judul teks ini dinilai sesuai oleh Sekar, Bima, dan Tomi, tetapi alasan mereka berbeda. Pendapat siapa yang tepat? Pilih Benar atau Salah untuk setiap pernyataan berdasarkan isi teks!",
           "pertanyaan": "Judul teks ini dinilai sesuai oleh Sekar, Bima, dan Tomi, tetapi alasan mereka berbeda. Pendapat siapa yang tepat? Pilih Benar atau Salah untuk setiap pernyataan berdasarkan isi teks!",
@@ -2575,6 +2608,7 @@
           "no": 4,
           "video": "",
           "title": "Pempek, Jajanan Khas Palembang",
+          "materi": "Mencari Informasi Tersurat",
           "tipe": "pgk",
           "soal": "Pempek, Jajanan Khas Palembang. Pempek adalah makanan khas Palembang. Dahulu, Palembang menjadi kota dagang yang ramai. Pedagang dari Tiongkok pun datang dan menetap. Konon, seorang lelaki tua keturunan Tionghoa mengolah ikan Sungai Musi yang melimpah. Ia mencampur daging ikan dengan sagu. Pembeli memanggil penjualnya apek. Saat ia berkeliling, pembeli berseru, “Pek, apek!” Lama-lama, makanan itu disebut pempek. Adonan ikan dan sagu dimasukkan ke air mendidih. Mula-mula, adonan tenggelam dan masih lembek. Perlahan, adonan naik dan mengapung. Saat itu, pempek sudah matang dan kenyal. Pempek dimakan dengan cuko, kuah yang asam, manis, dan pedas. Kini, ikan tenggiri sering dipakai untuk membuat pempek. Pempek juga dibuat dalam berbagai bentuk, misalnya lenjer dan kapal selam. Mengapa makanan itu lama-lama disebut pempek? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
           "pertanyaan": "Mengapa makanan itu lama-lama disebut pempek? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
@@ -2654,6 +2688,7 @@
           "no": 5,
           "video": "",
           "title": "Pempek, Jajanan Khas Palembang",
+          "materi": "Perubahan Tokoh, Latar & Objek",
           "tipe": "bs",
           "soal": "Pempek, Jajanan Khas Palembang. Pempek adalah makanan khas Palembang. Dahulu, Palembang menjadi kota dagang yang ramai. Pedagang dari Tiongkok pun datang dan menetap. Konon, seorang lelaki tua keturunan Tionghoa mengolah ikan Sungai Musi yang melimpah. Ia mencampur daging ikan dengan sagu. Pembeli memanggil penjualnya apek. Saat ia berkeliling, pembeli berseru, “Pek, apek!” Lama-lama, makanan itu disebut pempek. Adonan ikan dan sagu dimasukkan ke air mendidih. Mula-mula, adonan tenggelam dan masih lembek. Perlahan, adonan naik dan mengapung. Saat itu, pempek sudah matang dan kenyal. Pempek dimakan dengan cuko, kuah yang asam, manis, dan pedas. Kini, ikan tenggiri sering dipakai untuk membuat pempek. Pempek juga dibuat dalam berbagai bentuk, misalnya lenjer dan kapal selam. Bagaimana keadaan adonan pempek sebelum dan sesudah mengapung di air mendidih? Pilih Sebelum atau Sesudah untuk setiap pernyataan berdasarkan isi teks!",
           "pertanyaan": "Bagaimana keadaan adonan pempek sebelum dan sesudah mengapung di air mendidih? Pilih Sebelum atau Sesudah untuk setiap pernyataan berdasarkan isi teks!",
@@ -2737,6 +2772,7 @@
           "no": 6,
           "video": "",
           "title": "Bekal Rani",
+          "materi": "Unsur Cerita Fiksi",
           "tipe": "pgk",
           "soal": "Bekal Rani. (Jam istirahat di halaman SD Nusantara. Rani duduk di bangku bawah pohon mangga sambil membuka kotak bekalnya.) Bayu: (menghampiri) Rani, kamu bawa apa hari ini? Rani: Nasi, telur dadar, dan tumis bayam. Ibu yang membuatnya tadi pagi. Bayu: (merogoh saku) Aduh, uang jajanku habis lagi. Kantongku kering sebelum hari Kamis. Rani: Kamu jajan apa saja, Bayu? Bayu: Gorengan, es sirup, dan permen. Setiap hari. Bayu: Soalnya di kantin banyak yang enak. Aku sulit menahan diri. (Ia tertawa malu.) Rani: Pantas saja cepat habis. Aku membawa bekal, jadi uang sakuku utuh. Sebagian kutabung. Bayu: Tetapi membawa bekal itu merepotkan, ya? Rani: Tidak juga. Bekal dari rumah lebih bersih dan bergizi. (Ia menyodorkan telur dadar.) Cobalah. Bayu: (mengunyah) Enak sekali! Perutku juga tidak sakit seperti kemarin. (Bu Sinta menghampiri mereka sambil tersenyum.) Bu Sinta: Betul, Bayu. Sehat tidak harus mahal. Bekal sederhana pun cukup untuk membuat badan kuat. Bayu: Mulai besok aku mau membawa bekal juga, Bu. Rani: Nanti kita makan bersama lagi, ya! Bu Sinta: Bagus. Kebiasaan baik dimulai dari hal kecil. Nilai apa saja yang dapat diteladani dari cerita tersebut? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
           "pertanyaan": "Nilai apa saja yang dapat diteladani dari cerita tersebut? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
@@ -2816,6 +2852,7 @@
           "no": 7,
           "video": "",
           "title": "Bekal Rani",
+          "materi": "Makna Ungkapan & Peribahasa",
           "tipe": "pg",
           "soal": "Bekal Rani. (Jam istirahat di halaman SD Nusantara. Rani duduk di bangku bawah pohon mangga sambil membuka kotak bekalnya.) Bayu: (menghampiri) Rani, kamu bawa apa hari ini? Rani: Nasi, telur dadar, dan tumis bayam. Ibu yang membuatnya tadi pagi. Bayu: (merogoh saku) Aduh, uang jajanku habis lagi. Kantongku kering sebelum hari Kamis. Rani: Kamu jajan apa saja, Bayu? Bayu: Gorengan, es sirup, dan permen. Setiap hari. Bayu: Soalnya di kantin banyak yang enak. Aku sulit menahan diri. (Ia tertawa malu.) Rani: Pantas saja cepat habis. Aku membawa bekal, jadi uang sakuku utuh. Sebagian kutabung. Bayu: Tetapi membawa bekal itu merepotkan, ya? Rani: Tidak juga. Bekal dari rumah lebih bersih dan bergizi. (Ia menyodorkan telur dadar.) Cobalah. Bayu: (mengunyah) Enak sekali! Perutku juga tidak sakit seperti kemarin. (Bu Sinta menghampiri mereka sambil tersenyum.) Bu Sinta: Betul, Bayu. Sehat tidak harus mahal. Bekal sederhana pun cukup untuk membuat badan kuat. Bayu: Mulai besok aku mau membawa bekal juga, Bu. Rani: Nanti kita makan bersama lagi, ya! Bu Sinta: Bagus. Kebiasaan baik dimulai dari hal kecil. Maksud ungkapan “kantongku kering” pada ucapan Bayu adalah ....",
           "pertanyaan": "Maksud ungkapan “kantongku kering” pada ucapan Bayu adalah ....",
@@ -2885,6 +2922,7 @@
           "no": 8,
           "video": "",
           "title": "Bekal Rani",
+          "materi": "Menilai & Menyimpulkan Teks",
           "tipe": "bs",
           "soal": "Bekal Rani. (Jam istirahat di halaman SD Nusantara. Rani duduk di bangku bawah pohon mangga sambil membuka kotak bekalnya.) Bayu: (menghampiri) Rani, kamu bawa apa hari ini? Rani: Nasi, telur dadar, dan tumis bayam. Ibu yang membuatnya tadi pagi. Bayu: (merogoh saku) Aduh, uang jajanku habis lagi. Kantongku kering sebelum hari Kamis. Rani: Kamu jajan apa saja, Bayu? Bayu: Gorengan, es sirup, dan permen. Setiap hari. Bayu: Soalnya di kantin banyak yang enak. Aku sulit menahan diri. (Ia tertawa malu.) Rani: Pantas saja cepat habis. Aku membawa bekal, jadi uang sakuku utuh. Sebagian kutabung. Bayu: Tetapi membawa bekal itu merepotkan, ya? Rani: Tidak juga. Bekal dari rumah lebih bersih dan bergizi. (Ia menyodorkan telur dadar.) Cobalah. Bayu: (mengunyah) Enak sekali! Perutku juga tidak sakit seperti kemarin. (Bu Sinta menghampiri mereka sambil tersenyum.) Bu Sinta: Betul, Bayu. Sehat tidak harus mahal. Bekal sederhana pun cukup untuk membuat badan kuat. Bayu: Mulai besok aku mau membawa bekal juga, Bu. Rani: Nanti kita makan bersama lagi, ya! Bu Sinta: Bagus. Kebiasaan baik dimulai dari hal kecil. Gita selesai membaca cerita ini dan ingin meniru kebiasaan Rani. Bagaimana tindakan Gita berikut? Pilih Sesuai atau Tidak Sesuai untuk setiap pernyataan berdasarkan isi teks!",
           "pertanyaan": "Gita selesai membaca cerita ini dan ingin meniru kebiasaan Rani. Bagaimana tindakan Gita berikut? Pilih Sesuai atau Tidak Sesuai untuk setiap pernyataan berdasarkan isi teks!",
@@ -2963,6 +3001,7 @@
           "no": 9,
           "video": "",
           "title": "Kunang-kunang di Belakang Rumah",
+          "materi": "Mencari Informasi Tersurat",
           "tipe": "pg",
           "soal": "Kunang-kunang di Belakang Rumah. Minggu, 3 Agustus. Sore tadi hujan turun deras. Malamnya aku menunggu di teras belakang rumah bersama Kakek. Kata Kakek, kunang-kunang suka tempat yang lembap, apalagi sesudah hujan. Kakek mematikan lampu teras supaya cahaya kecil mudah terlihat. Nyamuk menggigit kakiku, jadi aku agak kesal. Lalu satu titik cahaya muncul di semak-semak. Tak lama, titik lain datang. Udara terasa sejuk dan tenang. Aku senang karena kunang-kunang itu makin banyak. Kata Kakek, kedipan itu cara kunang-kunang memanggil temannya. Cahayanya keluar dari perut mereka. Aku senang karena Kakek mau menemaniku sampai larut. Besok aku mau mengajak Dina melihatnya. Mengapa kunang-kunang berkedip menurut Kakek?",
           "pertanyaan": "Mengapa kunang-kunang berkedip menurut Kakek?",
@@ -3031,6 +3070,7 @@
           "no": 10,
           "video": "",
           "title": "Kunang-kunang di Belakang Rumah",
+          "materi": "Mencari Informasi Tersurat",
           "tipe": "pgk",
           "soal": "Kunang-kunang di Belakang Rumah. Minggu, 3 Agustus. Sore tadi hujan turun deras. Malamnya aku menunggu di teras belakang rumah bersama Kakek. Kata Kakek, kunang-kunang suka tempat yang lembap, apalagi sesudah hujan. Kakek mematikan lampu teras supaya cahaya kecil mudah terlihat. Nyamuk menggigit kakiku, jadi aku agak kesal. Lalu satu titik cahaya muncul di semak-semak. Tak lama, titik lain datang. Udara terasa sejuk dan tenang. Aku senang karena kunang-kunang itu makin banyak. Kata Kakek, kedipan itu cara kunang-kunang memanggil temannya. Cahayanya keluar dari perut mereka. Aku senang karena Kakek mau menemaniku sampai larut. Besok aku mau mengajak Dina melihatnya. Apa saja yang membuat tokoh aku merasa senang? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
           "pertanyaan": "Apa saja yang membuat tokoh aku merasa senang? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
@@ -3108,6 +3148,7 @@
           "no": 11,
           "video": "",
           "title": "Jam Dinding yang Ingin Beristirahat",
+          "materi": "Mencari Informasi Tersurat",
           "tipe": "pg",
           "soal": "Jam Dinding yang Ingin Beristirahat. Jam dinding di ruang tamu Bu Sari berdetak sepanjang hari. Tik, tok, tik, tok. Jam itu sudah bekerja bertahun-tahun. Suatu malam, jam itu mengeluh, “Aku lelah. Jarumku berputar tanpa henti.” Jarum pendek menyahut, “Kalau begitu, berhentilah sebentar.” Jam pun berhenti berdetak tepat pukul sembilan. Ruang tamu menjadi sunyi. Biasanya, suara detak jam membangunkan Dimas, anak Bu Sari. Pagi itu, Dimas bangun kesiangan. Ia berlari ke sekolah tanpa sarapan. Melihat itu, jam merasa bersalah. “Maaf, Dimas,” bisiknya. Sore itu, Bu Sari mengganti baterai jam. Jam berdetak lagi dengan semangat. Dimas pun tidak terlambat lagi. Apa yang Dimas lakukan setelah bangun kesiangan?",
           "pertanyaan": "Apa yang Dimas lakukan setelah bangun kesiangan?",
@@ -3176,6 +3217,7 @@
           "no": 12,
           "video": "",
           "title": "Jam Dinding yang Ingin Beristirahat",
+          "materi": "Mencari Informasi Tersurat",
           "tipe": "pgk",
           "soal": "Jam Dinding yang Ingin Beristirahat. Jam dinding di ruang tamu Bu Sari berdetak sepanjang hari. Tik, tok, tik, tok. Jam itu sudah bekerja bertahun-tahun. Suatu malam, jam itu mengeluh, “Aku lelah. Jarumku berputar tanpa henti.” Jarum pendek menyahut, “Kalau begitu, berhentilah sebentar.” Jam pun berhenti berdetak tepat pukul sembilan. Ruang tamu menjadi sunyi. Biasanya, suara detak jam membangunkan Dimas, anak Bu Sari. Pagi itu, Dimas bangun kesiangan. Ia berlari ke sekolah tanpa sarapan. Melihat itu, jam merasa bersalah. “Maaf, Dimas,” bisiknya. Sore itu, Bu Sari mengganti baterai jam. Jam berdetak lagi dengan semangat. Dimas pun tidak terlambat lagi. Apa saja yang terjadi pada jam dinding dalam cerita? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
           "pertanyaan": "Apa saja yang terjadi pada jam dinding dalam cerita? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
@@ -3249,6 +3291,7 @@
           "no": 13,
           "video": "",
           "title": "Pacu Jalur di Tepian Kuantan",
+          "materi": "Menyusun Kembali & Ikhtisar",
           "tipe": "pg",
           "soal": "Pacu Jalur di Tepian Kuantan. Setiap tahun, kampung kakekku di Kuantan Singingi mengadakan pacu jalur. Jalur adalah perahu panjang dari satu batang pohon besar. Aku, Ayah, dan Ibu berangkat dari Pekanbaru naik mobil. Warga dari banyak kampung datang menonton di tepi sungai. Kami ingin duduk di dekat garis awal lomba. Mula-mula, mobil kami mogok di tengah jalan. Asap tipis keluar dari mesin. Lalu Ayah menepi dan mencoba memperbaiki mesin sendiri, tetapi gagal. Aku cemas karena lomba hampir dimulai. Aku hanya bisa memandangi jalan yang sepi. Setelah itu, Ayah menelepon Kakek. Tak lama, Paman Salim dan dua tetangga datang naik motor. Mereka membantu mendorong mobil ke bengkel desa. Akhirnya mobil bisa berjalan lagi. Kami tiba saat babak pertama sudah selesai. Rencana duduk di dekat garis awal pun batal. Kami menonton dari tepi sungai yang agak jauh. Di Sungai Kuantan, puluhan pendayung duduk berbaris di dalam jalur. Di bagian depan, tukang concang menari sambil memberi aba-aba. Semua pendayung mendayung serempak mengikuti irama itu. Air sungai memercik ke segala arah. Jalur kampung kakek sempat tertinggal, tetapi para pendayung terus kompak dan akhirnya menyusul. \"Jalur hanya melaju kencang kalau semua bekerja sama,\" kata Kakek. Aku mengangguk. Hari itu aku tidak lagi menyesal karena terlambat. Ibu tersenyum dan mengajakku membeli jagung bakar. Bagaimana urutan peristiwa yang dialami keluarga Raka dalam perjalanan?",
           "pertanyaan": "Bagaimana urutan peristiwa yang dialami keluarga Raka dalam perjalanan?",
@@ -3319,6 +3362,7 @@
           "no": 14,
           "video": "",
           "title": "Pacu Jalur di Tepian Kuantan",
+          "materi": "Mencari Informasi Tersurat",
           "tipe": "pgk",
           "soal": "Pacu Jalur di Tepian Kuantan. Setiap tahun, kampung kakekku di Kuantan Singingi mengadakan pacu jalur. Jalur adalah perahu panjang dari satu batang pohon besar. Aku, Ayah, dan Ibu berangkat dari Pekanbaru naik mobil. Warga dari banyak kampung datang menonton di tepi sungai. Kami ingin duduk di dekat garis awal lomba. Mula-mula, mobil kami mogok di tengah jalan. Asap tipis keluar dari mesin. Lalu Ayah menepi dan mencoba memperbaiki mesin sendiri, tetapi gagal. Aku cemas karena lomba hampir dimulai. Aku hanya bisa memandangi jalan yang sepi. Setelah itu, Ayah menelepon Kakek. Tak lama, Paman Salim dan dua tetangga datang naik motor. Mereka membantu mendorong mobil ke bengkel desa. Akhirnya mobil bisa berjalan lagi. Kami tiba saat babak pertama sudah selesai. Rencana duduk di dekat garis awal pun batal. Kami menonton dari tepi sungai yang agak jauh. Di Sungai Kuantan, puluhan pendayung duduk berbaris di dalam jalur. Di bagian depan, tukang concang menari sambil memberi aba-aba. Semua pendayung mendayung serempak mengikuti irama itu. Air sungai memercik ke segala arah. Jalur kampung kakek sempat tertinggal, tetapi para pendayung terus kompak dan akhirnya menyusul. \"Jalur hanya melaju kencang kalau semua bekerja sama,\" kata Kakek. Aku mengangguk. Hari itu aku tidak lagi menyesal karena terlambat. Ibu tersenyum dan mengajakku membeli jagung bakar. Peristiwa mana saja yang menunjukkan sikap bekerja sama? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
           "pertanyaan": "Peristiwa mana saja yang menunjukkan sikap bekerja sama? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
@@ -3393,6 +3437,7 @@
           "no": 15,
           "video": "",
           "title": "Pacu Jalur di Tepian Kuantan",
+          "materi": "Respons Emosi terhadap Cerita",
           "tipe": "pg",
           "soal": "Pacu Jalur di Tepian Kuantan. Setiap tahun, kampung kakekku di Kuantan Singingi mengadakan pacu jalur. Jalur adalah perahu panjang dari satu batang pohon besar. Aku, Ayah, dan Ibu berangkat dari Pekanbaru naik mobil. Warga dari banyak kampung datang menonton di tepi sungai. Kami ingin duduk di dekat garis awal lomba. Mula-mula, mobil kami mogok di tengah jalan. Asap tipis keluar dari mesin. Lalu Ayah menepi dan mencoba memperbaiki mesin sendiri, tetapi gagal. Aku cemas karena lomba hampir dimulai. Aku hanya bisa memandangi jalan yang sepi. Setelah itu, Ayah menelepon Kakek. Tak lama, Paman Salim dan dua tetangga datang naik motor. Mereka membantu mendorong mobil ke bengkel desa. Akhirnya mobil bisa berjalan lagi. Kami tiba saat babak pertama sudah selesai. Rencana duduk di dekat garis awal pun batal. Kami menonton dari tepi sungai yang agak jauh. Di Sungai Kuantan, puluhan pendayung duduk berbaris di dalam jalur. Di bagian depan, tukang concang menari sambil memberi aba-aba. Semua pendayung mendayung serempak mengikuti irama itu. Air sungai memercik ke segala arah. Jalur kampung kakek sempat tertinggal, tetapi para pendayung terus kompak dan akhirnya menyusul. \"Jalur hanya melaju kencang kalau semua bekerja sama,\" kata Kakek. Aku mengangguk. Hari itu aku tidak lagi menyesal karena terlambat. Ibu tersenyum dan mengajakku membeli jagung bakar. Kelompok kamu sedang membuat poster untuk pameran sekolah. Waktu hampir habis, tetapi pekerjaan belum selesai. Setelah membaca cerita Raka, apa yang paling tepat kamu lakukan?",
           "pertanyaan": "Kelompok kamu sedang membuat poster untuk pameran sekolah. Waktu hampir habis, tetapi pekerjaan belum selesai. Setelah membaca cerita Raka, apa yang paling tepat kamu lakukan?",
@@ -3466,6 +3511,7 @@
           "no": 16,
           "video": "",
           "title": "Rumah Sehat",
+          "materi": "Ide Pokok & Gagasan Pendukung",
           "tipe": "pg",
           "soal": "Rumah Sehat. Rumah adalah tempat keluarga berkumpul dan beristirahat. Di rumah, anak-anak makan, tidur, dan belajar. Karena itu, rumah harus dijaga agar tetap sehat. Ada beberapa kebiasaan yang perlu dilakukan setiap keluarga. Semua anggota keluarga ikut membantu menjaganya. Pertama, jendela dibuka setiap pagi. Udara segar pun masuk sehingga ruangan tidak pengap. Kedua, cahaya matahari dibiarkan masuk ke dalam rumah. Sinar itu membuat dinding tidak lembap dan jamur sulit tumbuh. Ketiga, bak mandi dikuras seminggu sekali. Akibatnya, jentik nyamuk tidak sempat berkembang. Keempat, sampah dibuang ke tempat sampah di luar rumah. Rumah pun tidak berbau. Kelima, halaman ditanami tanaman dalam pot. Tanaman membuat halaman terasa sejuk dan asri. Halaman yang rapi juga enak dipandang. Keluarga yang memiliki rumah sehat jarang sakit. Mereka juga menghemat biaya berobat. Mereka dapat belajar dan bekerja dengan tenang. Rumah yang sehat membuat penghuninya betah. Kebiasaan sederhana ini mudah dilakukan setiap hari. Gagasan utama yang dibahas pada teks tersebut adalah ...",
           "pertanyaan": "Gagasan utama yang dibahas pada teks tersebut adalah ...",
@@ -3533,6 +3579,7 @@
           "no": 17,
           "video": "",
           "title": "Rumah Sehat",
+          "materi": "Mencari Informasi Tersurat",
           "tipe": "pg",
           "soal": "Rumah Sehat. Rumah adalah tempat keluarga berkumpul dan beristirahat. Di rumah, anak-anak makan, tidur, dan belajar. Karena itu, rumah harus dijaga agar tetap sehat. Ada beberapa kebiasaan yang perlu dilakukan setiap keluarga. Semua anggota keluarga ikut membantu menjaganya. Pertama, jendela dibuka setiap pagi. Udara segar pun masuk sehingga ruangan tidak pengap. Kedua, cahaya matahari dibiarkan masuk ke dalam rumah. Sinar itu membuat dinding tidak lembap dan jamur sulit tumbuh. Ketiga, bak mandi dikuras seminggu sekali. Akibatnya, jentik nyamuk tidak sempat berkembang. Keempat, sampah dibuang ke tempat sampah di luar rumah. Rumah pun tidak berbau. Kelima, halaman ditanami tanaman dalam pot. Tanaman membuat halaman terasa sejuk dan asri. Halaman yang rapi juga enak dipandang. Keluarga yang memiliki rumah sehat jarang sakit. Mereka juga menghemat biaya berobat. Mereka dapat belajar dan bekerja dengan tenang. Rumah yang sehat membuat penghuninya betah. Kebiasaan sederhana ini mudah dilakukan setiap hari. Apa hasil dari menguras bak mandi secara rutin menurut teks?",
           "pertanyaan": "Apa hasil dari menguras bak mandi secara rutin menurut teks?",
@@ -3600,6 +3647,7 @@
           "no": 18,
           "video": "",
           "title": "Rumah Sehat",
+          "materi": "Mencari Informasi Tersurat",
           "tipe": "pgk",
           "soal": "Rumah Sehat. Rumah adalah tempat keluarga berkumpul dan beristirahat. Di rumah, anak-anak makan, tidur, dan belajar. Karena itu, rumah harus dijaga agar tetap sehat. Ada beberapa kebiasaan yang perlu dilakukan setiap keluarga. Semua anggota keluarga ikut membantu menjaganya. Pertama, jendela dibuka setiap pagi. Udara segar pun masuk sehingga ruangan tidak pengap. Kedua, cahaya matahari dibiarkan masuk ke dalam rumah. Sinar itu membuat dinding tidak lembap dan jamur sulit tumbuh. Ketiga, bak mandi dikuras seminggu sekali. Akibatnya, jentik nyamuk tidak sempat berkembang. Keempat, sampah dibuang ke tempat sampah di luar rumah. Rumah pun tidak berbau. Kelima, halaman ditanami tanaman dalam pot. Tanaman membuat halaman terasa sejuk dan asri. Halaman yang rapi juga enak dipandang. Keluarga yang memiliki rumah sehat jarang sakit. Mereka juga menghemat biaya berobat. Mereka dapat belajar dan bekerja dengan tenang. Rumah yang sehat membuat penghuninya betah. Kebiasaan sederhana ini mudah dilakukan setiap hari. Perhatikan teks dan gambar! Hal apa saja yang disebut dalam teks dan juga tampak pada gambar? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
           "pertanyaan": "Perhatikan teks dan gambar! Hal apa saja yang disebut dalam teks dan juga tampak pada gambar? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
@@ -3676,6 +3724,7 @@
           "no": 19,
           "video": "",
           "title": "Jamu Bu Wati",
+          "materi": "Menilai & Menyimpulkan Teks",
           "tipe": "bs",
           "soal": "Jamu Bu Wati. Setiap pagi, Bu Wati menjual jamu gendong keliling kampung. Ia menggendong bakul berisi botol jamu kunyit asam dan beras kencur. Kain gendongnya sudah lusuh, tetapi selalu bersih. Wangi jamu menyebar di sepanjang jalan. Langkahnya cepat dan sapaannya ramah. Para pelanggan sering menunggunya di depan rumah. Bu Wati sudah dua puluh tahun berjualan jamu. Dari hasil itulah ia membiayai sekolah anaknya. Anaknya, Ratih, duduk di kelas XI SMK. Setiap hari Sabtu, Ratih diminta mengisi botol jamu di dapur. Ia sering mengeluh. \"Capek, Bu. Aku mau istirahat saja,\" katanya. Suatu Sabtu, pesanan jamu menumpuk karena banyak tetangga sedang pilek. Ratih duduk sambil bermain ponsel. Bu Wati mengisi botol sendirian, dan keringat menetes di dahinya. \"Ratih, uang sakumu berasal dari jamu ini,\" kata Bu Wati pelan. \"Ibu tidak marah. Ibu hanya ingin kamu menghargai kerja keras kami.\" Ratih terdiam. Ia melihat tangan ibunya gemetar karena lelah. Ratih meletakkan ponselnya, lalu mencuci tangan. Ia membantu mengisi botol sampai pesanan selesai. Sabtu berikutnya, Ratih bangun lebih pagi dan menyiapkan botol jamu di dapur agar ibunya tidak cepat lelah. Ia juga menempel label pada setiap botol. Bu Wati tersenyum dan mengelus kepala anaknya. \"Terima kasih, Nak,\" katanya. Dari jendela, Ratih melihat ibunya berangkat dengan langkah ringan. Pagi itu kampung terasa lebih cerah. Setelah membaca bagian akhir cerita, Fajar, Wulan, dan Intan saling berpendapat. Pendapat siapa yang sesuai dengan bagian akhir cerita? Pilih Sesuai atau Tidak Sesuai untuk setiap pernyataan berdasarkan isi teks!",
           "pertanyaan": "Setelah membaca bagian akhir cerita, Fajar, Wulan, dan Intan saling berpendapat. Pendapat siapa yang sesuai dengan bagian akhir cerita? Pilih Sesuai atau Tidak Sesuai untuk setiap pernyataan berdasarkan isi teks!",
@@ -3758,6 +3807,7 @@
           "no": 20,
           "video": "",
           "title": "Jamu Bu Wati",
+          "materi": "Mencari Informasi Tersurat",
           "tipe": "pgk",
           "soal": "Jamu Bu Wati. Setiap pagi, Bu Wati menjual jamu gendong keliling kampung. Ia menggendong bakul berisi botol jamu kunyit asam dan beras kencur. Kain gendongnya sudah lusuh, tetapi selalu bersih. Wangi jamu menyebar di sepanjang jalan. Langkahnya cepat dan sapaannya ramah. Para pelanggan sering menunggunya di depan rumah. Bu Wati sudah dua puluh tahun berjualan jamu. Dari hasil itulah ia membiayai sekolah anaknya. Anaknya, Ratih, duduk di kelas XI SMK. Setiap hari Sabtu, Ratih diminta mengisi botol jamu di dapur. Ia sering mengeluh. \"Capek, Bu. Aku mau istirahat saja,\" katanya. Suatu Sabtu, pesanan jamu menumpuk karena banyak tetangga sedang pilek. Ratih duduk sambil bermain ponsel. Bu Wati mengisi botol sendirian, dan keringat menetes di dahinya. \"Ratih, uang sakumu berasal dari jamu ini,\" kata Bu Wati pelan. \"Ibu tidak marah. Ibu hanya ingin kamu menghargai kerja keras kami.\" Ratih terdiam. Ia melihat tangan ibunya gemetar karena lelah. Ratih meletakkan ponselnya, lalu mencuci tangan. Ia membantu mengisi botol sampai pesanan selesai. Sabtu berikutnya, Ratih bangun lebih pagi dan menyiapkan botol jamu di dapur agar ibunya tidak cepat lelah. Ia juga menempel label pada setiap botol. Bu Wati tersenyum dan mengelus kepala anaknya. \"Terima kasih, Nak,\" katanya. Dari jendela, Ratih melihat ibunya berangkat dengan langkah ringan. Pagi itu kampung terasa lebih cerah. Bagian cerita mana saja yang menunjukkan Bu Wati seorang penjual jamu gendong? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
           "pertanyaan": "Bagian cerita mana saja yang menunjukkan Bu Wati seorang penjual jamu gendong? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
@@ -3835,6 +3885,7 @@
           "no": 21,
           "video": "",
           "title": "Jamu Bu Wati",
+          "materi": "Perubahan Tokoh, Latar & Objek",
           "tipe": "pg",
           "soal": "Jamu Bu Wati. Setiap pagi, Bu Wati menjual jamu gendong keliling kampung. Ia menggendong bakul berisi botol jamu kunyit asam dan beras kencur. Kain gendongnya sudah lusuh, tetapi selalu bersih. Wangi jamu menyebar di sepanjang jalan. Langkahnya cepat dan sapaannya ramah. Para pelanggan sering menunggunya di depan rumah. Bu Wati sudah dua puluh tahun berjualan jamu. Dari hasil itulah ia membiayai sekolah anaknya. Anaknya, Ratih, duduk di kelas XI SMK. Setiap hari Sabtu, Ratih diminta mengisi botol jamu di dapur. Ia sering mengeluh. \"Capek, Bu. Aku mau istirahat saja,\" katanya. Suatu Sabtu, pesanan jamu menumpuk karena banyak tetangga sedang pilek. Ratih duduk sambil bermain ponsel. Bu Wati mengisi botol sendirian, dan keringat menetes di dahinya. \"Ratih, uang sakumu berasal dari jamu ini,\" kata Bu Wati pelan. \"Ibu tidak marah. Ibu hanya ingin kamu menghargai kerja keras kami.\" Ratih terdiam. Ia melihat tangan ibunya gemetar karena lelah. Ratih meletakkan ponselnya, lalu mencuci tangan. Ia membantu mengisi botol sampai pesanan selesai. Sabtu berikutnya, Ratih bangun lebih pagi dan menyiapkan botol jamu di dapur agar ibunya tidak cepat lelah. Ia juga menempel label pada setiap botol. Bu Wati tersenyum dan mengelus kepala anaknya. \"Terima kasih, Nak,\" katanya. Dari jendela, Ratih melihat ibunya berangkat dengan langkah ringan. Pagi itu kampung terasa lebih cerah. Hendra selesai membaca cerita itu. Apa perubahan sikap Ratih terhadap pekerjaan ibunya yang Hendra temukan?",
           "pertanyaan": "Hendra selesai membaca cerita itu. Apa perubahan sikap Ratih terhadap pekerjaan ibunya yang Hendra temukan?",
@@ -3908,6 +3959,7 @@
           "no": 22,
           "video": "",
           "title": "Aku Suka Berkebun",
+          "materi": "Respons Emosi terhadap Cerita",
           "tipe": "bs",
           "soal": "Aku Suka Berkebun. Teman-temanku di kampung suka bermain bola. Setiap sore mereka berlari di lapangan sampai bajunya basah oleh keringat. Aku berbeda. Aku lebih suka berkebun di halaman rumah. Di sana ada tanah gembur, cangkul kecil, dan ember tuaku. Aku suka mencium bau tanah basah. Awalnya, aku diejek. “Main bola saja, Rafi! Jangan main tanah!” kata Dimas sambil tertawa. Teman-teman lain ikut tertawa. Aku diam saja. Wajahku terasa panas. Dadaku terasa sesak. Sore itu aku hampir menyimpan cangkulku. Nenek melihatku murung. Lalu Nenek mengajariku menanam bayam. Pertama, kami menggemburkan tanah dan membuat bedengan. Kemudian kami menabur benih bayam. Nenek sabar menjawab semua pertanyaanku. “Tanaman itu butuh air dan kesabaran,” kata Nenek. Aku pun menyiram bayamku setiap pagi. Aku mencabuti rumput tanpa mengeluh. Kalau hujan deras, aku menutup bedengan dengan plastik. Dua minggu kemudian, daun bayamku tumbuh hijau dan segar. Aku memetiknya dengan hati-hati. Ibu memasaknya menjadi sayur bening. Kami makan bersama di teras rumah. Rasanya enak sekali! Aku bangga pada hasil kerjaku. Besoknya, Dimas datang ke rumahku. Ia menunduk di depan pagar. “Maaf ya, Rafi. Boleh aku belajar menanam?” tanyanya malu-malu. Aku tersenyum lebar. Kami menanam sawi berdua. Sekarang kami berkebun setiap hari Minggu. Hatiku terasa ringan. Dinda selesai membaca cerita “Aku Suka Berkebun”. Seperti Rafi, Dinda gemar menjahit dan sering diejek temannya. Ia memberi tiga tanggapan tentang cerita itu. Setujukah kamu dengan tanggapan Dinda? Pilih Setuju atau Tidak Setuju untuk setiap pernyataan berdasarkan isi teks!",
           "pertanyaan": "Dinda selesai membaca cerita “Aku Suka Berkebun”. Seperti Rafi, Dinda gemar menjahit dan sering diejek temannya. Ia memberi tiga tanggapan tentang cerita itu. Setujukah kamu dengan tanggapan Dinda? Pilih Setuju atau Tidak Setuju untuk setiap pernyataan berdasarkan isi teks!",
@@ -3993,6 +4045,7 @@
           "no": 23,
           "video": "",
           "title": "Aku Suka Berkebun",
+          "materi": "Mencari Informasi Tersurat",
           "tipe": "pg",
           "soal": "Aku Suka Berkebun. Teman-temanku di kampung suka bermain bola. Setiap sore mereka berlari di lapangan sampai bajunya basah oleh keringat. Aku berbeda. Aku lebih suka berkebun di halaman rumah. Di sana ada tanah gembur, cangkul kecil, dan ember tuaku. Aku suka mencium bau tanah basah. Awalnya, aku diejek. “Main bola saja, Rafi! Jangan main tanah!” kata Dimas sambil tertawa. Teman-teman lain ikut tertawa. Aku diam saja. Wajahku terasa panas. Dadaku terasa sesak. Sore itu aku hampir menyimpan cangkulku. Nenek melihatku murung. Lalu Nenek mengajariku menanam bayam. Pertama, kami menggemburkan tanah dan membuat bedengan. Kemudian kami menabur benih bayam. Nenek sabar menjawab semua pertanyaanku. “Tanaman itu butuh air dan kesabaran,” kata Nenek. Aku pun menyiram bayamku setiap pagi. Aku mencabuti rumput tanpa mengeluh. Kalau hujan deras, aku menutup bedengan dengan plastik. Dua minggu kemudian, daun bayamku tumbuh hijau dan segar. Aku memetiknya dengan hati-hati. Ibu memasaknya menjadi sayur bening. Kami makan bersama di teras rumah. Rasanya enak sekali! Aku bangga pada hasil kerjaku. Besoknya, Dimas datang ke rumahku. Ia menunduk di depan pagar. “Maaf ya, Rafi. Boleh aku belajar menanam?” tanyanya malu-malu. Aku tersenyum lebar. Kami menanam sawi berdua. Sekarang kami berkebun setiap hari Minggu. Hatiku terasa ringan. Siapa yang mengajari Rafi cara menanam bayam?",
           "pertanyaan": "Siapa yang mengajari Rafi cara menanam bayam?",
@@ -4066,6 +4119,7 @@
           "no": 24,
           "video": "",
           "title": "Aku Suka Berkebun",
+          "materi": "Unsur Cerita Fiksi",
           "tipe": "pg",
           "soal": "Aku Suka Berkebun. Teman-temanku di kampung suka bermain bola. Setiap sore mereka berlari di lapangan sampai bajunya basah oleh keringat. Aku berbeda. Aku lebih suka berkebun di halaman rumah. Di sana ada tanah gembur, cangkul kecil, dan ember tuaku. Aku suka mencium bau tanah basah. Awalnya, aku diejek. “Main bola saja, Rafi! Jangan main tanah!” kata Dimas sambil tertawa. Teman-teman lain ikut tertawa. Aku diam saja. Wajahku terasa panas. Dadaku terasa sesak. Sore itu aku hampir menyimpan cangkulku. Nenek melihatku murung. Lalu Nenek mengajariku menanam bayam. Pertama, kami menggemburkan tanah dan membuat bedengan. Kemudian kami menabur benih bayam. Nenek sabar menjawab semua pertanyaanku. “Tanaman itu butuh air dan kesabaran,” kata Nenek. Aku pun menyiram bayamku setiap pagi. Aku mencabuti rumput tanpa mengeluh. Kalau hujan deras, aku menutup bedengan dengan plastik. Dua minggu kemudian, daun bayamku tumbuh hijau dan segar. Aku memetiknya dengan hati-hati. Ibu memasaknya menjadi sayur bening. Kami makan bersama di teras rumah. Rasanya enak sekali! Aku bangga pada hasil kerjaku. Besoknya, Dimas datang ke rumahku. Ia menunduk di depan pagar. “Maaf ya, Rafi. Boleh aku belajar menanam?” tanyanya malu-malu. Aku tersenyum lebar. Kami menanam sawi berdua. Sekarang kami berkebun setiap hari Minggu. Hatiku terasa ringan. Watak Rafi dan bukti yang menunjukkannya adalah ....",
           "pertanyaan": "Watak Rafi dan bukti yang menunjukkannya adalah ....",
@@ -4141,6 +4195,7 @@
           "no": 25,
           "video": "",
           "title": "Salsa dan Seren Taun",
+          "materi": "Respons Emosi terhadap Cerita",
           "tipe": "pgk",
           "soal": "Salsa dan Seren Taun. Kampung Salsa di Jawa Barat sedang sibuk. Sebentar lagi warga akan merayakan Seren Taun. Seren Taun adalah upacara syukur atas hasil panen padi. Tradisi ini berasal dari masyarakat Sunda. Warga membawa padi dalam arak-arakan. Ada juga tarian di halaman balai desa. Anak-anak ikut menghias jalan kampung dengan janur. Sore itu Salsa melihat teman-temannya berlatih menari. Mereka berputar dan melambaikan tangan dengan lincah. Intan, sahabatnya, akan menari di barisan depan. Salsa belum pernah ikut latihan. Meski begitu, ia ingin tampil juga. “Bu Wati, aku mau menari di depan,” pinta Salsa. “Salsa belum hafal gerakannya,” jawab Bu Wati. “Pokoknya aku mau tampil! Kalau tidak, aku tidak mau ikut!” kata Salsa sambil menghentakkan kaki. Abah menghampiri mereka. “Neng, Seren Taun bukan tempat berlomba tampil,” ujar Abah dengan tenang. “Semua warga punya tugas. Ada yang menari, ada yang menabuh kendang, ada yang membawa padi. Semua sama penting.” Abah lalu menunjuk Intan. “Lihat, Intan berlatih berminggu-minggu. Kalau mau menari, ikutlah berlatih dulu. Tahun ini, bawalah seikat padi bersama Abah.” Salsa terdiam. Ia melihat keringat Intan yang bercucuran. “Maaf, Bu. Maaf, Bah. Aku mau membawa padi saja,” katanya pelan. Abah tersenyum dan mengusap kepalanya. Saat Seren Taun tiba, Salsa berjalan dalam arak-arakan. Ia memeluk seikat padi yang menguning. Aroma padi yang harum tercium di sepanjang jalan. Orang-orang bertepuk tangan di tepi jalan. Salsa berjalan dengan dada tegak sambil tersenyum lebar. “Aku ikut menjaga tradisi kampungku,” bisiknya. Esok harinya, ia mendaftar latihan menari untuk tahun depan. Raka selesai membaca cerita tentang Salsa. Di sekolahnya akan ada pentas seni, tetapi Raka tidak mendapat peran menari. Tindakan apa yang sebaiknya Raka lakukan? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
           "pertanyaan": "Raka selesai membaca cerita tentang Salsa. Di sekolahnya akan ada pentas seni, tetapi Raka tidak mendapat peran menari. Tindakan apa yang sebaiknya Raka lakukan? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
@@ -4221,6 +4276,7 @@
           "no": 26,
           "video": "",
           "title": "Salsa dan Seren Taun",
+          "materi": "Mencari Informasi Tersurat",
           "tipe": "pg",
           "soal": "Salsa dan Seren Taun. Kampung Salsa di Jawa Barat sedang sibuk. Sebentar lagi warga akan merayakan Seren Taun. Seren Taun adalah upacara syukur atas hasil panen padi. Tradisi ini berasal dari masyarakat Sunda. Warga membawa padi dalam arak-arakan. Ada juga tarian di halaman balai desa. Anak-anak ikut menghias jalan kampung dengan janur. Sore itu Salsa melihat teman-temannya berlatih menari. Mereka berputar dan melambaikan tangan dengan lincah. Intan, sahabatnya, akan menari di barisan depan. Salsa belum pernah ikut latihan. Meski begitu, ia ingin tampil juga. “Bu Wati, aku mau menari di depan,” pinta Salsa. “Salsa belum hafal gerakannya,” jawab Bu Wati. “Pokoknya aku mau tampil! Kalau tidak, aku tidak mau ikut!” kata Salsa sambil menghentakkan kaki. Abah menghampiri mereka. “Neng, Seren Taun bukan tempat berlomba tampil,” ujar Abah dengan tenang. “Semua warga punya tugas. Ada yang menari, ada yang menabuh kendang, ada yang membawa padi. Semua sama penting.” Abah lalu menunjuk Intan. “Lihat, Intan berlatih berminggu-minggu. Kalau mau menari, ikutlah berlatih dulu. Tahun ini, bawalah seikat padi bersama Abah.” Salsa terdiam. Ia melihat keringat Intan yang bercucuran. “Maaf, Bu. Maaf, Bah. Aku mau membawa padi saja,” katanya pelan. Abah tersenyum dan mengusap kepalanya. Saat Seren Taun tiba, Salsa berjalan dalam arak-arakan. Ia memeluk seikat padi yang menguning. Aroma padi yang harum tercium di sepanjang jalan. Orang-orang bertepuk tangan di tepi jalan. Salsa berjalan dengan dada tegak sambil tersenyum lebar. “Aku ikut menjaga tradisi kampungku,” bisiknya. Esok harinya, ia mendaftar latihan menari untuk tahun depan. Seren Taun adalah upacara untuk mensyukuri apa?",
           "pertanyaan": "Seren Taun adalah upacara untuk mensyukuri apa?",
@@ -4289,6 +4345,7 @@
           "no": 27,
           "video": "",
           "title": "Salsa dan Seren Taun",
+          "materi": "Perubahan Tokoh, Latar & Objek",
           "tipe": "pg",
           "soal": "Salsa dan Seren Taun. Kampung Salsa di Jawa Barat sedang sibuk. Sebentar lagi warga akan merayakan Seren Taun. Seren Taun adalah upacara syukur atas hasil panen padi. Tradisi ini berasal dari masyarakat Sunda. Warga membawa padi dalam arak-arakan. Ada juga tarian di halaman balai desa. Anak-anak ikut menghias jalan kampung dengan janur. Sore itu Salsa melihat teman-temannya berlatih menari. Mereka berputar dan melambaikan tangan dengan lincah. Intan, sahabatnya, akan menari di barisan depan. Salsa belum pernah ikut latihan. Meski begitu, ia ingin tampil juga. “Bu Wati, aku mau menari di depan,” pinta Salsa. “Salsa belum hafal gerakannya,” jawab Bu Wati. “Pokoknya aku mau tampil! Kalau tidak, aku tidak mau ikut!” kata Salsa sambil menghentakkan kaki. Abah menghampiri mereka. “Neng, Seren Taun bukan tempat berlomba tampil,” ujar Abah dengan tenang. “Semua warga punya tugas. Ada yang menari, ada yang menabuh kendang, ada yang membawa padi. Semua sama penting.” Abah lalu menunjuk Intan. “Lihat, Intan berlatih berminggu-minggu. Kalau mau menari, ikutlah berlatih dulu. Tahun ini, bawalah seikat padi bersama Abah.” Salsa terdiam. Ia melihat keringat Intan yang bercucuran. “Maaf, Bu. Maaf, Bah. Aku mau membawa padi saja,” katanya pelan. Abah tersenyum dan mengusap kepalanya. Saat Seren Taun tiba, Salsa berjalan dalam arak-arakan. Ia memeluk seikat padi yang menguning. Aroma padi yang harum tercium di sepanjang jalan. Orang-orang bertepuk tangan di tepi jalan. Salsa berjalan dengan dada tegak sambil tersenyum lebar. “Aku ikut menjaga tradisi kampungku,” bisiknya. Esok harinya, ia mendaftar latihan menari untuk tahun depan. Bagaimana perasaan Salsa setelah ikut berjalan dalam arak-arakan?",
           "pertanyaan": "Bagaimana perasaan Salsa setelah ikut berjalan dalam arak-arakan?",
@@ -4361,6 +4418,7 @@
           "no": 28,
           "video": "",
           "title": "Galih Terlambat",
+          "materi": "Makna Ungkapan & Peribahasa",
           "tipe": "pg",
           "soal": "Galih Terlambat. Bel masuk sudah berbunyi lima menit yang lalu. Galih berlari melewati gerbang sekolah sambil terengah-engah. Seragamnya kusut dan tali sepatunya belum terikat. Salsa menunggunya di depan kelas. Salsa: Galih, kamu terlambat lagi. Ada apa? Galih: Aku bangun kesiangan. Lalu aku mencari sepatu dan buku PR ke sana kemari. Salsa: Bu Ratna sudah menjelaskan pecahan tadi. Kamu ketinggalan banyak. Galih: Ah, terlambat sedikit tidak apa-apa. Pelajarannya bisa kubaca nanti. Salsa: Benarkah? Kemarin nilai kuismu berapa? Galih: (Galih menunduk.) Empat puluh. Aku tidak mengerti soal pecahan karena ketinggalan penjelasan. Bu Ratna juga menegurku di depan teman-teman. Aku malu sekali. Salsa: Aku ikut sedih mendengarnya. Mulai malam ini, siapkan tas, sepatu, dan seragammu sebelum tidur. Sedia payung sebelum hujan. Galih: Hujan? Hari ini cerah, Sal. Salsa: Kalau semuanya sudah siap sejak malam, pagi hari kamu tidak panik. Galih: Oh, begitu. Aku mau mencobanya. Aku juga akan memasang alarm lebih awal. Salsa: Bagus! Kita lihat hasilnya besok. Keesokan harinya, Galih sudah duduk di kelas sebelum bel berbunyi. Bu Ratna tersenyum melihatnya. Salsa mengacungkan jempol dari bangkunya. Hari itu Galih mengikuti pelajaran dari awal sampai akhir. Apa maksud peribahasa yang diucapkan Salsa kepada Galih?",
           "pertanyaan": "Apa maksud peribahasa yang diucapkan Salsa kepada Galih?",
@@ -4435,6 +4493,7 @@
           "no": 29,
           "video": "",
           "title": "Galih Terlambat",
+          "materi": "Perubahan Tokoh, Latar & Objek",
           "tipe": "pg",
           "soal": "Galih Terlambat. Bel masuk sudah berbunyi lima menit yang lalu. Galih berlari melewati gerbang sekolah sambil terengah-engah. Seragamnya kusut dan tali sepatunya belum terikat. Salsa menunggunya di depan kelas. Salsa: Galih, kamu terlambat lagi. Ada apa? Galih: Aku bangun kesiangan. Lalu aku mencari sepatu dan buku PR ke sana kemari. Salsa: Bu Ratna sudah menjelaskan pecahan tadi. Kamu ketinggalan banyak. Galih: Ah, terlambat sedikit tidak apa-apa. Pelajarannya bisa kubaca nanti. Salsa: Benarkah? Kemarin nilai kuismu berapa? Galih: (Galih menunduk.) Empat puluh. Aku tidak mengerti soal pecahan karena ketinggalan penjelasan. Bu Ratna juga menegurku di depan teman-teman. Aku malu sekali. Salsa: Aku ikut sedih mendengarnya. Mulai malam ini, siapkan tas, sepatu, dan seragammu sebelum tidur. Sedia payung sebelum hujan. Galih: Hujan? Hari ini cerah, Sal. Salsa: Kalau semuanya sudah siap sejak malam, pagi hari kamu tidak panik. Galih: Oh, begitu. Aku mau mencobanya. Aku juga akan memasang alarm lebih awal. Salsa: Bagus! Kita lihat hasilnya besok. Keesokan harinya, Galih sudah duduk di kelas sebelum bel berbunyi. Bu Ratna tersenyum melihatnya. Salsa mengacungkan jempol dari bangkunya. Hari itu Galih mengikuti pelajaran dari awal sampai akhir. Bagaimana sikap Galih berubah dari awal sampai akhir cerita?",
           "pertanyaan": "Bagaimana sikap Galih berubah dari awal sampai akhir cerita?",
@@ -4510,6 +4569,7 @@
           "no": 30,
           "video": "",
           "title": "Galih Terlambat",
+          "materi": "Menilai & Menyimpulkan Teks",
           "tipe": "bs",
           "soal": "Galih Terlambat. Bel masuk sudah berbunyi lima menit yang lalu. Galih berlari melewati gerbang sekolah sambil terengah-engah. Seragamnya kusut dan tali sepatunya belum terikat. Salsa menunggunya di depan kelas. Salsa: Galih, kamu terlambat lagi. Ada apa? Galih: Aku bangun kesiangan. Lalu aku mencari sepatu dan buku PR ke sana kemari. Salsa: Bu Ratna sudah menjelaskan pecahan tadi. Kamu ketinggalan banyak. Galih: Ah, terlambat sedikit tidak apa-apa. Pelajarannya bisa kubaca nanti. Salsa: Benarkah? Kemarin nilai kuismu berapa? Galih: (Galih menunduk.) Empat puluh. Aku tidak mengerti soal pecahan karena ketinggalan penjelasan. Bu Ratna juga menegurku di depan teman-teman. Aku malu sekali. Salsa: Aku ikut sedih mendengarnya. Mulai malam ini, siapkan tas, sepatu, dan seragammu sebelum tidur. Sedia payung sebelum hujan. Galih: Hujan? Hari ini cerah, Sal. Salsa: Kalau semuanya sudah siap sejak malam, pagi hari kamu tidak panik. Galih: Oh, begitu. Aku mau mencobanya. Aku juga akan memasang alarm lebih awal. Salsa: Bagus! Kita lihat hasilnya besok. Keesokan harinya, Galih sudah duduk di kelas sebelum bel berbunyi. Bu Ratna tersenyum melihatnya. Salsa mengacungkan jempol dari bangkunya. Hari itu Galih mengikuti pelajaran dari awal sampai akhir. Berdasarkan pengalaman Galih, tindakan anak lain manakah yang tepat? Pilih Benar atau Salah untuk setiap pernyataan berdasarkan isi teks!",
           "pertanyaan": "Berdasarkan pengalaman Galih, tindakan anak lain manakah yang tepat? Pilih Benar atau Salah untuk setiap pernyataan berdasarkan isi teks!",
@@ -4596,6 +4656,7 @@
           "no": 1,
           "video": "",
           "title": "Bagian Tanaman Wortel",
+          "materi": "Makhluk Hidup dan Daur Hidup",
           "tipe": "pgk",
           "soal": "Dimas membantu Bu Sari memanen wortel di kebun. Ia membaca bahwa wortel menyimpan cadangan makanan di umbinya. Dimas mencabut satu tanaman wortel utuh, lalu menandai tiga bagiannya dengan huruf K, L, dan M seperti pada gambar. Ia ingin tahu tugas tiap bagian tanaman wortel itu. Pernyataan manakah yang benar? Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.",
           "opsi": [
@@ -4679,6 +4740,7 @@
           "no": 2,
           "video": "",
           "title": "Dekat dan Jauh dari Jendela",
+          "materi": "Makhluk Hidup dan Daur Hidup",
           "tipe": "pg",
           "soal": "Rina menanam dua pot kacang hijau yang sama, dengan tanah, air, dan umur tanaman yang sama. Pot A diletakkan di dekat jendela yang terkena cahaya matahari, sedangkan pot B diletakkan di sudut ruangan yang jauh dari jendela. Setiap dua hari, Rina mengukur tinggi tanaman dan mencatat warna daunnya. Hasil lima pengamatan ada pada tabel. Pernyataan manakah yang paling tepat berdasarkan tabel?",
           "opsi": [
@@ -4750,6 +4812,7 @@
           "no": 3,
           "video": "",
           "title": "Tahap Hidup Ayam dan Kecoak",
+          "materi": "Makhluk Hidup dan Daur Hidup",
           "tipe": "bs",
           "soal": "Dimas memelihara ayam di belakang rumah dan sering melihat kecoak di dapur. Ia mencatat bahwa telur ayam menetas setelah dierami sekitar 21 hari. Dimas penasaran, apakah ayam dan kecoak berubah bentuk dengan cara yang sama selama hidupnya. Ia lalu menggambar bagan tahap hidup kedua hewan itu. Perhatikan bagan! Tentukan Benar atau Salah!",
           "opsi": [
@@ -4826,6 +4889,7 @@
           "no": 4,
           "video": "",
           "title": "Sarang untuk Hewan yang Bertelur",
+          "materi": "Makhluk Hidup dan Daur Hidup",
           "tipe": "pg",
           "soal": "Pak Anto akan membangun kandang kecil di halaman rumahnya. Ia ingin menyiapkan sarang jerami hanya untuk hewan yang akan bertelur. Hewan lain cukup diberi kandang biasa. Ia menggambar empat hewan beserta anaknya dan memberi label A, B, C, dan D. Perhatikan gambar! Hewan yang perlu disiapkan sarang jerami adalah ....",
           "opsi": [
@@ -4896,6 +4960,7 @@
           "no": 5,
           "video": "",
           "title": "Jalur Udara Saat Menarik Napas",
+          "materi": "Organ Tubuh Manusia",
           "tipe": "pgk",
           "soal": "Sinta baru saja berlari mengelilingi lapangan sekolah hingga napasnya terengah-engah. Di rumah ia membuka buku IPA dan melihat gambar organ pernapasan beserta namanya. Sinta ingin menjelaskan kepada adiknya ke mana saja udara bergerak saat ia menarik napas, mulai dari hidung sampai paru-paru. Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.",
           "opsi": [
@@ -4996,6 +5061,7 @@
           "no": 6,
           "video": "",
           "title": "Udara di Balai Desa yang Tertutup",
+          "materi": "Organ Tubuh Manusia",
           "tipe": "pg",
           "soal": "Pak Hasan akan mengadakan pertemuan warga di balai desa yang ruangannya tertutup dan jendelanya tidak dibuka. Nina dan teman-temannya lebih dulu mengukur udara di ruangan itu saat dihuni 5, 15, 30, dan 45 orang, seperti pada diagram. Pertemuan nanti dihadiri sekitar 40 orang dan berlangsung cukup lama. Pak Hasan ingin udara tetap nyaman dihirup. Kesimpulan dan tindakan manakah yang paling tepat untuk Pak Hasan?",
           "opsi": [
@@ -5066,6 +5132,7 @@
           "no": 7,
           "video": "",
           "title": "Bentuk Gigi dan Jenis Makanan",
+          "materi": "Organ Tubuh Manusia",
           "tipe": "bs",
           "soal": "Rafi dan Dina belajar tentang gigi dari sebuah gambar di buku. Gambar itu menunjukkan bentuk gigi seri, taring, dan geraham beserta contoh makanan yang diolahnya. Saat makan siang, Rafi menghadapi potongan apel, ayam goreng, dan nasi. Ia ingin tahu apakah bentuk tiap gigi sesuai dengan tugasnya. Berdasarkan gambar, tentukan pernyataan berikut. Tentukan Benar atau Salah!",
           "opsi": [
@@ -5142,6 +5209,7 @@
           "no": 8,
           "video": "",
           "title": "Sayur, Buah, dan Buang Air Besar",
+          "materi": "Organ Tubuh Manusia",
           "tipe": "pgk",
           "soal": "Bimo dan Citra adalah teman sekelas yang kegiatannya sehari-hari hampir sama. Bimo sering mengeluh sulit buang air besar (BAB), sedangkan Citra jarang. Bu Guru UKS meminta mereka mencatat makanan dan keluhan selama satu minggu. Hasil catatan keduanya tampak pada tabel. Bu Guru ingin Bimo dan Citra menarik kesimpulan dari catatan itu. Kesimpulan manakah yang sesuai dengan tabel? Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.",
           "opsi": [
@@ -5240,6 +5308,7 @@
           "no": 9,
           "video": "",
           "title": "Ke Mana Darah dari Otot Kaki Rudi?",
+          "materi": "Organ Tubuh Manusia",
           "tipe": "pg",
           "soal": "Rudi berlari mengelilingi lapangan, sehingga otot kakinya memakai banyak oksigen. Di kelas, Bu Dewi menjalankan model peredaran darah dengan cairan berwarna: merah berarti darah kaya oksigen dan biru berarti darah miskin oksigen. Cairan yang keluar dari bagian paru-paru berwarna merah, sedangkan cairan yang keluar dari bagian otot kaki berwarna biru. Rudi memperhatikan skema model pada gambar. Setelah meninggalkan otot kaki, darah kembali ke jantung. Bagaimana keadaan darah itu dan ke mana jantung memompanya berikutnya?",
           "opsi": [
@@ -5311,6 +5380,7 @@
           "no": 10,
           "video": "",
           "title": "Dika Menebak Benda dengan Mata Tertutup",
+          "materi": "Organ Tubuh Manusia",
           "tipe": "pg",
           "soal": "Dika bermain tebak benda di kelas. Matanya ditutup kain dan ia tidak boleh mencicipi. Bu Nita menaruh satu benda di dalam kotak. Dika memasukkan tangan, lalu meraba benda bulat dengan permukaan yang kasar. Ia juga mencium bau segar dari kotak. Gambar menunjukkan Dika dan alat indranya. Dika menebak benda itu jeruk. Alat indra mana yang Dika pakai untuk menebak benda itu, dan apa alasannya?",
           "opsi": [
@@ -5384,6 +5454,7 @@
           "no": 11,
           "video": "",
           "title": "Rantai Makanan di Hutan Bakau",
+          "materi": "Rantai Makanan dan Ekosistem",
           "tipe": "pgk",
           "soal": "Rani berkunjung ke hutan bakau bersama kakaknya. Di lumpur, ia melihat banyak daun bakau yang gugur. Seekor kepiting sedang memakan daun gugur itu. Tidak lama kemudian, seekor burung menangkap dan memakan kepiting tersebut. Rani menggambar rantai makanan di hutan bakau dan memberi huruf pada setiap makhluk, seperti pada gambar. Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.",
           "opsi": [
@@ -5471,6 +5542,7 @@
           "no": 12,
           "video": "",
           "title": "Burung Hantu di Dekat Sawah",
+          "materi": "Rantai Makanan dan Ekosistem",
           "tipe": "pg",
           "soal": "Pak Wayan dan tetangganya, Pak Joko, sama-sama punya sawah padi yang sering dirusak tikus. Awal Maret, Pak Wayan memelihara burung hantu di rumah burung dekat sawahnya. Pak Joko tidak memelihara burung hantu. Kedua sawah luasnya sama dan ditanami padi yang sama. Pak Wayan menghitung tikus di kedua sawah sebelum burung hantu dipelihara dan tiga bulan sesudahnya, lalu mencatat hasilnya dalam diagram batang. Apa kesimpulan yang paling tepat berdasarkan diagram?",
           "opsi": [
@@ -5541,6 +5613,7 @@
           "no": 13,
           "video": "",
           "title": "Kolam yang Airnya Keruh",
+          "materi": "Rantai Makanan dan Ekosistem",
           "tipe": "bs",
           "soal": "Pak Anto memelihara ikan di kolam belakang rumahnya. Selama lima hari, setiap pagi ia mencatat kekeruhan air, suhu air, dan jumlah ikan yang masih hidup, seperti pada tabel. Pak Anto ingin tahu bagaimana keadaan air berkaitan dengan makhluk hidup di kolam itu. Perhatikan tabel! Tentukan Benar atau Salah!",
           "opsi": [
@@ -5618,6 +5691,7 @@
           "no": 14,
           "video": "",
           "title": "Jati Menggugurkan Daun saat Kemarau",
+          "materi": "Adaptasi dan Lingkungan",
           "tipe": "pg",
           "soal": "Di hutan dekat desa Sari, pohon jati berdaun lebat pada musim hujan. Selama tiga bulan tidak turun hujan, hampir semua daun jati gugur dan pohonnya tampak gundul, tetapi pohon itu tidak mati. Saat hujan turun lagi, daun baru tumbuh. Sari ingin tahu cara jati menghadapi kemarau. Gambar menunjukkan jati pada kedua musim. Mengapa gugurnya daun membantu jati bertahan hidup saat kemarau?",
           "opsi": [
@@ -5689,6 +5763,7 @@
           "no": 15,
           "video": "",
           "title": "Jaring Mata Besar untuk Danau Lestari",
+          "materi": "Adaptasi dan Lingkungan",
           "tipe": "pgk",
           "soal": "Kelompok nelayan Pak Anwar di Danau Rawa Biru mencoba dua jenis jaring selama 5 tahun. Jaring mata besar hanya menangkap ikan yang sudah besar, sedangkan jaring mata kecil menangkap ikan besar dan kecil. Mereka mencatat hasil tangkapan rata-rata tiap bulan pada tabel. Kelompok ingin memilih cara menangkap yang membuat ikan di danau tidak habis. Pernyataan manakah yang tepat berdasarkan tabel? Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.",
           "opsi": [
@@ -5787,6 +5862,7 @@
           "no": 16,
           "video": "",
           "title": "Kabut Asap dari Lahan Terbakar",
+          "materi": "Adaptasi dan Lingkungan",
           "tipe": "bs",
           "soal": "Warga Desa Sumber Jaya membakar semak di lahan kosong untuk membuka kebun. Lahan itu berada di samping hutan dan berjarak 3 km dari permukiman. Hari itu angin bertiup ke arah permukiman. Beberapa jam kemudian, kabut asap menyelimuti permukiman dan banyak warga batuk. Perhatikan gambar, lalu tentukan Benar atau Salah!",
           "opsi": [
@@ -5862,6 +5938,7 @@
           "no": 17,
           "video": "",
           "title": "Sirup, Es Batu, dan Uap Air",
+          "materi": "Wujud Zat dan Siklus Air",
           "tipe": "pg",
           "soal": "Dina membantu Kakak membuat minuman. Ia menuang 150 mL sirup ke dalam gelas, lalu menaruh tiga es batu di mangkuk. Di dekatnya ada segelas teh panas yang mengeluarkan uap air. Dina memperhatikan gambar ketiga wadah itu untuk membandingkan sifat sirup, es batu, dan uap air. Pernyataan yang benar tentang ketiga benda itu adalah ....",
           "opsi": [
@@ -5932,6 +6009,7 @@
           "no": 18,
           "video": "",
           "title": "Mentega Meleleh Lalu Membeku Lagi",
+          "materi": "Wujud Zat dan Siklus Air",
           "tipe": "pg",
           "soal": "Bu Sari memanaskan sepotong mentega padat dalam panci kecil dan mencatat suhunya tiap 2 menit. Mentega mulai meleleh ketika suhunya mencapai 35°C. Pada menit ke-8 api dimatikan, lalu mentega dibiarkan dingin. Mentega mulai membeku kembali ketika suhunya turun ke 35°C. Grafik menunjukkan suhu mentega selama pengamatan. Pada menit ke berapa mentega mulai membeku kembali, dan apa penyebabnya?",
           "opsi": [
@@ -6002,6 +6080,7 @@
           "no": 19,
           "video": "",
           "title": "Sepatu Bergerigi di Lantai Basah",
+          "materi": "Gaya dan Gerak",
           "tipe": "bs",
           "soal": "Rani membandingkan dua sepatu di lantai kamar mandi yang basah. Sepatu X beralas bergerigi, sedangkan sepatu Y beralas rata. Kedua sepatu sama berat. Tiap sepatu ditarik pelan ke kanan dengan neraca pegas. Sepatu X baru mulai bergeser saat neraca menunjukkan 6 N, sedangkan sepatu Y sudah bergeser saat neraca menunjukkan 2 N. Rani ingin tahu sepatu mana yang lebih aman dipakai di lantai basah. Tentukan Benar atau Salah!",
           "opsi": [
@@ -6079,6 +6158,7 @@
           "no": 20,
           "video": "",
           "title": "Mangga yang Jatuh dari Pohon",
+          "materi": "Gaya dan Gerak",
           "tipe": "pgk",
           "soal": "Dewi duduk di bawah pohon mangga. Sebuah mangga lepas dari tangkainya, lalu jatuh ke tanah. Dewi memotretnya dengan kamera yang mengambil gambar setiap 0,5 detik, sehingga ada empat posisi mangga pada satu foto. Ia menemukan bahwa jarak antarposisi mangga makin lebar ketika mangga mendekati tanah. Dewi ingin memahami penyebab dan sifat gerak mangga itu. Pernyataan manakah yang benar? Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.",
           "opsi": [
@@ -6178,6 +6258,7 @@
           "no": 21,
           "video": "",
           "title": "Energi pada Lampu Sepeda dengan Dinamo",
+          "materi": "Energi dan Listrik",
           "tipe": "pg",
           "soal": "Fajar bersepeda sore hari dengan lampu sepeda yang memakai dinamo di dekat roda, tanpa baterai. Saat sepeda dikayuh pelan, lampu menyala redup. Saat dikayuh cepat, lampu menyala terang, dan saat sepeda berhenti, lampu padam. Dinamo juga terasa agak hangat dan sedikit berdengung. Fajar membuat bagan alir perubahan energi pada lampu sepedanya, tetapi satu kotak masih kosong. Energi apa yang dihasilkan dinamo untuk menyalakan lampu dan tepat mengisi kotak kosong pada bagan?",
           "opsi": [
@@ -6248,6 +6329,7 @@
           "no": 22,
           "video": "",
           "title": "Biogas dari Kotoran Sapi",
+          "materi": "Energi dan Listrik",
           "tipe": "pg",
           "soal": "Keluarga Pak Anwar memelihara sapi dan membuat biogas dari kotoran sapi untuk memasak. Kotoran dicampur air di bak pencampur, lalu dialirkan ke tangki besar tempat bakteri menguraikan kotoran menjadi gas. Gas mengalir lewat pipa ke kompor, dan sisa kotoran keluar ke bak ampas. Beberapa hari ini api kompor kecil dan cepat padam. Pak Anwar melihat bak pencampur selalu penuh dan pipa tidak bocor, tetapi ada gelembung gas keluar dari retakan di tutup tangki besar. Perhatikan skema. Bagian mana yang perlu diperbaiki, dan apa alasannya?",
           "opsi": [
@@ -6318,6 +6400,7 @@
           "no": 23,
           "video": "",
           "title": "Baterai dan Terang Lampu Senter",
+          "materi": "Energi dan Listrik",
           "tipe": "bs",
           "soal": "Rani membuat rangkaian listrik sederhana untuk senter mainannya. Ia memakai lampu, kabel, dan baterai baru yang sama jenisnya, lalu menyusun baterai berderet. Dalam lima percobaan, hanya jumlah baterai yang diubah. Rani mengamati terang lampu pada tiap percobaan dan mencatat hasilnya pada tabel di gambar. Ia ingin tahu pengaruh jumlah baterai agar senternya menyala lebih terang. Tentukan Benar atau Salah!",
           "opsi": [
@@ -6394,6 +6477,7 @@
           "no": 24,
           "video": "",
           "title": "Membuat Magnet dari Paku",
+          "materi": "Magnet, Bunyi, dan Cahaya",
           "tipe": "pgk",
           "soal": "Bimo ingin membuat magnet sendiri dari paku besi. Mula-mula paku tidak menarik satu pun klip kertas. Ia menggosok paku dengan satu ujung magnet batang, selalu searah dari kepala ke ujung runcing (lihat gambar). Setelah 10 kali digosok, paku menarik 2 klip. Setelah 20 kali, paku menarik 4 klip. Setelah 30 kali, paku menarik 5 klip. Pernyataan manakah yang benar? Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.",
           "opsi": [
@@ -6492,6 +6576,7 @@
           "no": 25,
           "video": "",
           "title": "Ketukan di Meja Kayu",
+          "materi": "Magnet, Bunyi, dan Cahaya",
           "tipe": "pg",
           "soal": "Dina dan Fajar bermain di ruang kelas yang sepi. Fajar mengetuk ujung kiri sebuah meja kayu panjang dengan kekuatan yang sama setiap kali. Dina berada di ujung kanan meja dan mencoba dua cara mendengar ketukan itu, yaitu Cara 1 dan Cara 2. Gambar menunjukkan hasilnya. Sebentar lagi Fajar akan mengetuk dari ujung meja yang lebih panjang, dan Dina ingin ketukannya terdengar sejelas mungkin. Cara mana yang sebaiknya dipilih Dina, dan apa alasannya?",
           "opsi": [
@@ -6563,6 +6648,7 @@
           "no": 26,
           "video": "",
           "title": "Senter dan Tiga Benda",
+          "materi": "Magnet, Bunyi, dan Cahaya",
           "tipe": "bs",
           "soal": "Sinta ingin tahu bagaimana benda memengaruhi cahaya. Ia menyalakan senter yang sama dari jarak yang sama ke tiga benda: plastik bening, kertas minyak yang buram, dan kardus tebal yang gelap. Di belakang tiap benda ada layar putih. Hasilnya, layar di belakang plastik bening tampak paling terang, layar di belakang kertas minyak tampak redup, dan layar di belakang kardus tampak gelap dengan bayangan jelas. Gambar menunjukkan percobaan itu. Tentukan Benar atau Salah!",
           "opsi": [
@@ -6639,6 +6725,7 @@
           "no": 27,
           "video": "",
           "title": "Bayangan Pohon di Halaman",
+          "materi": "Magnet, Bunyi, dan Cahaya",
           "tipe": "pg",
           "soal": "Kelompok Sinta memasang tiang setinggi 2 m di lapangan sekolah. Bayangan tiang diukur tiga kali: pukul 07.00 panjangnya 4 m, pukul 12.00 hanya 0,3 m, dan pukul 16.00 panjangnya 3 m. Gambar menunjukkan posisi Matahari dan bayangan tiang. Di rumah Sinta, pohon mangga berada di sisi timur halaman. Ayah ingin tahu kapan halaman paling tertutup bayangan pohon itu. Pukul berapa itu terjadi, dan apa alasannya?",
           "opsi": [
@@ -6710,6 +6797,7 @@
           "no": 28,
           "video": "",
           "title": "Model Bola dan Lampu",
+          "materi": "Bumi dan Tata Surya",
           "tipe": "pgk",
           "soal": "Dimas dan Putri membuat model Bulan memakai lampu, bola, dan kepala Dimas. Lampu dianggap Matahari, bola dianggap Bulan, dan kepala Dimas dianggap Bumi. Lampu menyala dan tidak berpindah. Putri memegang bola sedikit lebih tinggi dari kepala Dimas, lalu menggerakkannya ke empat posisi, yaitu W, X, Y, dan Z. Dimas mencatat bentuk terang bola yang tampak olehnya di tiap posisi, seperti pada gambar. Pernyataan manakah yang sesuai dengan model itu? Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.",
           "opsi": [
@@ -6809,6 +6897,7 @@
           "no": 29,
           "video": "",
           "title": "Jarak Planet dan Lama Revolusi",
+          "materi": "Bumi dan Tata Surya",
           "tipe": "pg",
           "soal": "Dimas membuat poster tata surya untuk pameran sekolah. Ia mencatat jarak enam planet dari Matahari dan lama tiap planet mengelilingi Matahari dalam satu kali revolusi. Dari catatannya, Bumi berjarak 150 juta km dan berevolusi 1 tahun, sedangkan Neptunus berjarak 4.495 juta km dan berevolusi 165 tahun. Dimas ingin menulis satu kesimpulan di poster. Perhatikan tabel pada gambar! Kesimpulan manakah yang tepat?",
           "opsi": [
@@ -6875,6 +6964,7 @@
           "no": 30,
           "video": "",
           "title": "Dari Danau Menjadi Awan",
+          "materi": "Wujud Zat dan Siklus Air",
           "tipe": "bs",
           "soal": "Bagas dan teman-temannya mengamati danau di dekat sekolah selama satu hari. Pagi hari suhu udara 26 °C dan langit cerah. Siang hari suhu naik menjadi 33 °C dan permukaan air danau turun 1 cm dari pagi. Sore hari awan gelap muncul di atas danau, lalu turun hujan. Bagas menggambar diagram siklus air dan memberi huruf pada tiap bagiannya. Perhatikan diagram pada gambar! Tentukan Benar atau Salah!",
           "opsi": [
