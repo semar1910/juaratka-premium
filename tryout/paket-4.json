@@ -12,6 +12,7 @@
           "no": 1,
           "video": "",
           "title": "Telur Hasil Panen Pak Darto",
+          "materi": "Perkalian & Pembagian",
           "tipe": "pg",
           "soal": "Pak Darto memelihara ayam petelur di kandang belakang rumahnya. Setiap hari ia memanen 135 butir telur dan menaruhnya di keranjang. Berapa butir telur yang ia panen selama 8 hari?",
           "opsi": [
@@ -80,6 +81,7 @@
           "no": 2,
           "video": "",
           "title": "Ongkos Angkot Rani Sebulan",
+          "materi": "Perkalian & Pembagian",
           "tipe": "bs",
           "soal": "Rani siswa kelas 6. Setiap hari sekolah ia naik angkot dari rumah ke sekolah, lalu pulang naik angkot yang sama. Ia membayar tarif pelajar seperti pada papan tarif di gambar. Bulan ini ia sekolah selama 22 hari. Ibu memberinya uang Rp150.000,00 untuk ongkos angkot bulan ini. Tentukan Benar atau Salah!",
           "opsi": [
@@ -158,6 +160,7 @@
           "no": 3,
           "video": "",
           "title": "Petak Kebun Pak Hasan",
+          "materi": "Pecahan Senilai",
           "tipe": "pgk",
           "soal": "Pak Hasan menanam bayam di petak kebunnya. Petak kebun itu terbagi menjadi bagian-bagian sama besar, seperti pada gambar. Bagian yang diarsir sudah ditanami bayam. Pecahan yang senilai dengan bagian kebun yang sudah ditanami adalah .... Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.",
           "opsi": [
@@ -240,6 +243,7 @@
           "no": 4,
           "video": "",
           "title": "Lahan Pak Anwar dan Bu Lestari",
+          "materi": "Pecahan Senilai",
           "tipe": "pg",
           "soal": "Pak Anwar dan Bu Lestari mempunyai lahan yang luasnya sama. Pak Anwar menanami 3/4 bagian lahannya dengan jagung. Bu Lestari menanami 5/8 bagian lahannya dengan cabai. Siapa yang menanami bagian lahan lebih luas?",
           "opsi": [
@@ -310,6 +314,7 @@
           "no": 5,
           "video": "",
           "title": "Menyusun Pita dari Terpendek",
+          "materi": "Pecahan Senilai",
           "tipe": "bs",
           "soal": "Nadia punya empat gulung pita untuk menghias kado. Pita merah panjangnya 3/4 meter, pita biru 2/3 meter, pita hijau 5/6 meter, dan pita kuning 7/12 meter. Nadia akan menyusun pita-pita itu dari yang terpendek sampai yang terpanjang. Tentukan Benar atau Salah!",
           "opsi": [
@@ -392,6 +397,7 @@
           "no": 6,
           "video": "",
           "title": "Nilai IPA Bimo",
+          "materi": "Pecahan, Desimal, dan Persen",
           "tipe": "pg",
           "soal": "Bimo menerima lembar hasil ulangan seperti pada gambar. Ia ingin menuliskan nilai IPA-nya dalam bentuk desimal dan persen. Nilai IPA Bimo sama dengan ...",
           "opsi": [
@@ -458,6 +464,7 @@
           "no": 7,
           "video": "",
           "title": "Panen Padi Pak Darto",
+          "materi": "Pecahan, Desimal, dan Persen",
           "tipe": "pgk",
           "soal": "Pak Darto memanen padi di sawahnya selama tiga hari. Hari pertama ia memanen 0,3 bagian sawah. Hari kedua ia memanen 2/5 bagian sawah. Sisanya dipanen pada hari ketiga. Pernyataan yang benar tentang hasil panen Pak Darto adalah .... Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.",
           "opsi": [
@@ -561,6 +568,7 @@
           "no": 8,
           "video": "",
           "title": "Dua Jalan ke Sekolah",
+          "materi": "Operasi Pecahan",
           "tipe": "pg",
           "soal": "Rani berjalan kaki dari rumah ke sekolah. Ada dua jalan yang bisa dipilih, yaitu lewat pasar atau lewat masjid. Jarak setiap ruas jalan tertulis pada denah. Berapa kilometer lebih pendek jalan lewat masjid daripada jalan lewat pasar?",
           "opsi": [
@@ -627,6 +635,7 @@
           "no": 9,
           "video": "",
           "title": "Susu untuk Enam Gelas",
+          "materi": "Operasi Pecahan",
           "tipe": "bs",
           "soal": "Ibu membeli susu kemasan 1 1/2 liter. Susu itu dituang sama banyak ke 6 gelas kosong seperti pada gambar. Setelah itu, Dimas meminum 3 gelas susu. Perhatikan pernyataan berikut. Tentukan Benar atau Salah!",
           "opsi": [
@@ -705,6 +714,7 @@
           "no": 10,
           "video": "",
           "title": "Uang Saku di Kantin",
+          "materi": "Operasi Pecahan",
           "tipe": "pgk",
           "soal": "Nadia membawa uang saku Rp36.000,00 ke sekolah. Di kantin, ia membeli bakso seharga 1/4 bagian dari uang sakunya. Kemudian ia membeli es seharga 1/3 bagian dari sisa uangnya. Pernyataan yang sesuai dengan cerita tersebut adalah .... Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.",
           "opsi": [
@@ -794,6 +804,7 @@
           "no": 11,
           "video": "",
           "title": "Barisan Senam Pagi",
+          "materi": "KPK dan FPB",
           "tipe": "pg",
           "soal": "Pagi ini 24 siswa kelas 6 akan senam di lapangan. Pak Dani menyusun mereka dalam beberapa baris. Setiap baris harus berisi siswa sama banyak, dan tidak boleh ada siswa yang tersisa. Berapa banyak siswa dalam satu baris yang dapat disusun Pak Dani?",
           "opsi": [
@@ -864,6 +875,7 @@
           "no": 12,
           "video": "",
           "title": "Dua Untai Lampu Hias",
+          "materi": "KPK dan FPB",
           "tipe": "bs",
           "soal": "Bu Sari memasang dua untai lampu hias di teras rumah. Lampu merah berkedip setiap 6 detik, lampu kuning berkedip setiap 8 detik. Keduanya berkedip bersamaan saat dinyalakan, yaitu detik ke-0. Bu Sari juga menyimpan 18 bohlam merah dan 24 bohlam kuning cadangan. Semua bohlam cadangan itu akan dimasukkan ke dalam kotak. Setiap kotak berisi bohlam satu warna dengan jumlah yang sama banyak. Tentukan Benar atau Salah!",
           "opsi": [
@@ -943,6 +955,7 @@
           "no": 13,
           "video": "",
           "title": "Layang-layang dan Bingkai Jendela",
+          "materi": "Bangun Datar",
           "tipe": "pg",
           "soal": "Bayu membuat layang-layang dari rangka bambu, sedangkan Ayah memasang bingkai jendela baru di rumah. Gambar di bawah menunjukkan bentuk layang-layang dan bingkai jendela beserta panjang sisinya. Pernyataan yang benar tentang ciri kedua bangun tersebut adalah ...",
           "opsi": [
@@ -1010,6 +1023,7 @@
           "no": 14,
           "video": "",
           "title": "Jaring-jaring Kotak Susu",
+          "materi": "Visualisasi Bangun Ruang",
           "tipe": "pgk",
           "soal": "Alia membuat kotak susu mini berbentuk balok dari karton untuk tugas prakarya. Jaring-jaring kotak itu digambar seperti pada gambar di bawah, dengan ukuran dalam sentimeter. Perhatikan ukuran setiap sisi pada jaring-jaring. Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.",
           "opsi": [
@@ -1094,6 +1108,7 @@
           "no": 15,
           "video": "",
           "title": "Tumpukan Peti Buah di Pasar",
+          "materi": "Visualisasi Bangun Ruang",
           "tipe": "pg",
           "soal": "Pak Hasan menyusun peti buah berbentuk kubus di pasar. Semua peti sama besar dan tidak ada ruang kosong di bawah peti. Peti-peti itu disusun dalam tiga baris, seperti pada gambar. Bagian depan tumpukan ditandai tulisan DEPAN. Bu Sari melihat tumpukan itu dari sisi kanan. Gambar manakah yang menunjukkan tampak yang dilihat Bu Sari?",
           "opsi": [
@@ -1175,6 +1190,7 @@
           "no": 16,
           "video": "",
           "title": "Berat Paket di Agen Ekspedisi",
+          "materi": "Konversi Satuan",
           "tipe": "bs",
           "soal": "Bu Ratna mengirim tiga paket lewat agen ekspedisi, yaitu paket baju, buku, dan sepatu. Petugas menimbang tiap paket dan mencatat beratnya pada nota seperti pada gambar. Berikut pernyataan tentang berat paket-paket itu. Tentukan Benar atau Salah!",
           "opsi": [
@@ -1253,6 +1269,7 @@
           "no": 17,
           "video": "",
           "title": "Sirup untuk Acara Keluarga",
+          "materi": "Konversi Satuan",
           "tipe": "pgk",
           "soal": "Bu Sari menyiapkan sirup untuk acara keluarga. Ia menuang 2 botol sirup ke dalam teko besar, dan setiap botol berisi 750 mL. Lalu ia menambahkan 4 1/2 liter air ke teko itu. Minuman di teko akan dituang ke gelas, dan setiap gelas diisi penuh 250 mL. Manakah pernyataan yang benar tentang minuman itu? Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.",
           "opsi": [
@@ -1352,6 +1369,7 @@
           "no": 18,
           "video": "",
           "title": "Lama Memasak Nasi dan Lauk",
+          "materi": "Waktu dan Jam",
           "tipe": "pg",
           "soal": "Dina membantu Ibu memasak. Ibu memasak nasi di panci selama 3/4 jam, lalu memasak lauk di wajan selama 40 menit. Manakah pernyataan yang benar tentang lama memasak tersebut?",
           "opsi": [
@@ -1418,6 +1436,7 @@
           "no": 19,
           "video": "",
           "title": "Lari Pagi di Lapangan",
+          "materi": "Kecepatan, Jarak, dan Waktu",
           "tipe": "pg",
           "soal": "Bima berlari pagi mengelilingi lapangan seperti pada denah. Ia berlari tepat di tepi lapangan sebanyak 4 putaran dan selesai dalam 16 menit. Kecepatan lari Bima tetap. Berapa kecepatan lari Bima?",
           "opsi": [
@@ -1490,6 +1509,7 @@
           "no": 20,
           "video": "",
           "title": "Pergi dan Pulang ke Rumah Nenek",
+          "materi": "Kecepatan, Jarak, dan Waktu",
           "tipe": "pgk",
           "soal": "Keluarga Dewi pergi dari rumah ke rumah nenek, lalu pulang lewat rute yang sama seperti pada gambar. Saat pergi, mobil melaju 30 km/jam dari rumah ke pasar, lalu 60 km/jam dari pasar ke rumah nenek. Saat pulang, mobil melaju dengan kecepatan tetap 40 km/jam. Manakah pernyataan yang benar tentang perjalanan keluarga Dewi? Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.",
           "opsi": [
@@ -1592,6 +1612,7 @@
           "no": 21,
           "video": "",
           "title": "Lari Mengelilingi Lapangan Gabungan",
+          "materi": "Bangun Datar",
           "tipe": "pg",
           "soal": "Perhatikan gambar! Lapangan di desa Bima berbentuk gabungan dua persegi panjang. Di tepi lapangan dibuat lintasan lari yang mengikuti seluruh sisi luarnya. Bima berlari mengelilingi lintasan itu sebanyak 2 putaran. Berapa meter jarak yang Bima tempuh?",
           "opsi": [
@@ -1662,6 +1683,7 @@
           "no": 22,
           "video": "",
           "title": "Luas Kebun Pak Hasan",
+          "materi": "Bangun Datar",
           "tipe": "bs",
           "soal": "Pak Hasan memiliki kebun berbentuk huruf L seperti pada gambar. Kebun dibagi menjadi dua petak persegi panjang oleh garis putus-putus. Petak atas ditanami bayam dan petak bawah ditanami cabai. Tentukan Benar atau Salah!",
           "opsi": [
@@ -1740,6 +1762,7 @@
           "no": 23,
           "video": "",
           "title": "Kardus Tangga Berisi Kotak Kecil",
+          "materi": "Volume Bangun Ruang",
           "tipe": "pg",
           "soal": "Pak Rudi memiliki kardus penyimpan berbentuk tangga, seperti pada gambar. Ia ingin mengisi kardus itu sampai penuh dengan kotak kecil berbentuk kubus yang rusuknya 10 cm. Abaikan tebal dinding kardus. Berapa banyak kotak kecil yang dapat dimasukkan ke dalam kardus?",
           "opsi": [
@@ -1810,6 +1833,7 @@
           "no": 24,
           "video": "",
           "title": "Sudut Potongan Kue Bolu",
+          "materi": "Sudut",
           "tipe": "pgk",
           "soal": "Ibu memotong kue bolu bundar menjadi empat potongan, yaitu P, Q, R, dan S, seperti pada gambar. Besar sudut tiap potongan di bagian tengah kue sudah tertulis pada gambar. Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.",
           "opsi": [
@@ -1910,6 +1934,7 @@
           "no": 25,
           "video": "",
           "title": "Menaksir Isi Teko dari Isi Gelas",
+          "materi": "Penaksiran Ukuran",
           "tipe": "bs",
           "soal": "Perhatikan gambar gelas dan teko berikut! Bu Ratna menuang teh dari teko ke gelas. Satu gelas penuh berisi 200 mL. Teko yang terisi penuh kira-kira dapat mengisi 8 gelas. Tentukan Benar atau Salah!",
           "opsi": [
@@ -1984,6 +2009,7 @@
           "no": 26,
           "video": "",
           "title": "Ukuran Sepatu Siswa Kelas 6",
+          "materi": "Membaca Diagram",
           "tipe": "pg",
           "soal": "Pak Dani mencatat ukuran sepatu siswa kelas 6 untuk memesan sepatu olahraga. Hasilnya disajikan pada tabel berikut. Berapa banyak siswa yang ukuran sepatunya kurang dari 38?",
           "opsi": [
@@ -2050,6 +2076,7 @@
           "no": 27,
           "video": "",
           "title": "Siswa yang Tuntas Ulangan",
+          "materi": "Membaca Diagram",
           "tipe": "pg",
           "soal": "Bu Sari mencatat nilai ulangan Matematika 24 siswa kelas 6 pada tabel berikut. Data banyak siswa yang bernilai 7 belum terisi. Siswa dinyatakan tuntas jika nilainya paling rendah 7. Berapa banyak siswa yang tuntas?",
           "opsi": [
@@ -2123,6 +2150,7 @@
           "no": 28,
           "video": "",
           "title": "Jadwal dan Harga Tiket Bus",
+          "materi": "Membaca Diagram",
           "tipe": "bs",
           "soal": "Keluarga Dewi yang terdiri atas 4 orang akan naik bus dari Terminal Sukamaju ke Kota Wisata. Perhatikan jadwal dan harga tiket bus pada tabel berikut. Tentukan Benar atau Salah!",
           "opsi": [
@@ -2201,6 +2229,7 @@
           "no": 29,
           "video": "",
           "title": "Stok Barang Toko Alat Tulis",
+          "materi": "Menyajikan dan Menyimpulkan Data",
           "tipe": "pgk",
           "soal": "Pak Dani punya toko alat tulis. Ia mencatat banyak buku tulis, pensil, dan penggaris yang terjual selama 4 minggu terakhir, seperti pada tabel. Pak Dani akan memesan stok untuk minggu ke-5. Keputusan manakah yang sesuai dengan data pada tabel? Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.",
           "opsi": [
@@ -2301,6 +2330,7 @@
           "no": 30,
           "video": "",
           "title": "Pemakaian Air di Rumah Bu Wati",
+          "materi": "Menyajikan dan Menyimpulkan Data",
           "tipe": "pg",
           "soal": "Keluarga Bu Wati mencatat banyak air yang dipakai di rumahnya setiap bulan dari Januari sampai Juni, dalam meter kubik (m³). Datanya ditunjukkan pada diagram batang. Bu Wati ingin membuat kesimpulan dari data tersebut. Kesimpulan manakah yang paling tepat?",
           "opsi": [
@@ -2372,6 +2402,7 @@
           "no": 1,
           "video": "",
           "title": "Menjelajahi Gunung Bromo",
+          "materi": "Makna Ungkapan & Peribahasa",
           "tipe": "pgk",
           "soal": "Menjelajahi Gunung Bromo. Gunung Bromo berada di Jawa Timur. Gunung ini masuk Taman Nasional Bromo Tengger Semeru. Tingginya sekitar 2.329 meter di atas permukaan laut. Bromo masih berstatus gunung berapi aktif. Dari kawahnya sering keluar asap putih. Di sekitarnya tinggal suku Tengger. Mereka menjaga adat dan alam di kawasan itu. Banyak wisatawan datang pada dini hari. Pengunjung dari berbagai daerah berkumpul di sana. Mereka menuju Penanjakan untuk melihat matahari terbit. Saat langit mulai terang, puncak Bromo tampak di antara kabut. Pemandangannya sangat indah dan banyak dikagumi pengunjung. Gunung ini juga menjadi kebanggaan warga Jawa Timur. Karena itu, Bromo disebut permata Jawa Timur. Setelah itu, pengunjung turun ke lautan pasir. Hamparan pasirnya sangat luas. Pasir di sana halus dan berwarna abu-abu gelap. Sebagian orang menyewa kuda untuk menyeberanginya. Sebagian lain memilih berjalan kaki. Di ujung lautan pasir ada tangga menuju tepi kawah. Banyak pengunjung menaiki tangga itu untuk melihat kawah dari dekat. Udara di Bromo sangat dingin, terutama pada dini hari. Wisatawan sebaiknya memakai jaket tebal. Mereka juga perlu membawa air minum dan penutup kepala. Dengan persiapan yang baik, kunjungan akan terasa nyaman. Apa makna sebutan “permata Jawa Timur” untuk Gunung Bromo? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
           "pertanyaan": "Apa makna sebutan “permata Jawa Timur” untuk Gunung Bromo? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
@@ -2449,6 +2480,7 @@
           "no": 2,
           "video": "",
           "title": "Menjelajahi Gunung Bromo",
+          "materi": "Mencari Informasi Tersurat",
           "tipe": "pgk",
           "soal": "Menjelajahi Gunung Bromo. Gunung Bromo berada di Jawa Timur. Gunung ini masuk Taman Nasional Bromo Tengger Semeru. Tingginya sekitar 2.329 meter di atas permukaan laut. Bromo masih berstatus gunung berapi aktif. Dari kawahnya sering keluar asap putih. Di sekitarnya tinggal suku Tengger. Mereka menjaga adat dan alam di kawasan itu. Banyak wisatawan datang pada dini hari. Pengunjung dari berbagai daerah berkumpul di sana. Mereka menuju Penanjakan untuk melihat matahari terbit. Saat langit mulai terang, puncak Bromo tampak di antara kabut. Pemandangannya sangat indah dan banyak dikagumi pengunjung. Gunung ini juga menjadi kebanggaan warga Jawa Timur. Karena itu, Bromo disebut permata Jawa Timur. Setelah itu, pengunjung turun ke lautan pasir. Hamparan pasirnya sangat luas. Pasir di sana halus dan berwarna abu-abu gelap. Sebagian orang menyewa kuda untuk menyeberanginya. Sebagian lain memilih berjalan kaki. Di ujung lautan pasir ada tangga menuju tepi kawah. Banyak pengunjung menaiki tangga itu untuk melihat kawah dari dekat. Udara di Bromo sangat dingin, terutama pada dini hari. Wisatawan sebaiknya memakai jaket tebal. Mereka juga perlu membawa air minum dan penutup kepala. Dengan persiapan yang baik, kunjungan akan terasa nyaman. Kegiatan apa saja yang dilakukan pengunjung di Gunung Bromo menurut teks? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
           "pertanyaan": "Kegiatan apa saja yang dilakukan pengunjung di Gunung Bromo menurut teks? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
@@ -2528,6 +2560,7 @@
           "no": 3,
           "video": "",
           "title": "Menjelajahi Gunung Bromo",
+          "materi": "Menilai & Menyimpulkan Teks",
           "tipe": "bs",
           "soal": "Menjelajahi Gunung Bromo. Gunung Bromo berada di Jawa Timur. Gunung ini masuk Taman Nasional Bromo Tengger Semeru. Tingginya sekitar 2.329 meter di atas permukaan laut. Bromo masih berstatus gunung berapi aktif. Dari kawahnya sering keluar asap putih. Di sekitarnya tinggal suku Tengger. Mereka menjaga adat dan alam di kawasan itu. Banyak wisatawan datang pada dini hari. Pengunjung dari berbagai daerah berkumpul di sana. Mereka menuju Penanjakan untuk melihat matahari terbit. Saat langit mulai terang, puncak Bromo tampak di antara kabut. Pemandangannya sangat indah dan banyak dikagumi pengunjung. Gunung ini juga menjadi kebanggaan warga Jawa Timur. Karena itu, Bromo disebut permata Jawa Timur. Setelah itu, pengunjung turun ke lautan pasir. Hamparan pasirnya sangat luas. Pasir di sana halus dan berwarna abu-abu gelap. Sebagian orang menyewa kuda untuk menyeberanginya. Sebagian lain memilih berjalan kaki. Di ujung lautan pasir ada tangga menuju tepi kawah. Banyak pengunjung menaiki tangga itu untuk melihat kawah dari dekat. Udara di Bromo sangat dingin, terutama pada dini hari. Wisatawan sebaiknya memakai jaket tebal. Mereka juga perlu membawa air minum dan penutup kepala. Dengan persiapan yang baik, kunjungan akan terasa nyaman. Dimas, Laras, dan Rudi sepakat bahwa judul teks sesuai dengan isinya. Pendapat siapa yang tepat? Pilih Benar atau Salah untuk setiap pernyataan berdasarkan isi teks!",
           "pertanyaan": "Dimas, Laras, dan Rudi sepakat bahwa judul teks sesuai dengan isinya. Pendapat siapa yang tepat? Pilih Benar atau Salah untuk setiap pernyataan berdasarkan isi teks!",
@@ -2604,6 +2637,7 @@
           "no": 4,
           "video": "",
           "title": "Kerak Telor, Jajanan Khas Betawi",
+          "materi": "Mencari Informasi Tersurat",
           "tipe": "pgk",
           "soal": "Kerak Telor, Jajanan Khas Betawi. Kerak telor adalah jajanan khas Betawi. Makanan ini dipercaya sudah ada sejak masa Batavia. Kala itu, Batavia menjadi kota pelabuhan yang ramai. Pedagang dari Tiongkok, Arab, dan Eropa singgah, lalu banyak yang menetap. Mereka membawa makanan dan cara memasak dari negeri asal. Lama-lama, semua itu berbaur dengan masakan Betawi. Konon, kerak telor pun ikut mendapat sentuhan baru. Bahan kerak telor mudah ditemukan, yaitu ketan, telur, dan kelapa. Pembeli boleh memilih telur ayam atau telur bebek. Mula-mula, adonan ketan dan telur masih lembek di dalam wajan kecil. Wajan itu dipanaskan di atas tungku arang. Setelah setengah matang, wajan dibalik hingga adonan menghadap bara. Sisi itu perlahan menjadi kerak. Terakhir, penjual menaburkan serundeng dan bawang goreng. Mengapa masakan Betawi bisa berbaur dengan masakan dari negeri lain? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
           "pertanyaan": "Mengapa masakan Betawi bisa berbaur dengan masakan dari negeri lain? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
@@ -2683,6 +2717,7 @@
           "no": 5,
           "video": "",
           "title": "Kerak Telor, Jajanan Khas Betawi",
+          "materi": "Perubahan Tokoh, Latar & Objek",
           "tipe": "bs",
           "soal": "Kerak Telor, Jajanan Khas Betawi. Kerak telor adalah jajanan khas Betawi. Makanan ini dipercaya sudah ada sejak masa Batavia. Kala itu, Batavia menjadi kota pelabuhan yang ramai. Pedagang dari Tiongkok, Arab, dan Eropa singgah, lalu banyak yang menetap. Mereka membawa makanan dan cara memasak dari negeri asal. Lama-lama, semua itu berbaur dengan masakan Betawi. Konon, kerak telor pun ikut mendapat sentuhan baru. Bahan kerak telor mudah ditemukan, yaitu ketan, telur, dan kelapa. Pembeli boleh memilih telur ayam atau telur bebek. Mula-mula, adonan ketan dan telur masih lembek di dalam wajan kecil. Wajan itu dipanaskan di atas tungku arang. Setelah setengah matang, wajan dibalik hingga adonan menghadap bara. Sisi itu perlahan menjadi kerak. Terakhir, penjual menaburkan serundeng dan bawang goreng. Bagaimana keadaan adonan kerak telor sebelum dan sesudah wajan dibalik? Pilih Sebelum atau Sesudah untuk setiap pernyataan berdasarkan isi teks!",
           "pertanyaan": "Bagaimana keadaan adonan kerak telor sebelum dan sesudah wajan dibalik? Pilih Sebelum atau Sesudah untuk setiap pernyataan berdasarkan isi teks!",
@@ -2766,6 +2801,7 @@
           "no": 6,
           "video": "",
           "title": "Tetes Demi Tetes",
+          "materi": "Unsur Cerita Fiksi",
           "tipe": "pgk",
           "soal": "Tetes Demi Tetes. (Pagi hari di halaman SD Harapan. Ayu dan Tono hendak mencuci tangan setelah menyiram bunga.) Ayu: (menunjuk keran) Lihat, Tono! Keran ini menetes terus. Tono: Biar saja. Itu bukan tugasku. Aku lepas tangan. Ayu: (memutar keran sekuat tenaga) Sudah rapat, tetapi masih menetes. Tono: Nah, tidak bisa. Sudahlah. Ayu: Kalau semua orang lepas tangan, siapa yang memperbaikinya? Ayo, kita lapor Pak Hasan. (Mereka berlari ke ruang penjaga sekolah.) Pak Hasan: Terima kasih sudah melapor. Bapak tadi sibuk di belakang, jadi belum tahu keran itu rusak. Karet keran memang sudah aus. Kerusakan kecil jangan dibiarkan. Makin cepat dilaporkan, makin cepat diperbaiki. Tono: Tetapi itu hanya menetes, Pak. Pak Hasan: Tetes demi tetes, lama-lama bisa memenuhi berember-ember. Hujan atau kemarau, air harus tetap dihemat. (Ayu mengambil ember, lalu menaruhnya di bawah keran.) Ayu: Air tetesan ini bisa untuk menyiram tanaman. Tono: (tersenyum malu) Maaf, tadi aku tidak peduli. Besok aku ikut memeriksa keran lain. Pak Hasan: Tidak apa-apa. Sekolah kita nyaman karena semua orang peduli. (Pak Hasan mengganti karet keran. Air pun berhenti menetes.) Pesan apa saja yang dapat dipetik dari dialog Ayu, Tono, dan Pak Hasan? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
           "pertanyaan": "Pesan apa saja yang dapat dipetik dari dialog Ayu, Tono, dan Pak Hasan? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
@@ -2841,6 +2877,7 @@
           "no": 7,
           "video": "",
           "title": "Tetes Demi Tetes",
+          "materi": "Makna Ungkapan & Peribahasa",
           "tipe": "pg",
           "soal": "Tetes Demi Tetes. (Pagi hari di halaman SD Harapan. Ayu dan Tono hendak mencuci tangan setelah menyiram bunga.) Ayu: (menunjuk keran) Lihat, Tono! Keran ini menetes terus. Tono: Biar saja. Itu bukan tugasku. Aku lepas tangan. Ayu: (memutar keran sekuat tenaga) Sudah rapat, tetapi masih menetes. Tono: Nah, tidak bisa. Sudahlah. Ayu: Kalau semua orang lepas tangan, siapa yang memperbaikinya? Ayo, kita lapor Pak Hasan. (Mereka berlari ke ruang penjaga sekolah.) Pak Hasan: Terima kasih sudah melapor. Bapak tadi sibuk di belakang, jadi belum tahu keran itu rusak. Karet keran memang sudah aus. Kerusakan kecil jangan dibiarkan. Makin cepat dilaporkan, makin cepat diperbaiki. Tono: Tetapi itu hanya menetes, Pak. Pak Hasan: Tetes demi tetes, lama-lama bisa memenuhi berember-ember. Hujan atau kemarau, air harus tetap dihemat. (Ayu mengambil ember, lalu menaruhnya di bawah keran.) Ayu: Air tetesan ini bisa untuk menyiram tanaman. Tono: (tersenyum malu) Maaf, tadi aku tidak peduli. Besok aku ikut memeriksa keran lain. Pak Hasan: Tidak apa-apa. Sekolah kita nyaman karena semua orang peduli. (Pak Hasan mengganti karet keran. Air pun berhenti menetes.) Apa arti ungkapan “lepas tangan” yang diucapkan Tono?",
           "pertanyaan": "Apa arti ungkapan “lepas tangan” yang diucapkan Tono?",
@@ -2909,6 +2946,7 @@
           "no": 8,
           "video": "",
           "title": "Tetes Demi Tetes",
+          "materi": "Menilai & Menyimpulkan Teks",
           "tipe": "bs",
           "soal": "Tetes Demi Tetes. (Pagi hari di halaman SD Harapan. Ayu dan Tono hendak mencuci tangan setelah menyiram bunga.) Ayu: (menunjuk keran) Lihat, Tono! Keran ini menetes terus. Tono: Biar saja. Itu bukan tugasku. Aku lepas tangan. Ayu: (memutar keran sekuat tenaga) Sudah rapat, tetapi masih menetes. Tono: Nah, tidak bisa. Sudahlah. Ayu: Kalau semua orang lepas tangan, siapa yang memperbaikinya? Ayo, kita lapor Pak Hasan. (Mereka berlari ke ruang penjaga sekolah.) Pak Hasan: Terima kasih sudah melapor. Bapak tadi sibuk di belakang, jadi belum tahu keran itu rusak. Karet keran memang sudah aus. Kerusakan kecil jangan dibiarkan. Makin cepat dilaporkan, makin cepat diperbaiki. Tono: Tetapi itu hanya menetes, Pak. Pak Hasan: Tetes demi tetes, lama-lama bisa memenuhi berember-ember. Hujan atau kemarau, air harus tetap dihemat. (Ayu mengambil ember, lalu menaruhnya di bawah keran.) Ayu: Air tetesan ini bisa untuk menyiram tanaman. Tono: (tersenyum malu) Maaf, tadi aku tidak peduli. Besok aku ikut memeriksa keran lain. Pak Hasan: Tidak apa-apa. Sekolah kita nyaman karena semua orang peduli. (Pak Hasan mengganti karet keran. Air pun berhenti menetes.) Nadia selesai membaca cerita ini dan ingin meniru sikap Ayu. Bagaimana tindakan Nadia berikut? Pilih Sesuai atau Tidak Sesuai untuk setiap pernyataan berdasarkan isi teks!",
           "pertanyaan": "Nadia selesai membaca cerita ini dan ingin meniru sikap Ayu. Bagaimana tindakan Nadia berikut? Pilih Sesuai atau Tidak Sesuai untuk setiap pernyataan berdasarkan isi teks!",
@@ -2988,6 +3026,7 @@
           "no": 9,
           "video": "",
           "title": "Melihat Penyu Bertelur",
+          "materi": "Mencari Informasi Tersurat",
           "tipe": "pg",
           "soal": "Melihat Penyu Bertelur. Sabtu, 12 Juli. Malam ini aku ikut Ayah ke Pantai Pangumbahan. Pak Made, petugas pantai, meminta semua senter dimatikan. Katanya, cahaya terang bisa membuat penyu takut, lalu penyu kembali ke laut. Pantai menjadi gelap sekali. Aku sedikit takut karena pantai sangat gelap. Ombak terdengar pelan di dekat kami. Tiba-tiba seekor penyu naik dari laut. Tubuhnya besar dan geraknya lambat. Aku kagum karena ia menggali lubang dengan sirip belakangnya. Lalu telurnya jatuh satu per satu. Kata Pak Made, jumlahnya sekitar seratus butir. Aku kagum karena telurnya sebanyak itu. Setelah itu, penyu menutup lubang dengan pasir dan pulang ke laut. Aku ingin kembali lagi! Mengapa Pak Made meminta semua pengunjung mematikan senter?",
           "pertanyaan": "Mengapa Pak Made meminta semua pengunjung mematikan senter?",
@@ -3057,6 +3096,7 @@
           "no": 10,
           "video": "",
           "title": "Melihat Penyu Bertelur",
+          "materi": "Mencari Informasi Tersurat",
           "tipe": "pgk",
           "soal": "Melihat Penyu Bertelur. Sabtu, 12 Juli. Malam ini aku ikut Ayah ke Pantai Pangumbahan. Pak Made, petugas pantai, meminta semua senter dimatikan. Katanya, cahaya terang bisa membuat penyu takut, lalu penyu kembali ke laut. Pantai menjadi gelap sekali. Aku sedikit takut karena pantai sangat gelap. Ombak terdengar pelan di dekat kami. Tiba-tiba seekor penyu naik dari laut. Tubuhnya besar dan geraknya lambat. Aku kagum karena ia menggali lubang dengan sirip belakangnya. Lalu telurnya jatuh satu per satu. Kata Pak Made, jumlahnya sekitar seratus butir. Aku kagum karena telurnya sebanyak itu. Setelah itu, penyu menutup lubang dengan pasir dan pulang ke laut. Aku ingin kembali lagi! Hal apa saja yang membuat tokoh aku kagum? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
           "pertanyaan": "Hal apa saja yang membuat tokoh aku kagum? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
@@ -3134,6 +3174,7 @@
           "no": 11,
           "video": "",
           "title": "Sepatu yang Kelelahan",
+          "materi": "Mencari Informasi Tersurat",
           "tipe": "pg",
           "soal": "Sepatu yang Kelelahan. Sepasang sepatu biru tinggal di rak depan rumah Raka. Sore itu, Raka pulang bermain bola. Hujan baru saja berhenti, jadi lapangan becek. Sepatu itu penuh lumpur. Sepatu kiri menguap panjang. “Aduh, aku kelelahan karena berlari keliling lapangan,” keluhnya. “Aku juga lelah karena terkena lumpur di dekat gawang,” sahut sepatu kanan. Keduanya tampak sangat letih. Raka melihat sepatunya kotor. Ia menyikat lumpur sampai bersih. Setelah itu, ia membilas sepatu dengan air. Lalu ia menjemurnya di teras. Pagi harinya, kedua sepatu terasa ringan dan segar. “Terima kasih, Raka,” bisik sepatu kiri. Hari ini mereka siap berlari lagi. Apa yang Raka lakukan tepat setelah membilas sepatu dengan air?",
           "pertanyaan": "Apa yang Raka lakukan tepat setelah membilas sepatu dengan air?",
@@ -3202,6 +3243,7 @@
           "no": 12,
           "video": "",
           "title": "Sepatu yang Kelelahan",
+          "materi": "Mencari Informasi Tersurat",
           "tipe": "pgk",
           "soal": "Sepatu yang Kelelahan. Sepasang sepatu biru tinggal di rak depan rumah Raka. Sore itu, Raka pulang bermain bola. Hujan baru saja berhenti, jadi lapangan becek. Sepatu itu penuh lumpur. Sepatu kiri menguap panjang. “Aduh, aku kelelahan karena berlari keliling lapangan,” keluhnya. “Aku juga lelah karena terkena lumpur di dekat gawang,” sahut sepatu kanan. Keduanya tampak sangat letih. Raka melihat sepatunya kotor. Ia menyikat lumpur sampai bersih. Setelah itu, ia membilas sepatu dengan air. Lalu ia menjemurnya di teras. Pagi harinya, kedua sepatu terasa ringan dan segar. “Terima kasih, Raka,” bisik sepatu kiri. Hari ini mereka siap berlari lagi. Hal apa saja yang membuat sepatu-sepatu itu kelelahan? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
           "pertanyaan": "Hal apa saja yang membuat sepatu-sepatu itu kelelahan? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
@@ -3279,6 +3321,7 @@
           "no": 13,
           "video": "",
           "title": "Bakar Batu di Kampung Nenek",
+          "materi": "Menyusun Kembali & Ikhtisar",
           "tipe": "pg",
           "soal": "Bakar Batu di Kampung Nenek. Hari Minggu, keluarga kami akan pergi ke kampung nenek di Wamena. Warga kampung mengadakan pesta bakar batu. Pesta itu untuk bersyukur atas panen ubi yang melimpah. Aku, Ayah, dan Ibu berangkat pagi-pagi naik mobil. Kami ingin ikut menyiapkan pesta sejak awal. Di tengah jalan, hujan turun dengan deras. Sungai kecil di tepi jalan meluap dan menutupi jalan. Seorang pengendara motor nekat menerobos, tetapi motornya hampir hanyut. Ayah memilih berhenti. \"Kita tunggu sampai air surut,\" kata Ayah. Aku kesal karena takut terlambat. Aku berharap kami tidak ketinggalan acara. Ibu menepuk bahuku pelan. \"Sabar, Lince. Keselamatan lebih penting,\" katanya. Kami menunggu beberapa jam di tepi jalan. Setelah air surut, kami melanjutkan perjalanan. Kami tiba di kampung saat siang. Ternyata warga sengaja menunda memasak karena menunggu kami. \"Kita patut bersyukur,\" kata Ibu pelan. \"Kita selamat dan masih bisa ikut pesta.\" Pesta pun dimulai. Pertama, paman menyalakan api dan menumpuk batu di atasnya. Setelah batu sangat panas, warga memakai jepit kayu untuk memasukkannya ke dalam lubang yang beralas daun. Kemudian, ibu-ibu menyusun ubi, sayur, dan daging di atas batu. Terakhir, semuanya ditutup daun dan tanah. Sebelum makan, semua warga berdoa dan berterima kasih atas panen. Kami makan bersama sambil bercerita sampai sore. Rasa kesalku pun hilang. Bagaimana urutan cara warga memasak makanan dalam pesta bakar batu?",
           "pertanyaan": "Bagaimana urutan cara warga memasak makanan dalam pesta bakar batu?",
@@ -3349,6 +3392,7 @@
           "no": 14,
           "video": "",
           "title": "Bakar Batu di Kampung Nenek",
+          "materi": "Mencari Informasi Tersurat",
           "tipe": "pgk",
           "soal": "Bakar Batu di Kampung Nenek. Hari Minggu, keluarga kami akan pergi ke kampung nenek di Wamena. Warga kampung mengadakan pesta bakar batu. Pesta itu untuk bersyukur atas panen ubi yang melimpah. Aku, Ayah, dan Ibu berangkat pagi-pagi naik mobil. Kami ingin ikut menyiapkan pesta sejak awal. Di tengah jalan, hujan turun dengan deras. Sungai kecil di tepi jalan meluap dan menutupi jalan. Seorang pengendara motor nekat menerobos, tetapi motornya hampir hanyut. Ayah memilih berhenti. \"Kita tunggu sampai air surut,\" kata Ayah. Aku kesal karena takut terlambat. Aku berharap kami tidak ketinggalan acara. Ibu menepuk bahuku pelan. \"Sabar, Lince. Keselamatan lebih penting,\" katanya. Kami menunggu beberapa jam di tepi jalan. Setelah air surut, kami melanjutkan perjalanan. Kami tiba di kampung saat siang. Ternyata warga sengaja menunda memasak karena menunggu kami. \"Kita patut bersyukur,\" kata Ibu pelan. \"Kita selamat dan masih bisa ikut pesta.\" Pesta pun dimulai. Pertama, paman menyalakan api dan menumpuk batu di atasnya. Setelah batu sangat panas, warga memakai jepit kayu untuk memasukkannya ke dalam lubang yang beralas daun. Kemudian, ibu-ibu menyusun ubi, sayur, dan daging di atas batu. Terakhir, semuanya ditutup daun dan tanah. Sebelum makan, semua warga berdoa dan berterima kasih atas panen. Kami makan bersama sambil bercerita sampai sore. Rasa kesalku pun hilang. Peristiwa apa saja dalam cerita yang menunjukkan rasa syukur? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
           "pertanyaan": "Peristiwa apa saja dalam cerita yang menunjukkan rasa syukur? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
@@ -3423,6 +3467,7 @@
           "no": 15,
           "video": "",
           "title": "Bakar Batu di Kampung Nenek",
+          "materi": "Respons Emosi terhadap Cerita",
           "tipe": "pg",
           "soal": "Bakar Batu di Kampung Nenek. Hari Minggu, keluarga kami akan pergi ke kampung nenek di Wamena. Warga kampung mengadakan pesta bakar batu. Pesta itu untuk bersyukur atas panen ubi yang melimpah. Aku, Ayah, dan Ibu berangkat pagi-pagi naik mobil. Kami ingin ikut menyiapkan pesta sejak awal. Di tengah jalan, hujan turun dengan deras. Sungai kecil di tepi jalan meluap dan menutupi jalan. Seorang pengendara motor nekat menerobos, tetapi motornya hampir hanyut. Ayah memilih berhenti. \"Kita tunggu sampai air surut,\" kata Ayah. Aku kesal karena takut terlambat. Aku berharap kami tidak ketinggalan acara. Ibu menepuk bahuku pelan. \"Sabar, Lince. Keselamatan lebih penting,\" katanya. Kami menunggu beberapa jam di tepi jalan. Setelah air surut, kami melanjutkan perjalanan. Kami tiba di kampung saat siang. Ternyata warga sengaja menunda memasak karena menunggu kami. \"Kita patut bersyukur,\" kata Ibu pelan. \"Kita selamat dan masih bisa ikut pesta.\" Pesta pun dimulai. Pertama, paman menyalakan api dan menumpuk batu di atasnya. Setelah batu sangat panas, warga memakai jepit kayu untuk memasukkannya ke dalam lubang yang beralas daun. Kemudian, ibu-ibu menyusun ubi, sayur, dan daging di atas batu. Terakhir, semuanya ditutup daun dan tanah. Sebelum makan, semua warga berdoa dan berterima kasih atas panen. Kami makan bersama sambil bercerita sampai sore. Rasa kesalku pun hilang. Keluargamu akan pergi ke acara di rumah kakek. Di jalan, hujan deras membuat sungai meluap dan menutupi jalan. Setelah membaca cerita Lince, apa yang paling tepat kamu lakukan?",
           "pertanyaan": "Keluargamu akan pergi ke acara di rumah kakek. Di jalan, hujan deras membuat sungai meluap dan menutupi jalan. Setelah membaca cerita Lince, apa yang paling tepat kamu lakukan?",
@@ -3497,6 +3542,7 @@
           "no": 16,
           "video": "",
           "title": "Pasar Tradisional yang Bersih dan Sehat",
+          "materi": "Ide Pokok & Gagasan Pendukung",
           "tipe": "pg",
           "soal": "Pasar Tradisional yang Bersih dan Sehat. Pasar tradisional menjadi tempat banyak orang berbelanja. Di sana dijual sayur, buah, ikan, dan daging. Setiap hari, ratusan pembeli datang ke sana. Karena itu, pasar harus dijaga agar bersih dan sehat. Pengelola pasar membuat beberapa aturan. Aturan ini berlaku untuk semua pedagang. Pertama, pedagang membuang sampah ke tempat sampah bertutup. Dengan begitu, lalat tidak mudah hinggap di dagangan. Kedua, lantai pasar disapu setiap pagi. Kotoran dan sisa sayur pun tidak menumpuk. Ketiga, pedagang ikan memakai celemek dan sarung tangan. Cara ini menjaga ikan tetap bersih. Keempat, tersedia tempat cuci tangan di dekat pintu masuk. Pembeli dapat mencuci tangan sebelum pulang. Kuman pun tidak terbawa ke rumah. Selokan di sekitar pasar juga dibersihkan setiap minggu oleh petugas pasar. Air pun mengalir lancar dan tidak berbau. Pedagang dan pembeli sama-sama menaati aturan itu. Berkat aturan itu, pasar terasa nyaman. Pembeli senang datang kembali. Fokus utama teks tersebut adalah ...",
           "pertanyaan": "Fokus utama teks tersebut adalah ...",
@@ -3564,6 +3610,7 @@
           "no": 17,
           "video": "",
           "title": "Pasar Tradisional yang Bersih dan Sehat",
+          "materi": "Mencari Informasi Tersurat",
           "tipe": "pg",
           "soal": "Pasar Tradisional yang Bersih dan Sehat. Pasar tradisional menjadi tempat banyak orang berbelanja. Di sana dijual sayur, buah, ikan, dan daging. Setiap hari, ratusan pembeli datang ke sana. Karena itu, pasar harus dijaga agar bersih dan sehat. Pengelola pasar membuat beberapa aturan. Aturan ini berlaku untuk semua pedagang. Pertama, pedagang membuang sampah ke tempat sampah bertutup. Dengan begitu, lalat tidak mudah hinggap di dagangan. Kedua, lantai pasar disapu setiap pagi. Kotoran dan sisa sayur pun tidak menumpuk. Ketiga, pedagang ikan memakai celemek dan sarung tangan. Cara ini menjaga ikan tetap bersih. Keempat, tersedia tempat cuci tangan di dekat pintu masuk. Pembeli dapat mencuci tangan sebelum pulang. Kuman pun tidak terbawa ke rumah. Selokan di sekitar pasar juga dibersihkan setiap minggu oleh petugas pasar. Air pun mengalir lancar dan tidak berbau. Pedagang dan pembeli sama-sama menaati aturan itu. Berkat aturan itu, pasar terasa nyaman. Pembeli senang datang kembali. Apa hasil dari pemakaian tempat sampah bertutup di pasar menurut teks?",
           "pertanyaan": "Apa hasil dari pemakaian tempat sampah bertutup di pasar menurut teks?",
@@ -3631,6 +3678,7 @@
           "no": 18,
           "video": "",
           "title": "Pasar Tradisional yang Bersih dan Sehat",
+          "materi": "Mencari Informasi Tersurat",
           "tipe": "pgk",
           "soal": "Pasar Tradisional yang Bersih dan Sehat. Pasar tradisional menjadi tempat banyak orang berbelanja. Di sana dijual sayur, buah, ikan, dan daging. Setiap hari, ratusan pembeli datang ke sana. Karena itu, pasar harus dijaga agar bersih dan sehat. Pengelola pasar membuat beberapa aturan. Aturan ini berlaku untuk semua pedagang. Pertama, pedagang membuang sampah ke tempat sampah bertutup. Dengan begitu, lalat tidak mudah hinggap di dagangan. Kedua, lantai pasar disapu setiap pagi. Kotoran dan sisa sayur pun tidak menumpuk. Ketiga, pedagang ikan memakai celemek dan sarung tangan. Cara ini menjaga ikan tetap bersih. Keempat, tersedia tempat cuci tangan di dekat pintu masuk. Pembeli dapat mencuci tangan sebelum pulang. Kuman pun tidak terbawa ke rumah. Selokan di sekitar pasar juga dibersihkan setiap minggu oleh petugas pasar. Air pun mengalir lancar dan tidak berbau. Pedagang dan pembeli sama-sama menaati aturan itu. Berkat aturan itu, pasar terasa nyaman. Pembeli senang datang kembali. Perhatikan teks dan gambar! Hal apa saja yang disebut dalam teks dan juga tampak pada gambar? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
           "pertanyaan": "Perhatikan teks dan gambar! Hal apa saja yang disebut dalam teks dan juga tampak pada gambar? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
@@ -3707,6 +3755,7 @@
           "no": 19,
           "video": "",
           "title": "Perahu Pak Rustam",
+          "materi": "Menilai & Menyimpulkan Teks",
           "tipe": "bs",
           "soal": "Perahu Pak Rustam. Setiap pagi, Pak Rustam mengantar penumpang menyeberangi Sungai Kapuas. Ia menyapa setiap penumpang dengan ramah. Perahunya kecil dan catnya sudah pudar. Tangannya kasar karena bertahun-tahun memegang kemudi. Air sungai berwarna cokelat dan arusnya tenang. Dari jauh tampak perahu nelayan melintas membawa jaring. Anaknya, Dimas, duduk di kelas XII. Ia selalu minta diturunkan jauh dari dermaga sekolah. \"Jangan dekat-dekat, Yah,\" katanya. Ia malu bila teman-temannya tahu ayahnya hanya tukang perahu. Suatu pagi, kabut tipis masih menutupi air. Dimas cemberut di dalam perahu. Seorang ibu tua hendak naik, tetapi kakinya gemetar. Dimas hanya melihat dari tempat duduknya. Pak Rustam menatap anaknya. \"Perahu inilah yang membayar sekolahmu, Dimas,\" katanya pelan. \"Ayah tidak malu. Kamu pun tidak perlu malu.\" Dimas terdiam dan pipinya terasa panas. Ia ingat ayahnya selalu bangun sebelum subuh dan pulang saat hari gelap, tetapi jarang mengeluh. Ia berdiri lalu menuntun ibu tua itu naik. \"Pelan-pelan, Bu,\" ujarnya. Ibu itu tersenyum dan mengucapkan terima kasih. Keesokan harinya, Dimas bangun lebih awal supaya bisa membantu ayahnya mengikat tali perahu. Ia minta turun tepat di dermaga sekolah. Teman-temannya menyapa, dan Dimas membalas dengan senyum. \"Terima kasih, Yah,\" serunya sambil melambaikan tangan. Pak Rustam tersenyum dan mengangguk. Perahunya kembali melaju pelan menyusuri sungai yang mulai terang. Rina, Bagas, dan Salsa membicarakan bagian akhir cerita. Pendapat siapa yang sesuai dengan isi bagian akhir cerita itu? Pilih Sesuai atau Tidak Sesuai untuk setiap pernyataan berdasarkan isi teks!",
           "pertanyaan": "Rina, Bagas, dan Salsa membicarakan bagian akhir cerita. Pendapat siapa yang sesuai dengan isi bagian akhir cerita itu? Pilih Sesuai atau Tidak Sesuai untuk setiap pernyataan berdasarkan isi teks!",
@@ -3789,6 +3838,7 @@
           "no": 20,
           "video": "",
           "title": "Perahu Pak Rustam",
+          "materi": "Mencari Informasi Tersurat",
           "tipe": "pgk",
           "soal": "Perahu Pak Rustam. Setiap pagi, Pak Rustam mengantar penumpang menyeberangi Sungai Kapuas. Ia menyapa setiap penumpang dengan ramah. Perahunya kecil dan catnya sudah pudar. Tangannya kasar karena bertahun-tahun memegang kemudi. Air sungai berwarna cokelat dan arusnya tenang. Dari jauh tampak perahu nelayan melintas membawa jaring. Anaknya, Dimas, duduk di kelas XII. Ia selalu minta diturunkan jauh dari dermaga sekolah. \"Jangan dekat-dekat, Yah,\" katanya. Ia malu bila teman-temannya tahu ayahnya hanya tukang perahu. Suatu pagi, kabut tipis masih menutupi air. Dimas cemberut di dalam perahu. Seorang ibu tua hendak naik, tetapi kakinya gemetar. Dimas hanya melihat dari tempat duduknya. Pak Rustam menatap anaknya. \"Perahu inilah yang membayar sekolahmu, Dimas,\" katanya pelan. \"Ayah tidak malu. Kamu pun tidak perlu malu.\" Dimas terdiam dan pipinya terasa panas. Ia ingat ayahnya selalu bangun sebelum subuh dan pulang saat hari gelap, tetapi jarang mengeluh. Ia berdiri lalu menuntun ibu tua itu naik. \"Pelan-pelan, Bu,\" ujarnya. Ibu itu tersenyum dan mengucapkan terima kasih. Keesokan harinya, Dimas bangun lebih awal supaya bisa membantu ayahnya mengikat tali perahu. Ia minta turun tepat di dermaga sekolah. Teman-temannya menyapa, dan Dimas membalas dengan senyum. \"Terima kasih, Yah,\" serunya sambil melambaikan tangan. Pak Rustam tersenyum dan mengangguk. Perahunya kembali melaju pelan menyusuri sungai yang mulai terang. Bagian mana saja dari cerita yang menunjukkan pekerjaan Pak Rustam? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
           "pertanyaan": "Bagian mana saja dari cerita yang menunjukkan pekerjaan Pak Rustam? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
@@ -3866,6 +3916,7 @@
           "no": 21,
           "video": "",
           "title": "Perahu Pak Rustam",
+          "materi": "Perubahan Tokoh, Latar & Objek",
           "tipe": "pg",
           "soal": "Perahu Pak Rustam. Setiap pagi, Pak Rustam mengantar penumpang menyeberangi Sungai Kapuas. Ia menyapa setiap penumpang dengan ramah. Perahunya kecil dan catnya sudah pudar. Tangannya kasar karena bertahun-tahun memegang kemudi. Air sungai berwarna cokelat dan arusnya tenang. Dari jauh tampak perahu nelayan melintas membawa jaring. Anaknya, Dimas, duduk di kelas XII. Ia selalu minta diturunkan jauh dari dermaga sekolah. \"Jangan dekat-dekat, Yah,\" katanya. Ia malu bila teman-temannya tahu ayahnya hanya tukang perahu. Suatu pagi, kabut tipis masih menutupi air. Dimas cemberut di dalam perahu. Seorang ibu tua hendak naik, tetapi kakinya gemetar. Dimas hanya melihat dari tempat duduknya. Pak Rustam menatap anaknya. \"Perahu inilah yang membayar sekolahmu, Dimas,\" katanya pelan. \"Ayah tidak malu. Kamu pun tidak perlu malu.\" Dimas terdiam dan pipinya terasa panas. Ia ingat ayahnya selalu bangun sebelum subuh dan pulang saat hari gelap, tetapi jarang mengeluh. Ia berdiri lalu menuntun ibu tua itu naik. \"Pelan-pelan, Bu,\" ujarnya. Ibu itu tersenyum dan mengucapkan terima kasih. Keesokan harinya, Dimas bangun lebih awal supaya bisa membantu ayahnya mengikat tali perahu. Ia minta turun tepat di dermaga sekolah. Teman-temannya menyapa, dan Dimas membalas dengan senyum. \"Terima kasih, Yah,\" serunya sambil melambaikan tangan. Pak Rustam tersenyum dan mengangguk. Perahunya kembali melaju pelan menyusuri sungai yang mulai terang. Dinda selesai membaca cerita itu. Bagaimana perubahan sikap Dimas terhadap pekerjaan ayahnya yang Dinda temukan?",
           "pertanyaan": "Dinda selesai membaca cerita itu. Bagaimana perubahan sikap Dimas terhadap pekerjaan ayahnya yang Dinda temukan?",
@@ -3939,6 +3990,7 @@
           "no": 22,
           "video": "",
           "title": "Aku Menulis dengan Tangan Kiri",
+          "materi": "Respons Emosi terhadap Cerita",
           "tipe": "bs",
           "soal": "Aku Menulis dengan Tangan Kiri. Di kelas VI, hanya aku yang menulis dengan tangan kiri. Teman-teman lain memakai tangan kanan. Aku sering iri melihat mereka menulis dengan cepat dan bersih. Awalnya aku malu menulis di depan mereka. Telapak tanganku selalu menyapu tinta, sehingga buku tulisku penuh noda. Bimo, teman sebangkuku, sering melirik dan bertanya, \"Kenapa tanganmu belepotan?\" Aku hanya diam dan menyembunyikan bukuku. Suatu hari, Bu Ratna melihat bukuku yang kotor. Beliau tidak menyuruhku berganti tangan. \"Tangan kiri tidak salah,\" kata Bu Ratna. Aku merasa lega mendengarnya. Beliau menunjukkan cara memiringkan buku dan memegang pulpen agak jauh dari ujungnya. Katanya, yang penting tulisan mudah dibaca. Aku mencobanya, dan tintaku tidak tersapu lagi. Ibu lalu membelikanku buku latihan bergaris. Setiap sore aku berlatih menulis satu halaman penuh, huruf demi huruf. Awalnya hurufku miring dan tidak rata. Kadang tanganku pegal, tetapi aku terus menulis. Kak Dimas berkata, \"Teruskan saja, nanti pasti rapi.\" Dua minggu kemudian, tulisanku jauh lebih rapi. Suatu pagi yang cerah, Bu Ratna menempelkan karanganku di mading kelas. Bimo membacanya, lalu berkata, \"Tulisanmu bagus! Ajari aku, ya.\" Teman-teman lain ikut melihatnya dan mengangguk kagum. Aku tersenyum lebar. Kini aku tidak malu lagi. Tangan kiriku justru membuatku istimewa. Dinda juga menulis dengan tangan kiri dan sering ditertawakan temannya. Setelah membaca cerita itu, Dinda mengungkapkan perasaannya. Setujukah kamu dengan perasaan Dinda berikut? Pilih Setuju atau Tidak Setuju untuk setiap pernyataan berdasarkan isi teks!",
           "pertanyaan": "Dinda juga menulis dengan tangan kiri dan sering ditertawakan temannya. Setelah membaca cerita itu, Dinda mengungkapkan perasaannya. Setujukah kamu dengan perasaan Dinda berikut? Pilih Setuju atau Tidak Setuju untuk setiap pernyataan berdasarkan isi teks!",
@@ -4022,6 +4074,7 @@
           "no": 23,
           "video": "",
           "title": "Aku Menulis dengan Tangan Kiri",
+          "materi": "Mencari Informasi Tersurat",
           "tipe": "pg",
           "soal": "Aku Menulis dengan Tangan Kiri. Di kelas VI, hanya aku yang menulis dengan tangan kiri. Teman-teman lain memakai tangan kanan. Aku sering iri melihat mereka menulis dengan cepat dan bersih. Awalnya aku malu menulis di depan mereka. Telapak tanganku selalu menyapu tinta, sehingga buku tulisku penuh noda. Bimo, teman sebangkuku, sering melirik dan bertanya, \"Kenapa tanganmu belepotan?\" Aku hanya diam dan menyembunyikan bukuku. Suatu hari, Bu Ratna melihat bukuku yang kotor. Beliau tidak menyuruhku berganti tangan. \"Tangan kiri tidak salah,\" kata Bu Ratna. Aku merasa lega mendengarnya. Beliau menunjukkan cara memiringkan buku dan memegang pulpen agak jauh dari ujungnya. Katanya, yang penting tulisan mudah dibaca. Aku mencobanya, dan tintaku tidak tersapu lagi. Ibu lalu membelikanku buku latihan bergaris. Setiap sore aku berlatih menulis satu halaman penuh, huruf demi huruf. Awalnya hurufku miring dan tidak rata. Kadang tanganku pegal, tetapi aku terus menulis. Kak Dimas berkata, \"Teruskan saja, nanti pasti rapi.\" Dua minggu kemudian, tulisanku jauh lebih rapi. Suatu pagi yang cerah, Bu Ratna menempelkan karanganku di mading kelas. Bimo membacanya, lalu berkata, \"Tulisanmu bagus! Ajari aku, ya.\" Teman-teman lain ikut melihatnya dan mengangguk kagum. Aku tersenyum lebar. Kini aku tidak malu lagi. Tangan kiriku justru membuatku istimewa. Siapa yang menunjukkan kepada tokoh aku cara menulis agar tintanya tidak tersapu?",
           "pertanyaan": "Siapa yang menunjukkan kepada tokoh aku cara menulis agar tintanya tidak tersapu?",
@@ -4091,6 +4144,7 @@
           "no": 24,
           "video": "",
           "title": "Aku Menulis dengan Tangan Kiri",
+          "materi": "Unsur Cerita Fiksi",
           "tipe": "pg",
           "soal": "Aku Menulis dengan Tangan Kiri. Di kelas VI, hanya aku yang menulis dengan tangan kiri. Teman-teman lain memakai tangan kanan. Aku sering iri melihat mereka menulis dengan cepat dan bersih. Awalnya aku malu menulis di depan mereka. Telapak tanganku selalu menyapu tinta, sehingga buku tulisku penuh noda. Bimo, teman sebangkuku, sering melirik dan bertanya, \"Kenapa tanganmu belepotan?\" Aku hanya diam dan menyembunyikan bukuku. Suatu hari, Bu Ratna melihat bukuku yang kotor. Beliau tidak menyuruhku berganti tangan. \"Tangan kiri tidak salah,\" kata Bu Ratna. Aku merasa lega mendengarnya. Beliau menunjukkan cara memiringkan buku dan memegang pulpen agak jauh dari ujungnya. Katanya, yang penting tulisan mudah dibaca. Aku mencobanya, dan tintaku tidak tersapu lagi. Ibu lalu membelikanku buku latihan bergaris. Setiap sore aku berlatih menulis satu halaman penuh, huruf demi huruf. Awalnya hurufku miring dan tidak rata. Kadang tanganku pegal, tetapi aku terus menulis. Kak Dimas berkata, \"Teruskan saja, nanti pasti rapi.\" Dua minggu kemudian, tulisanku jauh lebih rapi. Suatu pagi yang cerah, Bu Ratna menempelkan karanganku di mading kelas. Bimo membacanya, lalu berkata, \"Tulisanmu bagus! Ajari aku, ya.\" Teman-teman lain ikut melihatnya dan mengangguk kagum. Aku tersenyum lebar. Kini aku tidak malu lagi. Tangan kiriku justru membuatku istimewa. Dari usahanya memperbaiki tulisan, apa watak tokoh aku dan buktinya?",
           "pertanyaan": "Dari usahanya memperbaiki tulisan, apa watak tokoh aku dan buktinya?",
@@ -4164,6 +4218,7 @@
           "no": 25,
           "video": "",
           "title": "Bajamba di Rumah Nenek",
+          "materi": "Respons Emosi terhadap Cerita",
           "tipe": "pgk",
           "soal": "Bajamba di Rumah Nenek. Hari ini keluarga besar Dimas berkumpul di rumah Nenek di Padang. Mereka akan makan bajamba. Nenek sudah memasak sejak pagi. Bajamba adalah tradisi makan bersama dari Sumatra Barat. Semua orang duduk bersila dan saling berhadapan. Makanan ditata di tengah. Ada rendang, gulai ikan, dan sayur singkong. Semuanya dimakan bersama-sama. Dimas duduk dengan gelisah. Ia melirik jam dinding berkali-kali. Perutnya sudah lapar, tetapi pikirannya ada di lapangan. Teman-temannya sedang bermain bola di sana. Ia ingin segera ikut bermain. Dimas ingin cepat pulang. “Yah, ayo pulang sekarang,” bisik Dimas. “Makannya lama sekali.” “Sabar, Dimas. Doa saja belum dimulai,” jawab Ayah. Ayah menatap Dimas dan menggeleng pelan. “Pokoknya aku mau pulang!” rengek Dimas dengan suara keras. Sepupu-sepupunya menoleh ke arahnya. Nenek duduk di samping Dimas. “Cucuku, bajamba bukan hanya soal makan,” kata Nenek lembut. “Kita duduk berhadapan supaya bisa saling bercerita. Kita makan bersama supaya hati kita dekat.” Nenek menambahkan bahwa sepupu Dimas datang dari jauh dan jarang bertemu. “Kalau kamu pulang, mereka pasti sedih. Bola bisa dimainkan nanti.” Dimas menunduk. Ia baru sadar sudah merengek di depan semua orang. “Maaf, Nek. Aku mengerti. Aku tidak jadi pulang,” katanya pelan. Nenek tersenyum dan mengusap kepala Dimas. Angku, kakek Dimas, memimpin doa. Setelah itu semua mulai makan. Dimas duduk berhadapan dengan sepupunya, Rani. Dimas juga bercerita tentang sekolahnya. Mereka bercerita sambil tertawa. Angku berpesan agar keluarga selalu mau berkumpul meski sedang sibuk. Sore itu Dimas lupa pada lapangan bola. Ia malah ingin makan bajamba lagi. Dinda selesai membaca cerita tentang Dimas. Minggu depan keluarga besarnya akan berkumpul, padahal Dinda ingin bermain dengan temannya. Tindakan apa yang sebaiknya Dinda lakukan? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
           "pertanyaan": "Dinda selesai membaca cerita tentang Dimas. Minggu depan keluarga besarnya akan berkumpul, padahal Dinda ingin bermain dengan temannya. Tindakan apa yang sebaiknya Dinda lakukan? Pilih semua jawaban yang benar! Jawaban benar lebih dari satu.",
@@ -4243,6 +4298,7 @@
           "no": 26,
           "video": "",
           "title": "Bajamba di Rumah Nenek",
+          "materi": "Mencari Informasi Tersurat",
           "tipe": "pg",
           "soal": "Bajamba di Rumah Nenek. Hari ini keluarga besar Dimas berkumpul di rumah Nenek di Padang. Mereka akan makan bajamba. Nenek sudah memasak sejak pagi. Bajamba adalah tradisi makan bersama dari Sumatra Barat. Semua orang duduk bersila dan saling berhadapan. Makanan ditata di tengah. Ada rendang, gulai ikan, dan sayur singkong. Semuanya dimakan bersama-sama. Dimas duduk dengan gelisah. Ia melirik jam dinding berkali-kali. Perutnya sudah lapar, tetapi pikirannya ada di lapangan. Teman-temannya sedang bermain bola di sana. Ia ingin segera ikut bermain. Dimas ingin cepat pulang. “Yah, ayo pulang sekarang,” bisik Dimas. “Makannya lama sekali.” “Sabar, Dimas. Doa saja belum dimulai,” jawab Ayah. Ayah menatap Dimas dan menggeleng pelan. “Pokoknya aku mau pulang!” rengek Dimas dengan suara keras. Sepupu-sepupunya menoleh ke arahnya. Nenek duduk di samping Dimas. “Cucuku, bajamba bukan hanya soal makan,” kata Nenek lembut. “Kita duduk berhadapan supaya bisa saling bercerita. Kita makan bersama supaya hati kita dekat.” Nenek menambahkan bahwa sepupu Dimas datang dari jauh dan jarang bertemu. “Kalau kamu pulang, mereka pasti sedih. Bola bisa dimainkan nanti.” Dimas menunduk. Ia baru sadar sudah merengek di depan semua orang. “Maaf, Nek. Aku mengerti. Aku tidak jadi pulang,” katanya pelan. Nenek tersenyum dan mengusap kepala Dimas. Angku, kakek Dimas, memimpin doa. Setelah itu semua mulai makan. Dimas duduk berhadapan dengan sepupunya, Rani. Dimas juga bercerita tentang sekolahnya. Mereka bercerita sambil tertawa. Angku berpesan agar keluarga selalu mau berkumpul meski sedang sibuk. Sore itu Dimas lupa pada lapangan bola. Ia malah ingin makan bajamba lagi. Siapa yang memimpin doa sebelum keluarga Dimas mulai makan bajamba?",
           "pertanyaan": "Siapa yang memimpin doa sebelum keluarga Dimas mulai makan bajamba?",
@@ -4312,6 +4368,7 @@
           "no": 27,
           "video": "",
           "title": "Bajamba di Rumah Nenek",
+          "materi": "Perubahan Tokoh, Latar & Objek",
           "tipe": "pg",
           "soal": "Bajamba di Rumah Nenek. Hari ini keluarga besar Dimas berkumpul di rumah Nenek di Padang. Mereka akan makan bajamba. Nenek sudah memasak sejak pagi. Bajamba adalah tradisi makan bersama dari Sumatra Barat. Semua orang duduk bersila dan saling berhadapan. Makanan ditata di tengah. Ada rendang, gulai ikan, dan sayur singkong. Semuanya dimakan bersama-sama. Dimas duduk dengan gelisah. Ia melirik jam dinding berkali-kali. Perutnya sudah lapar, tetapi pikirannya ada di lapangan. Teman-temannya sedang bermain bola di sana. Ia ingin segera ikut bermain. Dimas ingin cepat pulang. “Yah, ayo pulang sekarang,” bisik Dimas. “Makannya lama sekali.” “Sabar, Dimas. Doa saja belum dimulai,” jawab Ayah. Ayah menatap Dimas dan menggeleng pelan. “Pokoknya aku mau pulang!” rengek Dimas dengan suara keras. Sepupu-sepupunya menoleh ke arahnya. Nenek duduk di samping Dimas. “Cucuku, bajamba bukan hanya soal makan,” kata Nenek lembut. “Kita duduk berhadapan supaya bisa saling bercerita. Kita makan bersama supaya hati kita dekat.” Nenek menambahkan bahwa sepupu Dimas datang dari jauh dan jarang bertemu. “Kalau kamu pulang, mereka pasti sedih. Bola bisa dimainkan nanti.” Dimas menunduk. Ia baru sadar sudah merengek di depan semua orang. “Maaf, Nek. Aku mengerti. Aku tidak jadi pulang,” katanya pelan. Nenek tersenyum dan mengusap kepala Dimas. Angku, kakek Dimas, memimpin doa. Setelah itu semua mulai makan. Dimas duduk berhadapan dengan sepupunya, Rani. Dimas juga bercerita tentang sekolahnya. Mereka bercerita sambil tertawa. Angku berpesan agar keluarga selalu mau berkumpul meski sedang sibuk. Sore itu Dimas lupa pada lapangan bola. Ia malah ingin makan bajamba lagi. Bagaimana perasaan Dimas setelah mendengar nasihat Nenek?",
           "pertanyaan": "Bagaimana perasaan Dimas setelah mendengar nasihat Nenek?",
@@ -4385,6 +4442,7 @@
           "no": 28,
           "video": "",
           "title": "Nilai Bagus Rafi",
+          "materi": "Makna Ungkapan & Peribahasa",
           "tipe": "pg",
           "soal": "Nilai Bagus Rafi. Bel istirahat berbunyi. Rafi duduk sendirian di bangku taman sekolah. Dinda datang menghampirinya sambil membawa dua botol air minum. Dinda: Rafi, kenapa wajahmu murung? Nilai ulangan Matematikamu kan sembilan puluh. Rafi: Nilai itu bukan hasil kerjaku. Aku menyalin jawaban teman sebangku. Dinda: Mengapa kamu menyalinnya? Rafi: Kupikir itu cara mudah. Aku tidak perlu belajar, tetapi nilaiku tetap bagus. Dinda: Lalu apa yang terjadi? Rafi: Kemarin Pak Anton menyuruhku mengerjakan soal yang sama di papan tulis. (Rafi menunduk.) Aku berdiri lama, tetapi tidak bisa menjawab. Teman-teman memandangiku. Pipiku terasa panas. Akhirnya aku mengaku jujur kepada beliau. Hatiku lega, tetapi aku malu. Dinda: Kamu berani sekali mengaku. Apa kata Pak Anton? Rafi: Beliau tidak marah. Beliau berkata nilai jujur lebih berharga daripada nilai hasil menyalin. Dinda: Mulai sekarang kerjakan lima soal setiap hari. Sedikit demi sedikit, lama-lama menjadi bukit. Rafi: Lima soal saja? Itu sedikit sekali. Dinda: Dua minggu lagi kamu sudah mengerjakan tujuh puluh soal. Rafi: Benar juga. Aku tidak mau menyalin lagi. Mulai hari ini aku belajar sendiri. Dinda: Bagus! Aku akan menemanimu. (Dinda tersenyum.) Bel masuk berbunyi. Keduanya berlari menuju kelas sambil tertawa. Berdasarkan dialog tersebut, apa makna peribahasa yang diucapkan Dinda kepada Rafi?",
           "pertanyaan": "Berdasarkan dialog tersebut, apa makna peribahasa yang diucapkan Dinda kepada Rafi?",
@@ -4458,6 +4516,7 @@
           "no": 29,
           "video": "",
           "title": "Nilai Bagus Rafi",
+          "materi": "Perubahan Tokoh, Latar & Objek",
           "tipe": "pg",
           "soal": "Nilai Bagus Rafi. Bel istirahat berbunyi. Rafi duduk sendirian di bangku taman sekolah. Dinda datang menghampirinya sambil membawa dua botol air minum. Dinda: Rafi, kenapa wajahmu murung? Nilai ulangan Matematikamu kan sembilan puluh. Rafi: Nilai itu bukan hasil kerjaku. Aku menyalin jawaban teman sebangku. Dinda: Mengapa kamu menyalinnya? Rafi: Kupikir itu cara mudah. Aku tidak perlu belajar, tetapi nilaiku tetap bagus. Dinda: Lalu apa yang terjadi? Rafi: Kemarin Pak Anton menyuruhku mengerjakan soal yang sama di papan tulis. (Rafi menunduk.) Aku berdiri lama, tetapi tidak bisa menjawab. Teman-teman memandangiku. Pipiku terasa panas. Akhirnya aku mengaku jujur kepada beliau. Hatiku lega, tetapi aku malu. Dinda: Kamu berani sekali mengaku. Apa kata Pak Anton? Rafi: Beliau tidak marah. Beliau berkata nilai jujur lebih berharga daripada nilai hasil menyalin. Dinda: Mulai sekarang kerjakan lima soal setiap hari. Sedikit demi sedikit, lama-lama menjadi bukit. Rafi: Lima soal saja? Itu sedikit sekali. Dinda: Dua minggu lagi kamu sudah mengerjakan tujuh puluh soal. Rafi: Benar juga. Aku tidak mau menyalin lagi. Mulai hari ini aku belajar sendiri. Dinda: Bagus! Aku akan menemanimu. (Dinda tersenyum.) Bel masuk berbunyi. Keduanya berlari menuju kelas sambil tertawa. Bagaimana sikap Rafi berubah dari awal sampai akhir dialog?",
           "pertanyaan": "Bagaimana sikap Rafi berubah dari awal sampai akhir dialog?",
@@ -4533,6 +4592,7 @@
           "no": 30,
           "video": "",
           "title": "Nilai Bagus Rafi",
+          "materi": "Menilai & Menyimpulkan Teks",
           "tipe": "bs",
           "soal": "Nilai Bagus Rafi. Bel istirahat berbunyi. Rafi duduk sendirian di bangku taman sekolah. Dinda datang menghampirinya sambil membawa dua botol air minum. Dinda: Rafi, kenapa wajahmu murung? Nilai ulangan Matematikamu kan sembilan puluh. Rafi: Nilai itu bukan hasil kerjaku. Aku menyalin jawaban teman sebangku. Dinda: Mengapa kamu menyalinnya? Rafi: Kupikir itu cara mudah. Aku tidak perlu belajar, tetapi nilaiku tetap bagus. Dinda: Lalu apa yang terjadi? Rafi: Kemarin Pak Anton menyuruhku mengerjakan soal yang sama di papan tulis. (Rafi menunduk.) Aku berdiri lama, tetapi tidak bisa menjawab. Teman-teman memandangiku. Pipiku terasa panas. Akhirnya aku mengaku jujur kepada beliau. Hatiku lega, tetapi aku malu. Dinda: Kamu berani sekali mengaku. Apa kata Pak Anton? Rafi: Beliau tidak marah. Beliau berkata nilai jujur lebih berharga daripada nilai hasil menyalin. Dinda: Mulai sekarang kerjakan lima soal setiap hari. Sedikit demi sedikit, lama-lama menjadi bukit. Rafi: Lima soal saja? Itu sedikit sekali. Dinda: Dua minggu lagi kamu sudah mengerjakan tujuh puluh soal. Rafi: Benar juga. Aku tidak mau menyalin lagi. Mulai hari ini aku belajar sendiri. Dinda: Bagus! Aku akan menemanimu. (Dinda tersenyum.) Bel masuk berbunyi. Keduanya berlari menuju kelas sambil tertawa. Berdasarkan pengalaman Rafi, tindakan anak lain manakah yang tepat? Pilih Benar atau Salah untuk setiap pernyataan berdasarkan isi teks!",
           "pertanyaan": "Berdasarkan pengalaman Rafi, tindakan anak lain manakah yang tepat? Pilih Benar atau Salah untuk setiap pernyataan berdasarkan isi teks!",
@@ -4619,6 +4679,7 @@
           "no": 1,
           "video": "",
           "title": "Daun Singkong Berlubang",
+          "materi": "Makhluk Hidup dan Daur Hidup",
           "tipe": "pg",
           "soal": "Pak Hasan menanam singkong di kebun. Pagi ini Rani membantu memeriksa tanaman dan melihat banyak daun berlubang karena dimakan ulat. Dari 10 daun yang diamati, 8 daun berlubang pada bagian yang lebar dan tipis, sedangkan garis-garis keras di tengah daun dan bagian yang menghubungkan daun dengan batang masih utuh. Rani menandai bagian daun dengan huruf P, Q, dan R seperti pada gambar. Bagian mana yang paling banyak dimakan ulat, dan apa fungsinya bagi singkong?",
           "opsi": [
@@ -4686,6 +4747,7 @@
           "no": 2,
           "video": "",
           "title": "Gelembung pada Tanaman Air",
+          "materi": "Makhluk Hidup dan Daur Hidup",
           "tipe": "bs",
           "soal": "Dina ingin tahu apakah cahaya memengaruhi tanaman air. Ia memasukkan tanaman Hydrilla ke dalam dua tabung yang sama, lalu membalik tabung itu di dalam gelas berisi air. Tabung X diterangi lampu pada jarak 10 cm, tabung Y pada jarak 40 cm. Lampu, jenis tanaman, dan suhu air dibuat sama. Dina menghitung gelembung yang naik selama 5 menit. Hasilnya tampak pada gambar. Tentukan Benar atau Salah!",
           "opsi": [
@@ -4763,6 +4825,7 @@
           "no": 3,
           "video": "",
           "title": "Perubahan Katak di Kolam Sawah",
+          "materi": "Makhluk Hidup dan Daur Hidup",
           "tipe": "pgk",
           "soal": "Sari mengamati kolam kecil di pinggir sawah selama beberapa minggu. Mula-mula ia melihat gumpalan telur katak menempel pada tanaman air. Beberapa hari kemudian muncul hewan kecil berekor yang berenang di kolam. Tak lama, kaki hewan itu mulai tumbuh, dan akhirnya ia melompat ke tepi sawah. Sari menggambar bagan perubahan itu dan memberi huruf P, Q, R, dan S pada tiap tahap. Perhatikan bagan siklus hidup katak berikut! Pernyataan yang benar sesuai bagan adalah .... Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.",
           "opsi": [
@@ -4861,6 +4924,7 @@
           "no": 4,
           "video": "",
           "title": "Tunas Pisang di Samping Induknya",
+          "materi": "Makhluk Hidup dan Daur Hidup",
           "tipe": "pg",
           "soal": "Pak Rudi punya satu pohon pisang kepok yang buahnya manis. Di samping pohon itu tumbuh tunas-tunas baru. Setiap awal bulan, Pak Rudi mencatat jumlah tunas di rumpun tersebut selama 5 bulan. Ia ingin mengambil 3 tunas untuk ditanam di kebun barunya, agar buahnya nanti sama manisnya dengan buah pohon induk. Perhatikan tabel hasil catatannya! Pada bulan keberapa paling cepat Pak Rudi dapat mengambil 3 tunas, dan mengapa tunas dipilih agar buahnya sama manis?",
           "opsi": [
@@ -4933,6 +4997,7 @@
           "no": 5,
           "video": "",
           "title": "Hidung Rani Menyaring Debu",
+          "materi": "Organ Tubuh Manusia",
           "tipe": "bs",
           "soal": "Rani membantu Kakek menyapu halaman yang berdebu. Debu beterbangan di mana-mana, tetapi Rani tidak batuk. Ia penasaran bagaimana hidungnya menjaga paru-parunya dari debu. Rani membuka buku IPA dan melihat gambar penampang hidung berikut. Udara masuk lewat lubang hidung, melewati rambut hidung, lalu sampai di rongga hidung. Tentukan Benar atau Salah!",
           "opsi": [
@@ -5009,6 +5074,7 @@
           "no": 6,
           "video": "",
           "title": "Masker saat Kabut Asap",
+          "materi": "Organ Tubuh Manusia",
           "tipe": "pg",
           "soal": "Kabut asap menyelimuti kota tempat tinggal Bima. Pagi ini Bima akan bersepeda ke sekolah. Bu Guru menunjukkan hasil percobaan dengan alat penghitung debu, yaitu jumlah partikel debu yang terhirup selama 10 menit tanpa masker, memakai masker kain, dan memakai masker medis, seperti pada diagram. Bima ingin paru-parunya paling terlindungi. Pilihan manakah yang paling tepat untuk Bima, dan apa alasannya?",
           "opsi": [
@@ -5079,6 +5145,7 @@
           "no": 7,
           "video": "",
           "title": "Perjalanan Sari Makanan di Usus Halus",
+          "materi": "Organ Tubuh Manusia",
           "tipe": "pgk",
           "soal": "Sari belajar tentang pencernaan makanan. Bu Guru menunjukkan gambar potongan usus halus setelah Sari makan nasi dan ikan. Dinding dalam usus halus penuh tonjolan kecil seperti jari yang disebut vili. Di dalam setiap vili ada pembuluh darah yang sangat halus. Panah pada gambar menunjukkan perjalanan makanan yang sudah menjadi sari makanan dan bagian yang tidak terserap. Sari ingin menyimpulkan apa yang terjadi di dalam usus halus. Pernyataan mana yang sesuai dengan gambar? Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.",
           "opsi": [
@@ -5178,6 +5245,7 @@
           "no": 8,
           "video": "",
           "title": "Gula dari Biskuit dan Teh Manis",
+          "materi": "Organ Tubuh Manusia",
           "tipe": "pg",
           "soal": "Nadia membeli sebungkus biskuit di koperasi sekolah. Pada kemasannya ada label informasi nilai gizi seperti pada gambar. Sepulang sekolah, Nadia memakan seluruh isi bungkus itu dan minum segelas teh manis yang mengandung 25 gram gula. Bu Guru pernah berpesan bahwa gula yang dikonsumsi sebaiknya tidak lebih dari 50 gram dalam sehari. Kesimpulan manakah yang paling tepat tentang gula yang Nadia konsumsi dari kedua jajanan itu?",
           "opsi": [
@@ -5258,6 +5326,7 @@
           "no": 9,
           "video": "",
           "title": "Denyut Nadi Bima Saat Olahraga",
+          "materi": "Organ Tubuh Manusia",
           "tipe": "bs",
           "soal": "Dalam pelajaran olahraga, Bu Ratna ingin Bima memahami kerja jantungnya. Bima mengukur denyut nadi di pergelangan tangan selama 1 menit pada tiga kegiatan. Saat duduk istirahat, nadi Bima 84 kali per menit. Setelah berjalan santai 5 menit, nadinya 102 kali per menit. Setelah berlari 5 menit, nadinya 148 kali per menit. Bu Ratna mencatat hasilnya dalam tabel. Tentukan Benar atau Salah!",
           "opsi": [
@@ -5336,6 +5405,7 @@
           "no": 10,
           "video": "",
           "title": "Telinga Raka Berdenging Setelah Kembang Api",
+          "materi": "Organ Tubuh Manusia",
           "tipe": "pgk",
           "soal": "Pada malam tahun baru, Raka, Dita, dan Putri menonton kembang api. Raka berdiri sangat dekat dengan tempat peluncuran tanpa penutup telinga. Dita juga berdiri dekat, tetapi memakai penutup telinga. Putri menonton dari tempat yang jauh. Keesokan harinya telinga Raka berdenging dan ia sulit mendengar, sedangkan Dita dan Putri mendengar seperti biasa. Ibu Raka menjelaskan kejadian itu dengan gambar telinga di bawah ini. Pernyataan mana yang benar? Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.",
           "opsi": [
@@ -5436,6 +5506,7 @@
           "no": 11,
           "video": "",
           "title": "Rantai Makanan di Kolam Sekolah",
+          "materi": "Rantai Makanan dan Ekosistem",
           "tipe": "pg",
           "soal": "Tari dan Kak Bayu mengamati kolam di taman sekolah. Di batu dasar kolam tumbuh lumut hijau. Mereka melihat ikan kecil sedang mengunyah lumut itu. Tidak lama kemudian, seekor ikan besar datang dan memangsa ikan kecil tersebut. Tari menggambar rantai makanan kolam itu untuk mading sekolah, tetapi satu kotaknya belum ia isi, seperti pada gambar. Kotak kosong itu paling tepat diisi dengan apa, dan apa arti tanda panah pada gambar?",
           "opsi": [
@@ -5502,6 +5573,7 @@
           "no": 12,
           "video": "",
           "title": "Ikan Pemangsa Dilepas ke Danau",
+          "materi": "Rantai Makanan dan Ekosistem",
           "tipe": "bs",
           "soal": "Danau di Desa Rawa Asri dipenuhi ikan kecil. Pada 1 Februari, Pak Heru melepas ikan pemangsa ke danau itu untuk mengendalikan ikan kecil. Ikan pemangsa hanya makan ikan kecil. Air danau dan makanan ikan kecil tetap tersedia banyak selama pengamatan. Setiap awal bulan, Pak Heru menghitung kedua jenis ikan dan mencatatnya dalam diagram garis. Perhatikan diagram itu! Tentukan Benar atau Salah!",
           "opsi": [
@@ -5575,6 +5647,7 @@
           "no": 13,
           "video": "",
           "title": "Bibit Cabai di Bawah Pohon Rindang",
+          "materi": "Rantai Makanan dan Ekosistem",
           "tipe": "pg",
           "soal": "Bu Ratna menanam dua pot bibit cabai dengan tanah dan pupuk yang sama, lalu menyiramnya dengan air sebanyak sama setiap pagi. Pot pertama diletakkan di bawah pohon mangga yang rindang, pot kedua di halaman terbuka. Tiga minggu kemudian, bibit di bawah pohon tumbuh memanjang, batangnya kurus, dan daunnya pucat, sedangkan bibit di halaman terbuka tumbuh segar. Gambar menunjukkan pot di bawah pohon. Komponen abiotik apa yang paling mungkin menyebabkan bibit di bawah pohon kurus dan pucat, dan bagian mana pada gambar yang menunjukkannya?",
           "opsi": [
@@ -5646,6 +5719,7 @@
           "no": 14,
           "video": "",
           "title": "Cicak Memutuskan Ekornya",
+          "materi": "Adaptasi dan Lingkungan",
           "tipe": "pgk",
           "soal": "Fajar melihat seekor cicak di lantai teras. Seekor kucing mendekat dan hendak menangkapnya. Cicak itu memutuskan ekornya lalu merayap ke celah dinding, sedangkan ekor yang putus masih bergerak-gerak di lantai. Gambar menunjukkan saat itu. Fajar penasaran mengapa ekor cicak itu bisa putus. Dua minggu kemudian, Fajar melihat cicak itu lagi dan ekornya mulai tumbuh. Pernyataan yang benar tentang peristiwa itu adalah .... Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.",
           "opsi": [
@@ -5744,6 +5818,7 @@
           "no": 15,
           "video": "",
           "title": "Hutan Desa yang Tetap Lestari",
+          "materi": "Adaptasi dan Lingkungan",
           "tipe": "pg",
           "soal": "Desa Sukamaju mengelola hutan desanya dengan tebang pilih: hanya pohon besar yang boleh ditebang, dan setiap pohon yang ditebang harus diganti dengan bibit baru. Pak Rahmat, ketua kelompok tani hutan, mencatat jumlah pohon yang ditebang dan ditanam kembali selama 5 tahun pada tabel. Tahun depan warga akan menebang 40 pohon besar. Mereka ingin jumlah pohon di hutan kembali sama seperti sebelum penebangan tahun ke-1, dan semua bibit dianggap tumbuh. Berapa bibit paling sedikit yang harus ditanam tahun depan?",
           "opsi": [
@@ -5815,6 +5890,7 @@
           "no": 16,
           "video": "",
           "title": "Air Cucian di Kolam Ikan",
+          "materi": "Adaptasi dan Lingkungan",
           "tipe": "bs",
           "soal": "Bu Sari mencuci pakaian di tepi kolam ikan milik warga, dan air cucian berdeterjen mengalir ke kolam mulai hari ke-1. Sebelumnya kolam berisi 20 ikan sehat dengan air jernih. Pak Ujang tetap memberi pakan sama banyak tiap hari dan menghitung ikan yang hidup setiap pagi. Hasilnya tampak pada diagram. Tentukan Benar atau Salah!",
           "opsi": [
@@ -5892,6 +5968,7 @@
           "no": 17,
           "video": "",
           "title": "Sifat Batu, Minyak Goreng, dan Udara",
+          "materi": "Wujud Zat dan Siklus Air",
           "tipe": "pgk",
           "soal": "Sari membantu Ibu merapikan dapur. Ia mengamati sebuah batu kali, minyak goreng, dan udara. Minyak goreng 200 mL semula ada di dalam gelas, lalu Sari menuangkannya ke mangkuk lebar. Sari juga mengamati botol kosong yang tertutup rapat; di dalamnya ada udara. Perhatikan gambar bentuk dan volume ketiga benda tersebut. Pernyataan yang sesuai dengan sifat benda-benda itu adalah .... Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.",
           "opsi": [
@@ -5992,6 +6069,7 @@
           "no": 18,
           "video": "",
           "title": "Jemuran Paling Cepat Kering",
+          "materi": "Wujud Zat dan Siklus Air",
           "tipe": "pg",
           "soal": "Bu Rina mencuci empat kaus yang sama, lalu memerasnya dengan cara yang sama. Kaus-kaus itu dijemur di tempat berbeda. Jemuran A di halaman saat matahari terik tanpa angin. Jemuran B di halaman saat mendung tetapi berangin. Jemuran C di halaman saat matahari terik dan berangin. Jemuran D di kamar tertutup tanpa matahari dan angin. Jemuran mana yang paling cepat kering, dan apa alasannya?",
           "opsi": [
@@ -6063,6 +6141,7 @@
           "no": 19,
           "video": "",
           "title": "Parasut Kertas Jatuh Lebih Lambat",
+          "materi": "Gaya dan Gerak",
           "tipe": "pg",
           "soal": "Salsa membuat tiga parasut dari kertas: parasut A selebar 10 cm, parasut B selebar 20 cm, dan parasut C selebar 30 cm. Pada tiap parasut ia mengikat satu klip kertas yang sama sebagai beban. Parasut dijatuhkan satu per satu dari balkon yang sama, lalu waktu jatuhnya dicatat: parasut A 1,2 detik, parasut B 2,0 detik, dan parasut C 3,1 detik. Salsa ingin menjelaskan mengapa waktu jatuhnya berbeda. Kesimpulan mana yang paling tepat?",
           "opsi": [
@@ -6144,6 +6223,7 @@
           "no": 20,
           "video": "",
           "title": "Menaikkan Drum Lewat Papan Miring",
+          "materi": "Gaya dan Gerak",
           "tipe": "pgk",
           "soal": "Pak Rahmat ingin menaikkan sebuah drum berisi pasir ke bak truk yang tingginya 1 m. Ia punya dua papan dengan permukaan sama kasar: papan P panjangnya 2 m dan papan Q panjangnya 4 m. Papan disandarkan ke bak truk satu per satu, lalu drum didorong naik lewat papan itu sampai ke atas. Pak Rahmat ingin tenaga yang dipakai sekecil mungkin. Pernyataan manakah yang benar tentang kedua papan itu? Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.",
           "opsi": [
@@ -6243,6 +6323,7 @@
           "no": 21,
           "video": "",
           "title": "Perubahan Energi pada Kipas Angin",
+          "materi": "Energi dan Listrik",
           "tipe": "pg",
           "soal": "Rani menyalakan kipas angin di kamarnya karena udara siang terasa panas. Setelah kabel dicolokkan ke stopkontak, baling-baling berputar dan angin menerpa wajahnya. Ibu menjelaskan bahwa dinamo di dalam kipas dapat terasa agak hangat setelah lama menyala, dan kipas juga berdengung pelan. Lampu kecil di kipas ikut menyala. Rani lalu membuat bagan alir perubahan energi kipas, tetapi satu kotak masih kosong. Energi apa yang dihasilkan dinamo untuk memutar baling-baling dan tepat mengisi kotak kosong pada bagan?",
           "opsi": [
@@ -6313,6 +6394,7 @@
           "no": 22,
           "video": "",
           "title": "Debit Air dan Daya Listrik PLTA",
+          "materi": "Energi dan Listrik",
           "tipe": "bs",
           "soal": "Pak Darmo bekerja di pembangkit listrik tenaga air (PLTA) yang memakai air waduk untuk memutar turbin. Pada musim kemarau, hujan jarang turun dan air waduk berkurang. Setiap awal bulan dari Juni sampai Oktober, ia mencatat debit air, yaitu banyaknya air yang mengalir ke turbin tiap detik, dan daya listrik yang dihasilkan. Catatannya ada pada tabel berikut. Tentukan Benar atau Salah!",
           "opsi": [
@@ -6389,6 +6471,7 @@
           "no": 23,
           "video": "",
           "title": "Memperbaiki Kabel Lampu Belajar",
+          "materi": "Energi dan Listrik",
           "tipe": "pg",
           "soal": "Fajar membantu Ayah memperbaiki kabel lampu belajar yang putus. Ia membuat rangkaian uji dari baterai, lampu, dan kabel, lalu memasang empat benda uji satu per satu pada bagian yang terbuka (lihat gambar). Lampu menyala saat paku besi dan klip kertas dipasang, tetapi padam saat penghapus karet dan sendok plastik dipasang. Ayah perlu satu benda untuk menyambung kabel yang putus dan satu benda untuk membungkus sambungannya agar aman disentuh. Pasangan benda manakah yang paling tepat?",
           "opsi": [
@@ -6459,6 +6542,7 @@
           "no": 24,
           "video": "",
           "title": "Dua Magnet yang Saling Menjauh",
+          "materi": "Magnet, Bunyi, dan Cahaya",
           "tipe": "pgk",
           "soal": "Dina meletakkan dua magnet batang di atas meja licin. Magnet pertama berada di sebelah kiri dan magnet kedua di sebelah kanan, berjarak 4 cm. Kutub setiap magnet ditandai pada gambar. Saat dilepas, kedua magnet bergerak saling menjauh. Dina ingin kedua magnet itu saling tarik-menarik sampai menempel tanpa mengganti magnetnya. Tindakan manakah yang akan berhasil? Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.",
           "opsi": [
@@ -6557,6 +6641,7 @@
           "no": 25,
           "video": "",
           "title": "Gema di Rumah Baru",
+          "materi": "Magnet, Bunyi, dan Cahaya",
           "tipe": "bs",
           "soal": "Rina dan Raka berkunjung ke rumah baru yang belum dihuni. Di ruang tamu yang masih kosong, Rina bertepuk tangan dan mendengar gema yang jelas. Lalu ia bertepuk tangan di kamar yang berisi kasur, sofa, dan tirai tebal. Di kamar itu gema hampir hilang. Dinding kedua ruangan sama-sama keras dan luasnya hampir sama. Gambar menunjukkan jalannya bunyi tepukan di kedua ruangan. Raka ingin tahu mengapa hasilnya berbeda. Tentukan Benar atau Salah!",
           "opsi": [
@@ -6636,6 +6721,7 @@
           "no": 26,
           "video": "",
           "title": "Kaca Spion Mobil Ayah",
+          "materi": "Magnet, Bunyi, dan Cahaya",
           "tipe": "pg",
           "soal": "Ayah Bayu sedang memilih kaca spion untuk mobilnya. Ada dua pilihan, yaitu kaca datar dan kaca cembung. Bayu menggambar sinar dari tiga mobil di belakang, yaitu mobil A, B, dan C, yang mengenai kaca lalu dipantulkan ke mata sopir. Garis putus-putus bertanda silang berarti sinar tidak sampai ke mata sopir. Gambar juga menunjukkan apa yang tampak oleh sopir pada masing-masing kaca. Ayah ingin kaca yang membuat sopir dapat melihat sebanyak mungkin kendaraan di belakang tanpa banyak menoleh. Kaca mana yang sebaiknya dipasang, dan apa alasannya?",
           "opsi": [
@@ -6718,6 +6804,7 @@
           "no": 27,
           "video": "",
           "title": "Matahari Terbit di Timur",
+          "materi": "Bumi dan Tata Surya",
           "tipe": "pg",
           "soal": "Rani menginap di rumah kakeknya di tepi pantai. Pukul 05.00 langit masih gelap, dan Rani menunggu Matahari muncul. Gambar menunjukkan Bumi dilihat dari atas Kutub Utara. Titik P adalah tempat Rani berdiri, dan panah menunjukkan arah putaran Bumi pada porosnya. Sisi Bumi yang terang menghadap Matahari. Apa yang akan Rani lihat beberapa menit lagi, dan apa penyebabnya?",
           "opsi": [
@@ -6792,6 +6879,7 @@
           "no": 28,
           "video": "",
           "title": "Posisi Bulan saat Gerhana Matahari",
+          "materi": "Bumi dan Tata Surya",
           "tipe": "bs",
           "soal": "Kelompok astronomi di sekolah Nia mencatat hasil pengamatan langit bulan ini. Pada tanggal 2 pukul 10.00 terjadi gerhana Matahari, dan Matahari tampak tertutup Bulan. Pada malam tanggal 17, Bulan tampak bulat penuh atau purnama. Diagram menunjukkan posisi Matahari, Bulan, dan Bumi saat gerhana tanggal 2 (tidak sesuai skala). Nia menarik kesimpulan dari catatan dan diagram itu. Tentukan Benar atau Salah!",
           "opsi": [
@@ -6866,6 +6954,7 @@
           "no": 29,
           "video": "",
           "title": "Planet Dekat dan Jauh dari Matahari",
+          "materi": "Bumi dan Tata Surya",
           "tipe": "pgk",
           "soal": "Nadia sedang mengerjakan tugas tentang tata surya. Ia menyalin data enam planet dari buku IPA ke dalam tabel, yaitu jarak dari Matahari, lama satu kali revolusi, dan suhu rata-rata permukaan. Nadia ingin menarik kesimpulan dari data itu. Ia membandingkan planet yang dekat dan planet yang jauh dari Matahari. Perhatikan tabel pada gambar! Pernyataan manakah yang sesuai dengan tabel Nadia? Pilihlah jawaban yang benar! Jawaban benar lebih dari satu.",
           "opsi": [
@@ -6965,6 +7054,7 @@
           "no": 30,
           "video": "",
           "title": "Sumur Rani Kering",
+          "materi": "Adaptasi dan Lingkungan",
           "tipe": "pg",
           "soal": "Rani tinggal di desa. Dulu halaman rumahnya tanah, dan sumurnya berair sepanjang tahun. Setahun lalu seluruh halaman dibeton. Kini, setelah hujan deras, air menggenang di halaman sekitar 5 jam. Setelah 2 bulan tidak hujan, sumur Rani kering, padahal sumur tetangga yang halamannya masih tanah tetap berair. Perhatikan gambar! Mengapa sumur Rani kering?",
           "opsi": [
