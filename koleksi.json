@@ -1,1 +1,82 @@
-{"encrypted":true,"algorithm":"AES-GCM-256","kdfIterations":100000,"salt":"qpbviGzsQqujoJ6P8rwFKQ==","iv":"bPgp9AousEDLxK1G","ciphertext":"+BwoXO8pXypbggBM90oCnYxbIl4AV/uRwRdd3AqwZBkI72EzEL639KrFzJc0tPQHiVBlSZhWsx0NID04rp//gHUH8phV1aepXPGMmz7euQlsscebclx6ZtN/KHLqHJGgYz2L7/vLnTdm4E5YF6WT7gOFE4DovGil5nfWXwj91a19BY1JrLW176fcESKCXrkBuqKjoa2uuu+I4ck3xMbKOqS2sR5CnxmLoJedmkqdxxs1LeaX+y09vdcUniQ6KkhQFQocPm6WrG71hS7g+IqdYP7coPju4DO9JgHH8I8RK5BOnJLXBasd0nw81ps31M+o4UsrtaUHp9C/HXvJbIuN6TwqGanvXpszpewcs5Npx1O2ZrAd16qqt1xdl05xqc2rSf9oqQglvjKmpPbuoCzpEbmidzQw+r113LYQNWVD4Ejn8jBwxk7JM7cX+YD1BMA8udFJ06XYE9g0hL+7u6O2dsQFrdwHbLF1NvnraOngODUyb1jBXnHZOvxDARRALrC5BdlrsL6wxI3+lya0YTU8YA8Z39tob9utj9Yh+B4KQHK2s1Gz5Duyh2xhnh6IGFM2vma48SG3fqNFIlpI4FkydjV9qsxQ/WzzcejqhlxDyYccDIPjo0Ok0hrUAL9ZdNP29hKaMCdWCAICDPqyO7+8rWNJN3x0Wt9L89Y1ENSzLfGjjXUXtiTKVDb0OHml7Yc927C9XNzFVO+lHIYo3rc3VFZGNb5cc+H8IYUTWZ+H/QCExdRUuX4Tq3gC7rb6tAcbdTSgtHhGfsDa4Nlt3UXKshUPcA7BnTm2E1L7fLCt/Aya0jWKOyf6D2HBt6dWWDDW3NBu+hIZyn0zPnjPkz5dHDlZLuZxqfT+NOPoIgfal3sPYt0l0Ks+8kdXxOeyp9F0wcVM1OOoJ5Mgd90R+5WyxdrM6U9QFYoKblIg+ETdiu/SmmE2q/3XuQCpUWHytOQVyBOKB8OkJ6/wKLOv8oRh8C3GW90ppBgZfnirPtXU9xS9HEIqNwI9EnAi2nMe/iAjNYdXIQl+ODUW4nrJLosFBlj2ML8IdMvm4zoEirCTRwCGw5LpQjAp1hocjIxrFPyf8vsyToR/zUlNFTMhiNJIX3FaiSvf4bmJCJ9dV7FNxJjkazHPfEG0+dpcxTsNxB0cq67z+vQLtpZ2dsNRI5Tpi/FpYTc6jxkB2PMmcIRIxcwJ58+H/vgotRa970p2YeBK+aRJlq8SIK1OIpL8P8kLghtLz3CIOe7Nt3VnWpwKogQgnvpQTvnf1t+KtN2ETnCZbu9TGFv9hIYUm2gNHlnoL5tz2og++w0WU12mxkhjCCvhtIOTN/w3R2XI/6T5SvbxHqbKLZPcyC+XTSr0qUyjecp3zJ/JekObAzWsGB4YjmHyFv0+gaFyD/GRKXrqPvdHyChrYo8OYW0ISjyCj3CXG6yl0GJbGivS2WPJZGNVI1cy4EZL95ZQ5v2Ruww/RK8dUjwltbQbxzydlz5bv5kYRizXPsUQ70C286FFXJxszJ/PBiRUs/vSFmZCGPndMAAp7metHgo6rqXD371QwZqF7aiNtxT0ASuKVKrXO14K2ti5z+GIATpxtTg7VsRuMII6Gz3aTPqV70DytF3/ll114PVpSK3TcVn3++l3/aT9h8/EZHKQSOnu/HXkLPY="}
+{
+  "updated": "2026-10-29",
+  "catatan": "Daftar tautan luar untuk Lab Maya, Ruang Baca, dan Mini Game. Ubah berkas ini lalu push — app membacanya langsung dari GitHub, tidak perlu rilis baru.",
+  "lab": [
+    {
+      "id": "lab-juragan-junior",
+      "judul": "Juragan Junior",
+      "desc": "Berdagang keliling Nusantara. Belajar produksi, distribusi, dan konsumsi sambil mengatur untung rugi.",
+      "ikon": "🛶",
+      "url": "https://juragan-junior.rizkimuttaqien.workers.dev/",
+      "status": "siap"
+    },
+    {
+      "id": "lab-pernapasan-ar",
+      "judul": "Detektif Udara",
+      "desc": "Jelajahi organ pernapasan lewat AR. Arahkan kamera ke penanda, organnya muncul.",
+      "ikon": "🫁",
+      "url": "https://asblr.com/ifhwawu",
+      "status": "siap"
+    },
+    {
+      "id": "lab-lemari-buku",
+      "judul": "Lemari Buku Siska",
+      "desc": "Rapikan buku-buku yang berserakan ke dalam lemari bersama Bimo. Setiap kotak muat tepat 8 buku. Tebak, buktikan, lalu temukan sendiri pola kelipatan 8.",
+      "ikon": "📚",
+      "url": "https://blue-violet-460a.iicbnm266.workers.dev/",
+      "status": "siap"
+    },
+    {
+      "id": "lab-tepung-toples",
+      "judul": "Tepung dan Toples Ibu",
+      "desc": "Bantu Ibu menimbang dan membagi tepung bersama Bimo. Tuang karung ke timbangan, isi toples 200 g, lalu temukan sendiri hubungan kg dan gram.",
+      "ikon": "🥣",
+      "url": "https://labmaya6.iicbnm266.workers.dev/",
+      "status": "siap"
+    },
+    {
+      "id": "lab-sudut-berpelurus",
+      "judul": "Sudut Berpelurus",
+      "desc": "Geser bendera C bersama Dito dan temukan sendiri bahwa dua sudut yang berpelurus selalu berjumlah 180°. Ikuti tutorialnya, lalu buktikan lewat 5 tantangan seru.",
+      "ikon": "📐",
+      "url": "https://steep-mouse-b6eb.iicbnm266.workers.dev/",
+      "status": "siap"
+    },
+    {
+      "id": "lab-jarak-denah",
+      "judul": "Petualangan Jarak di Kota Blok",
+      "desc": "Pandu Anita menyusuri kota blok bersama Budi, pilih sendiri rutenya, lalu jumlahkan panjang tiap ruas jalan untuk menemukan jarak yang ditempuh. Ikuti ceritanya, selesaikan 4 perjalanan seru, lalu hitung total petualangannya.",
+      "ikon": "🗺️",
+      "url": "https://labmaya4.iicbnm266.workers.dev/",
+      "status": "siap"
+    },
+    {
+      "id": "lab-pencernaan",
+      "judul": "Petualangan Pencernaan",
+      "desc": "Ikuti perjalanan makanan dari mulut sampai usus.",
+      "ikon": "🍎",
+      "url": "",
+      "status": "soon"
+    }
+  ],
+  "baca": [
+    {
+      "id": "baca-cerita-nusantara",
+      "judul": "Cerita Rakyat Nusantara",
+      "desc": "Kumpulan cerita rakyat bergambar untuk latihan membaca pemahaman.",
+      "ikon": "📖",
+      "url": "https://GANTI-DENGAN-TAUTANMU",
+      "status": "siap"
+    }
+  ],
+  "game": [
+    {
+      "id": "game-perkalian",
+      "judul": "Kebut Perkalian",
+      "desc": "Lima level perkalian. Semakin cepat, semakin banyak bintangnya.",
+      "ikon": "✖️",
+      "url": "https://GANTI-DENGAN-TAUTANMU",
+      "status": "siap"
+    }
+  ]
+}
