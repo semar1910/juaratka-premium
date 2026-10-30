@@ -93,12 +93,13 @@
       "cover": "https://cdn.jsdelivr.net/gh/semar1910/juaratka-premium@main/cover/lab-sudut.webp"
     },
     {
-      "id": "lab-pencernaan",
-      "judul": "Petualangan Pencernaan",
-      "desc": "Ikuti perjalanan makanan dari mulut sampai usus.",
-      "ikon": "🍎",
-      "url": "",
-      "status": "soon"
+      "id": "lab-pecahan",
+      "judul": "Mengenal Pecahan",
+      "desc": "Potong piza dan kue bersama Beni menjadi bagian yang sama besar. Kenali pembilang dan penyebut, baca dan tulis pecahan dari gambar, lalu bedakan bagian yang sama besar dan yang tidak.",
+      "ikon": "🍕",
+      "url": "https://labpecahan.iicbnm266.workers.dev/",
+      "status": "siap",
+      "cover": "https://cdn.jsdelivr.net/gh/semar1910/juaratka-premium@main/cover/lab-pecahan.webp"
     }
   ],
   "baca": [
@@ -119,24 +120,7 @@
       "url": "https://ruangbaca-bakwan.iigery33.workers.dev/",
       "status": "siap",
       "cover": "https://cdn.jsdelivr.net/gh/semar1910/juaratka-premium@main/img/tka26-ind-04-ilustrasi.png"
-    },
-    {
-      "id": "baca-cerita-nusantara",
-      "judul": "Cerita Rakyat Nusantara",
-      "desc": "Kumpulan cerita rakyat bergambar untuk latihan membaca pemahaman.",
-      "ikon": "📖",
-      "url": "https://GANTI-DENGAN-TAUTANMU",
-      "status": "siap"
     }
   ],
-  "game": [
-    {
-      "id": "game-perkalian",
-      "judul": "Kebut Perkalian",
-      "desc": "Lima level perkalian. Semakin cepat, semakin banyak bintangnya.",
-      "ikon": "✖️",
-      "url": "https://GANTI-DENGAN-TAUTANMU",
-      "status": "siap"
-    }
-  ]
+  "game": []
 }
