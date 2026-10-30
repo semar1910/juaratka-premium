@@ -8,7 +8,8 @@
       "desc": "Berdagang keliling Nusantara. Belajar produksi, distribusi, dan konsumsi sambil mengatur untung rugi.",
       "ikon": "🛶",
       "url": "https://juragan-junior.rizkimuttaqien.workers.dev/",
-      "status": "siap"
+      "status": "siap",
+      "cover": "https://cdn.jsdelivr.net/gh/semar1910/juaratka-premium@main/cover/lab-juragan-junior.webp"
     },
     {
       "id": "lab-pernapasan-ar",
@@ -24,7 +25,8 @@
       "desc": "Rapikan buku-buku yang berserakan ke dalam lemari bersama Bimo. Setiap kotak muat tepat 8 buku. Tebak, buktikan, lalu temukan sendiri pola kelipatan 8.",
       "ikon": "📚",
       "url": "https://blue-violet-460a.iicbnm266.workers.dev/",
-      "status": "siap"
+      "status": "siap",
+      "cover": "https://cdn.jsdelivr.net/gh/semar1910/juaratka-premium@main/cover/lab-lemari-buku.webp"
     },
     {
       "id": "lab-tepung-toples",
@@ -32,7 +34,8 @@
       "desc": "Bantu Ibu menimbang dan membagi tepung bersama Bimo. Tuang karung ke timbangan, isi toples 200 g, lalu temukan sendiri hubungan kg dan gram.",
       "ikon": "🥣",
       "url": "https://labmaya6.iicbnm266.workers.dev/",
-      "status": "siap"
+      "status": "siap",
+      "cover": "https://cdn.jsdelivr.net/gh/semar1910/juaratka-premium@main/cover/lab-tepung-toples.webp"
     },
     {
       "id": "lab-sudut-berpelurus",
@@ -40,7 +43,8 @@
       "desc": "Geser bendera C bersama Dito dan temukan sendiri bahwa dua sudut yang berpelurus selalu berjumlah 180°. Ikuti tutorialnya, lalu buktikan lewat 5 tantangan seru.",
       "ikon": "📐",
       "url": "https://steep-mouse-b6eb.iicbnm266.workers.dev/",
-      "status": "siap"
+      "status": "siap",
+      "cover": "https://cdn.jsdelivr.net/gh/semar1910/juaratka-premium@main/cover/lab-sudut-berpelurus.webp"
     },
     {
       "id": "lab-jarak-denah",
@@ -48,7 +52,8 @@
       "desc": "Pandu Anita menyusuri kota blok bersama Budi, pilih sendiri rutenya, lalu jumlahkan panjang tiap ruas jalan untuk menemukan jarak yang ditempuh. Ikuti ceritanya, selesaikan 4 perjalanan seru, lalu hitung total petualangannya.",
       "ikon": "🗺️",
       "url": "https://labmaya4.iicbnm266.workers.dev/",
-      "status": "siap"
+      "status": "siap",
+      "cover": "https://cdn.jsdelivr.net/gh/semar1910/juaratka-premium@main/cover/lab-jarak-denah.webp"
     },
     {
       "id": "lab-tumpukan-kubus",
@@ -56,7 +61,8 @@
       "desc": "Menentukan banyak kubus satuan penyusun suatu tumpukan, termasuk kubus yang tersembunyi di balik kubus lain. Putar model 3D, hitung per kolom dan per lapisan, lalu bangun tumpukan sendiri sebagai dasar konsep volume.",
       "ikon": "🧊",
       "url": "https://labmaya1.iicbnm266.workers.dev/",
-      "status": "siap"
+      "status": "siap",
+      "cover": "https://cdn.jsdelivr.net/gh/semar1910/juaratka-premium@main/cover/lab-tumpukan-kubus.webp"
     },
     {
       "id": "lab-menyusun-bangun-datar",
@@ -72,7 +78,8 @@
       "desc": "Selesaikan soal cerita dua langkah bersama Bimo: kurangi dulu untuk mencari sisa, lalu bagi sisanya sama banyak untuk menemukan banyak kelompok. Melatih memilih informasi penting, memakai puluhan dan satuan, dan memeriksa jawaban dengan operasi hitung bilangan sampai 3 angka.",
       "ikon": "📦",
       "url": "https://lab-kurir-paket.iicbnm266.workers.dev/",
-      "status": "siap"
+      "status": "siap",
+      "cover": "https://cdn.jsdelivr.net/gh/semar1910/juaratka-premium@main/cover/lab-kurir-paket.webp"
     },
     {
       "id": "lab-sudut",
@@ -80,7 +87,8 @@
       "desc": "Melatih anak mengenali jenis sudut (lancip, siku-siku, tumpul, lurus) dan mengukur besar sudut dengan busur derajat. Anak memutar garis sudut, memasang busur dan membaca skalanya, lalu menebak jenis sudut pada benda sehari-hari.",
       "ikon": "📐",
       "url": "https://lab-sudut.iicbnm266.workers.dev/",
-      "status": "siap"
+      "status": "siap",
+      "cover": "https://cdn.jsdelivr.net/gh/semar1910/juaratka-premium@main/cover/lab-sudut.webp"
     },
     {
       "id": "lab-pencernaan",
