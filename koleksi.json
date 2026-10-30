@@ -101,6 +101,15 @@
   ],
   "baca": [
     {
+      "id": "baca-hutan-mangrove",
+      "judul": "Hutan Mangrove Kulon Progo",
+      "desc": "Buku bacaan 3D bersama Dimas: tebak isi dari sampul, baca per halaman, temukan makna “permata tersembunyi” dan “paru-paru kecil”, lalu kumpulkan kata baru.",
+      "ikon": "🌿",
+      "url": "https://baca-hutan-mangrove.iigery33.workers.dev/mangrove/",
+      "status": "siap",
+      "cover": "https://cdn.jsdelivr.net/gh/semar1910/juaratka-premium@main/img/tka26-ind-01-ilustrasi.png"
+    },
+    {
       "id": "baca-cerita-nusantara",
       "judul": "Cerita Rakyat Nusantara",
       "desc": "Kumpulan cerita rakyat bergambar untuk latihan membaca pemahaman.",
