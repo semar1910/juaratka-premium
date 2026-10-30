@@ -17,7 +17,8 @@
       "desc": "Jelajahi organ pernapasan lewat AR. Arahkan kamera ke penanda, organnya muncul.",
       "ikon": "🫁",
       "url": "https://asblr.com/ifhwawu",
-      "status": "siap"
+      "status": "siap",
+      "cover": "https://cdn.jsdelivr.net/gh/semar1910/juaratka-premium@main/cover/lab-detektif-udara.webp"
     },
     {
       "id": "lab-lemari-buku",
@@ -70,7 +71,8 @@
       "desc": "Susun dan uraikan segi banyak (segi delapan, segi enam, segi lima, segitiga besar) dari persegi, persegi panjang, segitiga siku-siku, dan trapesium. Selidiki apakah suatu kumpulan kepingan mungkin atau tidak mungkin menutup sebuah bangun tanpa celah dan tanpa bertumpuk, dengan bernalar dari bentuk, sisi, dan luasnya.",
       "ikon": "📐",
       "url": "https://lab-tumpukan-kubus.iicbnm266.workers.dev/",
-      "status": "siap"
+      "status": "siap",
+      "cover": "https://cdn.jsdelivr.net/gh/semar1910/juaratka-premium@main/cover/lab-bangun-datar.webp"
     },
     {
       "id": "lab-kurir-paket",
@@ -108,6 +110,15 @@
       "url": "https://baca-hutan-mangrove.iigery33.workers.dev/mangrove/",
       "status": "siap",
       "cover": "https://cdn.jsdelivr.net/gh/semar1910/juaratka-premium@main/img/tka26-ind-01-ilustrasi.png"
+    },
+    {
+      "id": "baca-bakwan",
+      "judul": "Bakwan, Makanan yang Unik",
+      "desc": "Buku bacaan bersama Dimas: baca per halaman dan temukan hal-hal unik tentang bakwan.",
+      "ikon": "🥟",
+      "url": "https://ruangbaca-bakwan.iigery33.workers.dev/",
+      "status": "siap",
+      "cover": "https://cdn.jsdelivr.net/gh/semar1910/juaratka-premium@main/img/tka26-ind-04-ilustrasi.png"
     },
     {
       "id": "baca-cerita-nusantara",
