@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29",
+  "updated": "2026-10-30",
   "catatan": "Daftar tautan luar untuk Lab Maya, Ruang Baca, dan Mini Game. Ubah berkas ini lalu push — app membacanya langsung dari GitHub, tidak perlu rilis baru.",
   "lab": [
     {
@@ -48,6 +48,38 @@
       "desc": "Pandu Anita menyusuri kota blok bersama Budi, pilih sendiri rutenya, lalu jumlahkan panjang tiap ruas jalan untuk menemukan jarak yang ditempuh. Ikuti ceritanya, selesaikan 4 perjalanan seru, lalu hitung total petualangannya.",
       "ikon": "🗺️",
       "url": "https://labmaya4.iicbnm266.workers.dev/",
+      "status": "siap"
+    },
+    {
+      "id": "lab-tumpukan-kubus",
+      "judul": "Menghitung Banyak Kubus Satuan",
+      "desc": "Menentukan banyak kubus satuan penyusun suatu tumpukan, termasuk kubus yang tersembunyi di balik kubus lain. Putar model 3D, hitung per kolom dan per lapisan, lalu bangun tumpukan sendiri sebagai dasar konsep volume.",
+      "ikon": "🧊",
+      "url": "https://steep-cake-8e87.iicbnm266.workers.dev/",
+      "status": "siap"
+    },
+    {
+      "id": "lab-menyusun-bangun-datar",
+      "judul": "Menyusun Bangun Datar Menjadi Segi Banyak",
+      "desc": "Susun dan uraikan segi banyak (segi delapan, segi enam, segi lima, segitiga besar) dari persegi, persegi panjang, segitiga siku-siku, dan trapesium. Selidiki apakah suatu kumpulan kepingan mungkin atau tidak mungkin menutup sebuah bangun tanpa celah dan tanpa bertumpuk, dengan bernalar dari bentuk, sisi, dan luasnya.",
+      "ikon": "📐",
+      "url": "https://lab-tumpukan-kubus.iicbnm266.workers.dev/",
+      "status": "siap"
+    },
+    {
+      "id": "lab-kurir-paket",
+      "judul": "Pengurangan dan Pembagian dalam Soal Cerita",
+      "desc": "Selesaikan soal cerita dua langkah bersama Bimo: kurangi dulu untuk mencari sisa, lalu bagi sisanya sama banyak untuk menemukan banyak kelompok. Melatih memilih informasi penting, memakai puluhan dan satuan, dan memeriksa jawaban dengan operasi hitung bilangan sampai 3 angka.",
+      "ikon": "📦",
+      "url": "https://lab-kurir-paket.iicbnm266.workers.dev/",
+      "status": "siap"
+    },
+    {
+      "id": "lab-sudut",
+      "judul": "Sudut: jenis sudut dan pengukuran dengan busur derajat",
+      "desc": "Melatih anak mengenali jenis sudut (lancip, siku-siku, tumpul, lurus) dan mengukur besar sudut dengan busur derajat. Anak memutar garis sudut, memasang busur dan membaca skalanya, lalu menebak jenis sudut pada benda sehari-hari.",
+      "ikon": "📐",
+      "url": "https://lab-sudut.iicbnm266.workers.dev/",
       "status": "siap"
     },
     {
