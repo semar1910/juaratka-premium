@@ -100,6 +100,15 @@
       "url": "https://labpecahan.iicbnm266.workers.dev/",
       "status": "siap",
       "cover": "https://cdn.jsdelivr.net/gh/semar1910/juaratka-premium@main/cover/lab-pecahan.webp"
+    },
+    {
+      "id": "lab-kotak-beras",
+      "judul": "Kotak Beras: Pecahan dan Volume",
+      "desc": "Bantu Ibu mengisi kotak beras sampai pas bersama Beni. Tuang beras ke kotak, bandingkan bagiannya dengan pecahan, lalu temukan sendiri hubungan pecahan dan volume.",
+      "ikon": "🍚",
+      "url": "https://polished-bird-e16e.iicbnm266.workers.dev/",
+      "status": "siap",
+      "cover": "https://cdn.jsdelivr.net/gh/semar1910/juaratka-premium@main/cover/lab-kotak-beras.webp"
     }
   ],
   "baca": [
