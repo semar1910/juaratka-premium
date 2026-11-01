@@ -1,6 +1,18 @@
 {
   "versi": "1.7.18",
   "dibuat": "2026-10-21",
+  "pengumuman": {
+    "tryout": {
+      "id": "2026-11-01",
+      "judul": "Kabar Try-Out",
+      "tersedia": [
+        "Paket 1 lengkap dengan <b>pembahasan video dan komik bersuara</b>"
+      ],
+      "segera": [
+        "Suara pembahasan <b>Paket 2</b>, lalu Paket 3 dan seterusnya, ditambah bertahap"
+      ]
+    }
+  },
   "materi": {
     "indonesia": [
       {
