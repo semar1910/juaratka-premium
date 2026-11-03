@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30",
+  "updated": "2026-11-03",
   "catatan": "Daftar tautan luar untuk Lab Maya, Ruang Baca, dan Mini Game. Ubah berkas ini lalu push — app membacanya langsung dari GitHub, tidak perlu rilis baru.",
   "lab": [
     {
@@ -131,5 +131,15 @@
       "cover": "https://cdn.jsdelivr.net/gh/semar1910/juaratka-premium@main/img/tka26-ind-04-ilustrasi.png"
     }
   ],
-  "game": []
+  "game": [
+    {
+      "id": "game-lipat-kpk-fpb",
+      "judul": "Lipat! KPK dan FPB",
+      "desc": "Game papercraft bersama Raka. Geser untuk bergerak, ambil bintang yang berisi jawaban KPK atau FPB yang benar, dan hindari gunting!",
+      "ikon": "✂️",
+      "url": "https://papercraf-kpkfpb.iicbnm266.workers.dev/",
+      "status": "siap",
+      "cover": "https://cdn.jsdelivr.net/gh/semar1910/juaratka-premium@main/cover/game-lipat-kpk-fpb.webp"
+    }
+  ]
 }
