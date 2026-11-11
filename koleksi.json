@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30",
+  "updated": "2026-11-03",
   "catatan": "Daftar tautan luar untuk Lab Maya, Ruang Baca, dan Mini Game. Ubah berkas ini lalu push — app membacanya langsung dari GitHub, tidak perlu rilis baru.",
   "lab": [
     {
@@ -129,7 +129,89 @@
       "url": "https://ruangbaca-bakwan.iigery33.workers.dev/",
       "status": "siap",
       "cover": "https://cdn.jsdelivr.net/gh/semar1910/juaratka-premium@main/img/tka26-ind-04-ilustrasi.png"
+    },
+    {
+      "id": "baca-si-biru",
+      "judul": "Si Biru Kesayangan",
+      "desc": "Buku bacaan 3D bersama Dimas: baca percakapan Salma, Alvin, dan Siva per halaman, temukan makna “tutup mata”, lalu kumpulkan kata baru dan cari nilai moral dari sikap tokoh.",
+      "ikon": "♻️",
+      "url": "https://sibiru.iigery33.workers.dev/",
+      "status": "siap",
+      "cover": "https://cdn.jsdelivr.net/gh/semar1910/juaratka-premium@main/img/tka26-ind-06-ilustrasi.png"
+    },
+    {
+      "id": "baca-meteor",
+      "judul": "Melihat Hujan Meteor",
+      "desc": "Buku bacaan 3D bersama Dimas: tebak isi dari sampul, baca buku harian per halaman, temukan alasan di kalimat sesudah pernyataan, lalu kumpulkan kata baru dan kartu bukti.",
+      "ikon": "🌠",
+      "url": "https://mateor.iigery33.workers.dev/",
+      "status": "siap",
+      "cover": "https://cdn.jsdelivr.net/gh/semar1910/juaratka-premium@main/img/tka26-ind-09-ilustrasi.png"
+    },
+    {
+      "id": "baca-giga-si-segitiga",
+      "judul": "Giga si Segitiga",
+      "desc": "Buku bacaan 3D bersama Dimas: tebak isi dari sampul, baca per halaman, cocokkan tokoh dengan kalimat yang menyebutnya, lalu kumpulkan kata baru dan kartu kata.",
+      "ikon": "🔺",
+      "url": "https://gigasisegitiga.iigery33.workers.dev/",
+      "status": "siap",
+      "cover": "https://cdn.jsdelivr.net/gh/semar1910/juaratka-premium@main/img/tka26-ind-11-ilustrasi.png"
+    },
+    {
+      "id": "baca-cap-go-meh",
+      "judul": "Cap Go Meh di Pulau Kemaro",
+      "desc": "Buku bacaan 3D bersama Dimas: tebak isi dari sampul, baca per halaman, temukan arti penanda waktu “waktu itu” dan “kali ini”, lalu kumpulkan kata baru dan kartu kata.",
+      "ikon": "🏮",
+      "url": "https://capgomeh.iigery33.workers.dev/",
+      "status": "siap",
+      "cover": "https://cdn.jsdelivr.net/gh/semar1910/juaratka-premium@main/img/tka26-ind-13-ilustrasi.png"
+    },
+    {
+      "id": "baca-kota-berkelanjutan",
+      "judul": "Kota Berkelanjutan",
+      "desc": "Buku bacaan 3D bersama Dimas: tebak isi dari sampul, baca per halaman, temukan arti kata “terjangkau” dan “berkelanjutan”, lalu kumpulkan kata baru dan kartu bukti.",
+      "ikon": "🏙️",
+      "url": "https://kota-berkelanjutan.iigery33.workers.dev/",
+      "status": "siap",
+      "cover": "https://cdn.jsdelivr.net/gh/semar1910/juaratka-premium@main/img/tka26-ind-16-ilustrasi.png"
+    },
+    {
+      "id": "baca-yunus-kamal",
+      "judul": "Yunus dan Kamal",
+      "desc": "Buku bacaan 3D bersama Dimas: tebak isi dari sampul, baca per halaman, temukan arti ungkapan “seluas lautan” dan “melawan rasa malasnya”, lalu kumpulkan kata baru dan kartu kata.",
+      "ikon": "🎣",
+      "url": "https://yunusdanakmal.iigery33.workers.dev/",
+      "status": "siap",
+      "cover": "https://cdn.jsdelivr.net/gh/semar1910/juaratka-premium@main/img/tka26-ind-19-ilustrasi.png"
+    },
+    {
+      "id": "baca-mama-aku-bukan-dia",
+      "judul": "Mama, Aku Bukan Dia",
+      "desc": "Buku bacaan 3D bersama Dimas: tebak isi dari sampul, baca per halaman, temukan arti ungkapan “semalam suntuk” dan “apa adanya”, lalu kumpulkan kata baru dan kartu kata.",
+      "ikon": "🎨",
+      "url": "https://mama-aku-bukan-nadia.iigery33.workers.dev/",
+      "status": "siap",
+      "cover": "https://cdn.jsdelivr.net/gh/semar1910/juaratka-premium@main/img/tka26-ind-20-ilustrasi.png"
+    },
+    {
+      "id": "baca-ruwatan-rara",
+      "judul": "Permintaan Rara Sebelum Ruwatan",
+      "desc": "Buku bacaan 3D bersama Dimas: tebak isi dari sampul, baca per halaman, temukan arti “merengek” dan “larung”, lalu kumpulkan kata baru dan cari pelajaran dari perubahan sikap Rara.",
+      "ikon": "🌊",
+      "url": "https://ruwatan.iigery33.workers.dev/",
+      "status": "siap",
+      "cover": "https://cdn.jsdelivr.net/gh/semar1910/juaratka-premium@main/img/tka26-ind-21-ilustrasi.png"
     }
   ],
-  "game": []
+  "game": [
+    {
+      "id": "game-lipat-kpk-fpb",
+      "judul": "Lipat! KPK dan FPB",
+      "desc": "Game papercraft bersama Raka. Geser untuk bergerak, ambil bintang yang berisi jawaban KPK atau FPB yang benar, dan hindari gunting!",
+      "ikon": "✂️",
+      "url": "https://papercraf-kpkfpb.iicbnm266.workers.dev/",
+      "status": "siap",
+      "cover": "https://cdn.jsdelivr.net/gh/semar1910/juaratka-premium@main/cover/game-lipat-kpk-fpb.webp"
+    }
+  ]
 }
