@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-03",
-  "catatan": "Daftar tautan luar untuk Lab Maya, Ruang Baca, dan Mini Game. Ubah berkas ini lalu push — app membacanya langsung dari GitHub, tidak perlu rilis baru.",
+  "updated": "2026-11-16",
+  "catatan": "Daftar tautan luar untuk Lab Maya, Ruang Baca, dan Mini Game. Ubah berkas ini lalu push — app membacanya langsung dari GitHub, tidak perlu rilis baru. Kolom \"topik\" pada Lab Maya = id materi, dipakai QR buku (?buka=lab&topik=...).",
   "lab": [
     {
       "id": "lab-juragan-junior",
@@ -22,6 +22,7 @@
     },
     {
       "id": "lab-lemari-buku",
+      "topik": "perkalian-pembagian",
       "judul": "Lemari Buku Siska",
       "desc": "Rapikan buku-buku yang berserakan ke dalam lemari bersama Bimo. Setiap kotak muat tepat 8 buku. Tebak, buktikan, lalu temukan sendiri pola kelipatan 8.",
       "ikon": "📚",
@@ -31,6 +32,7 @@
     },
     {
       "id": "lab-tepung-toples",
+      "topik": "konversi-satuan",
       "judul": "Tepung dan Toples Ibu",
       "desc": "Bantu Ibu menimbang dan membagi tepung bersama Bimo. Tuang karung ke timbangan, isi toples 200 g, lalu temukan sendiri hubungan kg dan gram.",
       "ikon": "🥣",
@@ -40,6 +42,7 @@
     },
     {
       "id": "lab-sudut-berpelurus",
+      "topik": "sudut",
       "judul": "Sudut Berpelurus",
       "desc": "Geser bendera C bersama Dito dan temukan sendiri bahwa dua sudut yang berpelurus selalu berjumlah 180°. Ikuti tutorialnya, lalu buktikan lewat 5 tantangan seru.",
       "ikon": "📐",
@@ -49,6 +52,7 @@
     },
     {
       "id": "lab-jarak-denah",
+      "topik": "satuan-panjang",
       "judul": "Petualangan Jarak di Kota Blok",
       "desc": "Pandu Anita menyusuri kota blok bersama Budi, pilih sendiri rutenya, lalu jumlahkan panjang tiap ruas jalan untuk menemukan jarak yang ditempuh. Ikuti ceritanya, selesaikan 4 perjalanan seru, lalu hitung total petualangannya.",
       "ikon": "🗺️",
@@ -58,6 +62,7 @@
     },
     {
       "id": "lab-tumpukan-kubus",
+      "topik": "visualisasi-bangun-ruang",
       "judul": "Menghitung Banyak Kubus Satuan",
       "desc": "Menentukan banyak kubus satuan penyusun suatu tumpukan, termasuk kubus yang tersembunyi di balik kubus lain. Putar model 3D, hitung per kolom dan per lapisan, lalu bangun tumpukan sendiri sebagai dasar konsep volume.",
       "ikon": "🧊",
@@ -67,6 +72,7 @@
     },
     {
       "id": "lab-menyusun-bangun-datar",
+      "topik": "bangun-datar",
       "judul": "Menyusun Bangun Datar Menjadi Segi Banyak",
       "desc": "Susun dan uraikan segi banyak (segi delapan, segi enam, segi lima, segitiga besar) dari persegi, persegi panjang, segitiga siku-siku, dan trapesium. Selidiki apakah suatu kumpulan kepingan mungkin atau tidak mungkin menutup sebuah bangun tanpa celah dan tanpa bertumpuk, dengan bernalar dari bentuk, sisi, dan luasnya.",
       "ikon": "📐",
@@ -76,6 +82,7 @@
     },
     {
       "id": "lab-kurir-paket",
+      "topik": "membaca-soal-cerita",
       "judul": "Pengurangan dan Pembagian dalam Soal Cerita",
       "desc": "Selesaikan soal cerita dua langkah bersama Bimo: kurangi dulu untuk mencari sisa, lalu bagi sisanya sama banyak untuk menemukan banyak kelompok. Melatih memilih informasi penting, memakai puluhan dan satuan, dan memeriksa jawaban dengan operasi hitung bilangan sampai 3 angka.",
       "ikon": "📦",
@@ -85,6 +92,7 @@
     },
     {
       "id": "lab-sudut",
+      "topik": "sudut",
       "judul": "Sudut: jenis sudut dan pengukuran dengan busur derajat",
       "desc": "Melatih anak mengenali jenis sudut (lancip, siku-siku, tumpul, lurus) dan mengukur besar sudut dengan busur derajat. Anak memutar garis sudut, memasang busur dan membaca skalanya, lalu menebak jenis sudut pada benda sehari-hari.",
       "ikon": "📐",
@@ -94,6 +102,7 @@
     },
     {
       "id": "lab-pecahan",
+      "topik": "operasi-pecahan",
       "judul": "Mengenal Pecahan",
       "desc": "Potong piza dan kue bersama Beni menjadi bagian yang sama besar. Kenali pembilang dan penyebut, baca dan tulis pecahan dari gambar, lalu bedakan bagian yang sama besar dan yang tidak.",
       "ikon": "🍕",
@@ -103,6 +112,7 @@
     },
     {
       "id": "lab-kotak-beras",
+      "topik": "penaksiran-ukuran",
       "judul": "Kotak Beras: Pecahan dan Volume",
       "desc": "Bantu Ibu mengisi kotak beras sampai pas bersama Beni. Tuang beras ke kotak, bandingkan bagiannya dengan pecahan, lalu temukan sendiri hubungan pecahan dan volume.",
       "ikon": "🍚",
